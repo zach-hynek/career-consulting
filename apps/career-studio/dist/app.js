@@ -213,7 +213,7 @@ async function exportWebsite() {
 $('#export-output').addEventListener('click',()=>{
   if(preview==='website')return exportWebsite();
   if(preview==='outreach')return download(fileName()+'-outreach.txt',state.drafts.outreach);
-  $('#print-root').innerHTML=preview==='resume'?renderResume({...state,layout:state.layout==='sidebar'?'classic':state.layout}):`<article class="letter-print">${escapeHTML(state.drafts.letter)}</article>`;
+  $('#print-root').innerHTML=preview==='resume'?renderResume(state):`<article class="letter-print">${escapeHTML(state.drafts.letter)}</article>`;
   document.title=fileName()+(preview==='resume'?'-resume':'-cover-letter');window.print();document.title='Your studio — Career Studio';
 });
 function downloadProfile(){download(fileName()+'-career-profile.json',JSON.stringify(state,null,2),'application/json');toast('Profile backup downloaded. Keep it somewhere private.');}
@@ -281,7 +281,7 @@ canvasEditor=mountResumeEditor({
   notify:toast,
   copyText:copy,
   exportPDF:()=>{
-    $('#print-root').innerHTML=renderResume({...state,layout:state.layout==='sidebar'?'classic':state.layout});
+    $('#print-root').innerHTML=renderResume(state);
     document.title=fileName()+'-resume';window.print();document.title='Your studio — Career Studio';
   }
 });

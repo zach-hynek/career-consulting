@@ -16,17 +16,19 @@ Intake supports PDF text extraction with vendored PDF.js, pasted notes, plain te
 
 The default builder route now opens a visual document editor. The canvas is editable text, not a read-only preview beside a form. A section outline and selection inspector share the same underlying profile. Users can drag sections and individual experience/education entries, rename or hide sections, change their column placement, and undo/redo edits.
 
-The optional `document` property adds ordered section keys, editable section titles, column placement, and hidden sections to existing version 1 profile exports. Old profiles migrate to default structure on read. Original text is preserved. Plain text and print outputs honor the structure and omit hidden sections.
+The Blocks panel adds jobs, education, projects, text, lists, skills, awards, certificates, headings, dividers, and space. Click or drag to insert, use precise between-block guides, and duplicate or hide without losing text. The Design panel applies consistent spacing, font, text size, heading, alignment, and column-width presets. Preview clears editing controls.
+
+The optional `document` property adds ordered section keys, editable section titles, column placement, hidden sections, stable custom blocks, and design presets to existing version 1 profile exports. Old profiles migrate to default structure on read. Original text is preserved. Plain text and print outputs honor the structure and omit hidden sections.
 
 Agent edits have two paths: copy/paste a contextual JSON proposal, or use the browser's live `get_resume_document` and `propose_resume_changes` tools. All proposed text goes through a field allowlist, length limits, a content revision check, exact-before comparison, and visible review. Agents stage changes; the user applies them. The same commit and undo path handles human and agent edits. No AI-provider backend or API key is involved.
 
-Direct verification covered inline editing, inspector-to-canvas sync, section drag, entry drag, undo, agent read/propose/apply, outdated proposal rejection, and a mobile inspection. Print pagination remains a native-dialog verification limitation.
+Direct verification covered inline editing, inspector-to-canvas sync, section drag, entry drag, undo, agent read/propose/apply, outdated proposal rejection, and a mobile inspection. The block-editor release additionally verified click insertion, library-to-canvas drag, custom-block reordering, inline/inspector synchronization, duplicate and undo, hide and restore, design presets, sidebar placement, agent proposals on a custom block, clean preview, and layouts at 390, 833, and 1440 px. Print pagination remains a native-dialog verification limitation.
 
 ## Original toolkit foundation
 
 1. Landing page: editorial introduction, template chooser, four writing principles, application tools, resume-archive commentary, source download, and copyable agent prompt.
 2. Guided builder: direction, introduction, experience, education, supporting evidence, and final review. Repeatable entries and experience reordering.
-3. Resume: essential single column, professional sidebar, and leadership emphasis. One shared profile; editable accent color and live preview. Printing always uses single-column reading order.
+3. Resume: essential single column, professional sidebar, and leadership emphasis. One shared profile; editable accent color and live preview. Printing preserves the selected layout and column placement.
 4. Application materials: deterministic cover-letter and outreach templates; users edit text directly. Explicit regeneration protects manual work, and stale drafts are flagged.
 5. Personal website: preview and self-contained HTML export with no JavaScript dependencies.
 6. Portability: local autosave, JSON profile import/export, plain text, print-to-PDF, editable site content JSON, source ZIP, MIT license, and AI interview/build prompts.
@@ -65,7 +67,7 @@ Load the landing page and use the actual builder once. Check desktop/mobile comp
 
 1. Owner content: verified website examples, authentic application tips, and approved anonymized before/after writing examples.
 2. Portfolio integration: adopt the personal site's typography/navigation, deploy under the selected Vercel project, and preserve existing DNS/email records.
-3. Optional variants: multiple saved application profiles and user-defined sections. Add migration logic before changing the profile schema.
+3. Optional variants: multiple saved application profiles and propagation of custom blocks into the older application-material generators. Add migration logic before changing the profile schema.
 4. Optional AI: first define what it improves over copy/paste prompts; use a server-side provider integration, clear user consent, rate limits, and cost controls. Preserve truthful drafting and explicit human review.
 5. Optional collaboration/CMS: only introduce authentication and cloud persistence if users need cross-device or shared editing.
 

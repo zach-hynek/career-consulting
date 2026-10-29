@@ -24,6 +24,9 @@ Selecting a template opens `/#/start/<template>` with three paths: an existing r
 
 Open `/#/builder`. The resume itself is now the default editing surface.
 
+- Open **Blocks** to add a job, education, project, text, bullets, skills, awards, certificates, heading, divider, or adjustable space. Click a card to insert after the selection, use a between-block **+** to choose a precise position, or drag its dotted handle onto a drop guide.
+- Use **Design** for spacing, typeface, text size, heading style, header alignment, and sidebar width. **Preview** clears the editing controls.
+- Duplicate a block or entry, hide it while preserving its content, or restore it from **Outline**.
 - Click any text on the page to type directly. Click a section or experience to show its linked inspector.
 - Drag dotted handles to move entire sections, experience entries, or education entries. The outline offers the same section moves; arrow buttons and Alt + Arrow keys provide alternatives to dragging.
 - Switch templates, move sections between the main column and sidebar, rename headings, or hide sections without losing their text.
@@ -45,6 +48,8 @@ Read [the agent editing contract](docs/editor-agent.md) for the tool and proposa
 - A landing-page copy editor that previews locally and exports `content.json`.
 - A source archive, MIT license, and agent-ready build plan.
 
+Custom blocks live in `document.blocks` and are included in the resume canvas, preview, print output, plain-text export, saved profile, and agent context. The earlier cover-letter, outreach, and personal-site generators still use the core `profile` fields; they do not automatically incorporate custom blocks.
+
 Profile edits update the preview immediately. Letter and email drafts only regenerate on request, preserving manual edits; a notice appears if answers change afterward. The job description is included in the copied application prompt, but is not automatically analyzed by the local draft builder.
 
 ## Edit the website
@@ -54,7 +59,8 @@ Profile edits update the preview immediately. Letter and email drafts only regen
 - `dist/styles.css`: design, responsive behavior, and print formatting.
 - `dist/app.js`: shared profile, guided questions, deterministic drafts, exports, and local storage.
 - `dist/resume-editor.js`: document model/rendering, inline editing, inspector, undo/redo, drag/drop, and validated agent proposals.
-- `dist/resume-editor.css`: visual editor layout, editing states, responsive controls, and print refinements.
+- `dist/resume-editor.css`: original editor controls and states.
+- `dist/block-editor.css`: block library, insertion guides, design presets, responsive workspace, and print refinements.
 - `dist/template-flow.js` and `dist/template-flow.css`: finished template examples, search, zoomable previews, intake, PDF text extraction, and assistant handoff.
 - `dist/vendor/pdfjs/`: PDF.js 4.10.38 browser library and worker, distributed under its included Apache 2.0 license.
 
@@ -84,7 +90,7 @@ The editor’s optional Alex Morgan sample is fictional. Template previews use s
 
 ## PDF behavior
 
-Use the browser's Print / Save as PDF, select US Letter, and disable browser headers and footers. Printed resumes use one column in the chosen section order, including when the on-screen layout uses a sidebar. Hidden sections and blank placeholders are omitted. Content flows across pages instead of shrinking to fit or cutting off. There is no universal automated-screening guarantee. Follow the target application's file-format requirements.
+Use the browser's Print / Save as PDF, select US Letter, and disable browser headers and footers. Printed resumes preserve the chosen template, column placement, block order, and design settings. Select The Essential for a single column. Hidden sections and blank placeholders are omitted. Content flows across pages instead of shrinking to fit or cutting off. There is no universal automated-screening guarantee. Follow the target application's file-format requirements.
 
 ## Reference and scope
 
