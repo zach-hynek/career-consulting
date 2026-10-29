@@ -6,6 +6,12 @@ Give people a free, practical place to explain their experience and prepare a co
 
 The career toolkit can stand alone or become a `/career` section linked from Zach's personal portfolio. Its focus is helping visitors create their own materials. Existing personal-website interview records remain separate source material for the recruiter-facing portfolio.
 
+## Template selection and intake
+
+The homepage leads with finished resume examples and three steps: choose a template, bring experience, and refine the result. A dedicated template directory supports search and category filtering. Previews use the actual document renderer with selected author experience, plus a zoomable, scrollable dialog. Selection opens an intake page and preserves the visitor's profile.
+
+Intake supports PDF text extraction with vendored PDF.js, pasted notes, plain text, and profile JSON. Text-based PDFs up to 20 pages and uploads up to 10 MB are supported; scans need pasted text. Raw text feeds a ready-made assistant prompt rather than an undocumented heuristic parser. ChatGPT and Claude links copy the contextual prompt and open the chosen assistant; they do not establish a direct provider integration. The returned profile JSON is normalized and previewed before the user applies it. Guided questions and direct canvas editing are alternatives.
+
 ## Current focus: editing the resume itself
 
 The default builder route now opens a visual document editor. The canvas is editable text, not a read-only preview beside a form. A section outline and selection inspector share the same underlying profile. Users can drag sections and individual experience/education entries, rename or hide sections, change their column placement, and undo/redo edits.

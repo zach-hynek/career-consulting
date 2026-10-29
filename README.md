@@ -8,7 +8,7 @@ Start with the experience you already have. Make your contribution clear, suppor
 
 | Need | Use |
 | --- | --- |
-| Write and arrange a resume | [Career Studio](apps/career-studio): click-to-edit resume canvas, drag-and-drop sections and entries, templates, undo/redo, and agent proposals |
+| Write and arrange a resume | [Career Studio](apps/career-studio): finished templates with zoomable previews, resume upload and guided intake, click-to-edit canvas, drag-and-drop sections and entries, and agent proposals |
 | Work through your experience with an assistant | [Resume review skill](skills/career-resume-review/SKILL.md) |
 | Tailor an application using confirmed facts | [Application prompt](prompts/tailor-application.md) |
 | Draft a cover letter | [Cover-letter prompt](prompts/cover-letter.md) |

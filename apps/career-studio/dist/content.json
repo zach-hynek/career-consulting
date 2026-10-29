@@ -1,12 +1,26 @@
 {
   "author": "Zach Hynek",
-  "headline": ["Your experience.", "Your story.", "Your next chapter."],
-  "intro": "You’ve done the work. Let’s help you put it into words. A free, thoughtful toolkit for resumes, applications, and whatever comes next.",
+  "headline": [
+    "Land your next job using proven resume templates you can steal and design in minutes."
+  ],
+  "intro": "Pick a resume that works for you, upload or enter your information, and have a perfectly well-designed resume in minutes.",
   "principles": [
-    {"title": "Give the reader a direction.", "body": "Choose a role, team, or program before you choose your words. Use your introduction to connect the experience you have to the work you want to do."},
-    {"title": "Put evidence next to the claim.", "body": "What did you improve, build, sell, or help someone achieve? Add a result and its context. If you don’t have a number, describe an observable change. Never invent one."},
-    {"title": "Make your contribution clear.", "body": "Separate what the organization did from what you did. Say whether you led, supported, built, or collaborated. Give the team credit while making your role easy to see."},
-    {"title": "Tailor the emphasis. Keep the facts.", "body": "A sales role and a graduate program need different evidence. Reorder the story for the reader, then check your dates, titles, numbers, and spelling before you send it."}
+    {
+      "title": "Give the reader a direction.",
+      "body": "Choose a role, team, or program before you choose your words. Use your introduction to connect the experience you have to the work you want to do."
+    },
+    {
+      "title": "Put evidence next to the claim.",
+      "body": "What did you improve, build, sell, or help someone achieve? Add a result and its context. If you don’t have a number, describe an observable change. Never invent one."
+    },
+    {
+      "title": "Make your contribution clear.",
+      "body": "Separate what the organization did from what you did. Say whether you led, supported, built, or collaborated. Give the team credit while making your role easy to see."
+    },
+    {
+      "title": "Tailor the emphasis. Keep the facts.",
+      "body": "A sales role and a graduate program need different evidence. Reorder the story for the reader, then check your dates, titles, numbers, and spelling before you send it."
+    }
   ],
   "websites": []
 }

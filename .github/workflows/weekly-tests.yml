@@ -24,6 +24,7 @@ jobs:
         run: |
           node --input-type=module --check < apps/career-studio/dist/app.js
           node --input-type=module --check < apps/career-studio/dist/resume-editor.js
+          node --input-type=module --check < apps/career-studio/dist/template-flow.js
       - name: Compile source packaging script
         run: python -m py_compile apps/career-studio/scripts/package_source.py
       - name: Parse app configuration

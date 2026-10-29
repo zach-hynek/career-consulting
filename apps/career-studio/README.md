@@ -12,6 +12,14 @@ python3 -m http.server 4173 --directory dist
 
 Open http://localhost:4173. Use a local HTTP server rather than opening `index.html` directly; the site loads its editable content and export assets with `fetch`.
 
+## Template-first web experience
+
+The homepage starts with finished resume examples, a three-step explanation, and template selection. `/#/templates` provides searchable, filterable templates. Previews open in a dialog with zoom, fit-to-screen, and a scrollable document. They use the same renderer as the editor, with selected, shortened experience from Zach's supplied resume; choosing a template never copies those example facts into a visitor's profile.
+
+Selecting a template opens `/#/start/<template>` with three paths: an existing resume, guided questions, or direct editing. Upload a PDF, TXT, Markdown file, or Career Studio JSON profile. PDF.js extracts text from text-based PDFs for review; scanned PDFs and Word files need pasted text. Uploads accept up to 10 MB and PDFs up to 20 pages. Source text is session-only reference material until organized into a profile.
+
+**Organize my information** creates a contextual prompt with the selected template, supplied text, and exact profile JSON schema. Copy it or copy-and-open ChatGPT/Claude, then paste the assistant's JSON back into the site for a resume preview before applying it. The site does not automatically infer structured experience from raw text or call a model provider. JSON profile uploads use the same review step. Guided questions and direct editing work without an external assistant.
+
 ## Visual resume editor
 
 Open `/#/builder`. The resume itself is now the default editing surface.
@@ -47,6 +55,8 @@ Profile edits update the preview immediately. Letter and email drafts only regen
 - `dist/app.js`: shared profile, guided questions, deterministic drafts, exports, and local storage.
 - `dist/resume-editor.js`: document model/rendering, inline editing, inspector, undo/redo, drag/drop, and validated agent proposals.
 - `dist/resume-editor.css`: visual editor layout, editing states, responsive controls, and print refinements.
+- `dist/template-flow.js` and `dist/template-flow.css`: finished template examples, search, zoomable previews, intake, PDF text extraction, and assistant handoff.
+- `dist/vendor/pdfjs/`: PDF.js 4.10.38 browser library and worker, distributed under its included Apache 2.0 license.
 
 The **Edit site copy** button changes the current browser's preview. Download the resulting `content.json`, replace `dist/content.json`, and deploy to make those changes visible to everyone. This editor is not a hosted CMS or an authenticated administrator interface. A browser-local override takes precedence over the deployed JSON for that browser.
 
@@ -68,9 +78,9 @@ This creates `dist/career-studio-source.zip` from an explicit source allowlist a
 
 ## Privacy and data
 
-Personal data lives in localStorage on the current browser and origin. No profile is uploaded or sent to an AI provider. Anyone with access to the same browser profile can access it. Export backups to move between devices; private browsing, clearing site data, and storage restrictions may remove or prevent local saves. Exported profile JSON, PDFs, text, prompts, and HTML contain the data the user chooses to include. Import only Career Studio profile JSON, up to 1 MB. The app has no PDF parsing feature.
+Personal data lives in localStorage on the current browser and origin. No profile is uploaded or sent to an AI provider. Anyone with access to the same browser profile can access it. Export backups to move between devices; private browsing, clearing site data, and storage restrictions may remove or prevent local saves. Exported profile JSON, PDFs, text, prompts, and HTML contain the data the user chooses to include. Import only Career Studio profile JSON, up to 1 MB. PDF text extraction runs in the browser; image-only scans require pasted text. There is no OCR.
 
-Sample content is fictional and labeled. The original resume PDFs, personal phone/email details, and disputed claims are not distributed. Documentary examples explain structure, not interview or admission guarantees. User-supplied text is escaped in previews and exports; website links accept only HTTP(S), and exported websites do not execute scripts.
+The editor’s optional Alex Morgan sample is fictional. Template previews use selected, shortened experience from Zach’s supplied resume, with private contact details and disputed numerical claims omitted. The original resume PDFs are not distributed. Documentary examples explain structure, not interview or admission guarantees. User-supplied text is escaped in previews and exports; website links accept only HTTP(S), and exported websites do not execute scripts.
 
 ## PDF behavior
 
@@ -88,4 +98,4 @@ Follow Zach's weekly review policy: no new automated tests or routine suite runs
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). Vendored PDF.js retains its [Apache 2.0 license](dist/vendor/pdfjs/LICENSE).

@@ -1,4 +1,5 @@
 import { normalizeDocument, renderResume, resumePlainText, mountResumeEditor } from './resume-editor.js';
+import { mountTemplateFlow } from './template-flow.js';
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -14,6 +15,7 @@ const freshState = () => ({schemaVersion:1, profile:blankProfile(), layout:'clas
 let state = freshState();
 let preview = 'resume';
 let canvasEditor;
+let templateFlow;
 let documentMode = true;
 let saveFailed = false;
 let storedInvalid = false;
@@ -157,9 +159,10 @@ function renderPreview() {
 function setStep(step) {state.step=Math.max(0,Math.min(5,step));save();renderEditor();if(matchMedia('(max-width:680px)').matches) $('.editor-panel').scrollIntoView({behavior:'smooth',block:'start'});}
 function setPreview(type) {preview=type;renderPreview();}
 function route() {
+  if(templateFlow?.route())return;
   const builder=location.hash.startsWith('#/builder');
   $('#home-view').hidden=builder;$('#builder-view').hidden=!builder;document.body.classList.toggle('editing-resume',builder);
-  if(builder){const requestedPreview=location.hash.split('/')[2];if(['resume','letter','outreach','website'].includes(requestedPreview)){preview=requestedPreview;documentMode=requestedPreview==='resume';}else{documentMode=true;}renderEditor();renderPreview();setEditorMode(documentMode);canvasEditor?.render();window.scrollTo({top:0});document.title='Your studio — Career Studio';}
+  if(builder){const requestedPreview=location.hash.split('/')[2];if(['resume','letter','outreach','website'].includes(requestedPreview)){preview=requestedPreview;documentMode=requestedPreview==='resume';}else{documentMode=requestedPreview!=='interview';}renderEditor();renderPreview();setEditorMode(documentMode);canvasEditor?.render();window.scrollTo({top:0});document.title='Your studio — Career Studio';}
   else {document.title='Career Studio — by '+siteContent.author;const anchor=location.hash.slice(1);if(anchor&&anchor!=='/')requestAnimationFrame(()=>document.getElementById(anchor)?.scrollIntoView());else window.scrollTo({top:0});}
 }
 const example = {name:'Alex Morgan',headline:'Product & operations leader',email:'alex@example.com',phone:'',location:'Chicago, IL',website:'https://example.com',linkedin:'',summary:'I build systems that make complex work feel simple. My experience connects customer research, product operations, and hands-on team leadership.',targetRole:'Product Operations Lead',organization:'Northline',recipient:'Sam',motivation:'I’m drawn to your focus on making useful tools easier for people to adopt.',jobDescription:'Lead product operations, improve onboarding, and connect customer insight to product decisions.',proof:'I led a team of six to redesign onboarding, reducing time to first value from 14 days to 8.',skills:'Customer research\nProduct strategy\nTeam leadership\nOperations\nProcess design',extras:'Community mentor — help early-career professionals prepare for interviews.\nThe onboarding playbook — built a shared resource for six teams.',jobs:[{title:'Product Operations Lead',company:'Northline',dates:'2022 – Present',context:'A fictional company building tools for growing teams.',bullets:'Led a team of six to redesign the customer onboarding experience.\nReduced time to first value from 14 days to 8 by simplifying setup and training.\nBuilt a shared playbook that made customer feedback visible to product and support teams.'},{title:'Customer Success Manager',company:'Fieldwork',dates:'2019 – 2022',context:'',bullets:'Turned recurring customer feedback into a prioritized product roadmap.\nCreated a monthly customer workshop to share practical ways to use the product.'}],education:[{school:'State University',degree:'B.A. Communications',dates:'2018',details:''}]};
@@ -225,14 +228,15 @@ $('#import-file').addEventListener('change',async e=>{
 });
 $$('[data-template]').forEach(button=>button.addEventListener('click',()=>{state.layout=button.dataset.template;save();location.hash='/builder';toast('Layout selected. Your profile stays with you.');}));
 $('#copy-build-prompt').addEventListener('click',async()=>{try{const r=await fetch('agent-prompt.md');if(!r.ok)throw new Error();copy(await r.text());}catch{toast('Could not load the prompt. Please try again.');}});
-let siteContent={author:'Zach Hynek',headline:['Your experience.','Your story.','Your next chapter.'],intro:$('#hero-description').textContent,principles:[],websites:[]};
+let siteContent={author:'Zach Hynek',headline:[$('#hero-title').textContent],intro:$('#hero-description').textContent,principles:[],websites:[]};
 function normalizeContent(raw) {
   if(!raw||typeof raw.author!=='string'||!Array.isArray(raw.headline)||!raw.headline.length||raw.headline.some(v=>typeof v!=='string')||typeof raw.intro!=='string'||!Array.isArray(raw.principles))throw new Error('Invalid site content.');
+  if(raw.headline.join(' ')==='Your experience. Your story. Your next chapter.')raw={...raw,headline:['Land your next job using proven resume templates you can steal and design in minutes.'],intro:'Pick a resume that works for you, upload or enter your information, and have a perfectly well-designed resume in minutes.'};
   return {author:raw.author.slice(0,100),headline:raw.headline.slice(0,5).map(s=>s.slice(0,200)),intro:raw.intro.slice(0,700),principles:raw.principles.slice(0,8).filter(p=>p&&typeof p.title==='string'&&typeof p.body==='string').map(p=>({title:p.title.slice(0,100),body:p.body.slice(0,700)})),websites:(Array.isArray(raw.websites)?raw.websites:[]).filter(w=>w&&typeof w.title==='string'&&safeURL(w.url)).slice(0,12).map(w=>({title:w.title.slice(0,120),url:safeURL(w.url)}))};
 }
 function renderContent() {
   $('#brand-byline').textContent='by '+siteContent.author;
-  $('#hero-title').innerHTML=siteContent.headline.map((s,i)=>i===siteContent.headline.length-1?`<em>${escapeHTML(s)}</em>`:escapeHTML(s)).join('<br>');
+  $('#hero-title').textContent=siteContent.headline.join(' ');
   $('#hero-description').textContent=siteContent.intro;
   $('#guide-list').innerHTML=siteContent.principles.map((p,i)=>`<article class="guide-item"><span>${String(i+1).padStart(2,'0')}</span><div><h3>${escapeHTML(p.title)}</h3><p>${escapeHTML(p.body)}</p></div></article>`).join('');
   $('#website-examples').innerHTML=siteContent.websites.map(w=>`<a href="${escapeHTML(w.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(w.title)} ↗</a>`).join('');
@@ -282,5 +286,10 @@ canvasEditor=mountResumeEditor({
   }
 });
 
+templateFlow=mountTemplateFlow({getState:()=>state,normalizeState,freshState,notify:toast,copyText:copy,
+  setLayout:(layout,accent)=>{state.layout=layout;state.accent=accent;save();canvasEditor?.resetHistory();},
+  startEditor:interview=>{if(interview){state.step=0;save();}location.hash=interview?'/builder/interview':'/builder/resume';},
+  applyProfile:next=>{if(hasProfile()&&!confirm('Replace the current resume with this information? Export a profile backup first if you want to keep it.'))return false;state=normalizeState(next);save();canvasEditor?.resetHistory();renderEditor();renderPreview();return true;}
+});
 window.addEventListener('hashchange',route);
 initialize();

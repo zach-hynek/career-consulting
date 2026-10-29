@@ -16,7 +16,8 @@ files = [
     'README.md', 'LICENSE', 'vercel.json', '.gitignore',
     'docs/build-plan.md', 'docs/agent-prompt.md', 'docs/editor-agent.md', 'scripts/package_source.py',
     'dist/index.html', 'dist/styles.css', 'dist/app.js', 'dist/content.json',
-    'dist/resume-editor.js', 'dist/resume-editor.css',
+    'dist/resume-editor.js', 'dist/resume-editor.css', 'dist/template-flow.js', 'dist/template-flow.css',
+    'dist/vendor/pdfjs/pdf.mjs', 'dist/vendor/pdfjs/pdf.worker.mjs', 'dist/vendor/pdfjs/LICENSE',
     'dist/favicon.svg', 'dist/LICENSE', 'dist/build-plan.md', 'dist/agent-prompt.md', 'dist/editor-agent.md',
 ]
 archive = root / 'dist/career-studio-source.zip'
