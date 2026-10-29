@@ -1,0 +1,34 @@
+name: Weekly source checks
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  source-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      # No test suite exists yet. Add future suite commands here, not on push/PR.
+      - name: Check JavaScript syntax
+        run: |
+          node --input-type=module --check < apps/career-studio/dist/app.js
+          node --input-type=module --check < apps/career-studio/dist/resume-editor.js
+      - name: Compile source packaging script
+        run: python -m py_compile apps/career-studio/scripts/package_source.py
+      - name: Parse app configuration
+        run: |
+          python -m json.tool apps/career-studio/dist/content.json > /dev/null
+          python -m json.tool apps/career-studio/vercel.json > /dev/null
+      - name: Package reusable source
+        run: python apps/career-studio/scripts/package_source.py
