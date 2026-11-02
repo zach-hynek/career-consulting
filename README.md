@@ -8,6 +8,7 @@ Start with the experience you already have. Make your contribution clear, suppor
 
 | Need | Use |
 | --- | --- |
+| Start from an existing resume or LinkedIn profile | [Standard intake workflow](docs/resume-first-workflow.md) and [fresh-session prompt](prompts/resume-first-session.md) |
 | Write and arrange a resume | [Career Studio](apps/career-studio): finished templates with zoomable previews, resume upload and guided intake, click-to-edit canvas, drag-and-drop sections and entries, and agent proposals |
 | Work through your experience with an assistant | [Resume review skill](skills/career-resume-review/SKILL.md) |
 | Tailor an application using confirmed facts | [Application prompt](prompts/tailor-application.md) |

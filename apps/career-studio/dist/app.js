@@ -1,5 +1,7 @@
+import {blankJob,blankEducation,blankProfile,freshState,normalizeState} from './profile-model.js';
 import { normalizeDocument, renderResume, resumePlainText, mountResumeEditor } from './resume-editor.js';
 import { mountTemplateFlow } from './template-flow.js';
+import { mountPortfolio } from './portfolio.js';
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -8,46 +10,15 @@ const safeURL = value => { try { const url = new URL(value); return ['https:', '
 const profileKey = 'career-studio.profile.v1';
 const contentKey = 'career-studio.content.v1';
 const steps = ['Direction', 'Introduction', 'Experience', 'Education', 'Beyond work', 'Make it yours'];
-const blankJob = () => ({title:'', company:'', dates:'', context:'', bullets:''});
-const blankEducation = () => ({school:'', degree:'', dates:'', details:''});
-const blankProfile = () => ({name:'', headline:'', email:'', phone:'', location:'', website:'', linkedin:'', summary:'', targetRole:'', organization:'', recipient:'', motivation:'', jobDescription:'', proof:'', skills:'', extras:'', jobs:[blankJob()], education:[blankEducation()]});
-const freshState = () => ({schemaVersion:1, profile:blankProfile(), layout:'classic', accent:'#345b49', step:0, sample:false, document:normalizeDocument(), drafts:{letter:'',outreach:'',letterBasis:'',outreachBasis:''}});
 let state = freshState();
 let preview = 'resume';
 let canvasEditor;
+let portfolio;
 let templateFlow;
 let documentMode = true;
 let saveFailed = false;
 let storedInvalid = false;
 let toastTimer;
-function normalizeState(data) {
-  if (!data || data.schemaVersion !== 1 || !data.profile || typeof data.profile !== 'object') throw new Error('Choose a Career Studio profile exported by this version.');
-  const clean = freshState();
-  for (const key of Object.keys(clean.profile)) {
-    if (['jobs','education'].includes(key)) continue;
-    if (data.profile[key] !== undefined && typeof data.profile[key] !== 'string') throw new Error('A profile field has an unsupported value.');
-    clean.profile[key] = (data.profile[key] || '').slice(0, 15000);
-  }
-  for (const [key, factory] of [['jobs',blankJob],['education',blankEducation]]) {
-    if (!Array.isArray(data.profile[key]) || data.profile[key].length > 40) throw new Error('The profile must contain no more than 40 experience or education entries.');
-    clean.profile[key] = data.profile[key].map(item => {
-      if (!item || typeof item !== 'object') throw new Error('One of the profile entries is invalid.');
-      const result = factory();
-      for (const field of Object.keys(result)) {
-        if (item[field] !== undefined && typeof item[field] !== 'string') throw new Error('An entry contains an unsupported value.');
-        result[field] = (item[field] || '').slice(0,15000);
-      }
-      return result;
-    });
-  }
-  clean.layout = ['classic','sidebar','leadership'].includes(data.layout) ? data.layout : 'classic';
-  clean.accent = /^#[0-9a-f]{6}$/i.test(data.accent || '') ? data.accent : clean.accent;
-  clean.step = Number.isInteger(data.step) ? Math.max(0,Math.min(5,data.step)) : 0;
-  clean.sample = data.sample === true;
-  clean.document = normalizeDocument(data.document);
-  for (const key of Object.keys(clean.drafts)) clean.drafts[key] = typeof data.drafts?.[key] === 'string' ? data.drafts[key].slice(0,100000) : '';
-  return clean;
-}
 try { const saved = localStorage.getItem(profileKey); if(saved) state = normalizeState(JSON.parse(saved)); } catch { storedInvalid = true; }
 function save() {
   try { localStorage.setItem(profileKey,JSON.stringify(state)); saveFailed=false; storedInvalid=false; }
@@ -264,6 +235,8 @@ $$('a[href="#/"]').forEach(link=>link.addEventListener('click',()=>{if(location.
 $('.skip-link').addEventListener('click',event=>{event.preventDefault();$('#main').focus();$('#main').scrollIntoView();});
 
 function setEditorMode(isDocument) {
+  $('#portfolio-workspace').hidden=true;
+  $('#portfolio-mode').setAttribute('aria-pressed','false');
   documentMode = isDocument;
   $('#resume-workbench').hidden = !isDocument;
   $('#guided-workspace').hidden = isDocument;
@@ -277,6 +250,7 @@ $('#canvas-example').addEventListener('click',loadExample);
 $('#canvas-blank').addEventListener('click',startBlank);
 canvasEditor=mountResumeEditor({
   getState:()=>state,
+  getPortfolio:()=>portfolio?.context()||null,
   onChange:next=>{state=normalizeState(next);save();},
   notify:toast,
   copyText:copy,
@@ -285,6 +259,12 @@ canvasEditor=mountResumeEditor({
     document.title=fileName()+'-resume';window.print();document.title='Your studio — Career Studio';
   }
 });
+
+portfolio=mountPortfolio({getState:()=>state,normalizeState,getAgentContext:()=>canvasEditor.agentContext(),
+  stageProposal:proposal=>{setEditorMode(true);canvasEditor.stageProposal(proposal);},
+  restoreVersion:next=>{canvasEditor.restoreSnapshot(normalizeState(next));renderEditor();renderPreview();},
+  notify:toast,copyText:copy,download});
+$('#portfolio-mode').addEventListener('click',()=>{documentMode=false;$('#resume-workbench').hidden=true;$('#guided-workspace').hidden=true;$('#portfolio-workspace').hidden=false;$('#document-mode').setAttribute('aria-pressed','false');$('#questions-mode').setAttribute('aria-pressed','false');$('#portfolio-mode').setAttribute('aria-pressed','true');portfolio.open();});
 
 templateFlow=mountTemplateFlow({getState:()=>state,normalizeState,freshState,notify:toast,copyText:copy,
   setLayout:(layout,accent)=>{state.layout=layout;state.accent=accent;save();canvasEditor?.resetHistory();},

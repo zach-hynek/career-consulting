@@ -37,6 +37,18 @@ Open `/#/builder`. The resume itself is now the default editing surface.
 
 Read [the agent editing contract](docs/editor-agent.md) for the tool and proposal format.
 
+## Master evidence portfolio and voice-to-text workflow
+
+In the builder, choose **Evidence portfolio**. Keep a larger library of contributions separate from the current application resume. Facts record an organization/project, exact claim, dates, themes, provenance and draft/confirmed/retired status. Capturing an existing resume creates drafts; it does not establish their truth. Confirm a fact only after checking your personal contribution and its supporting context.
+
+Use device dictation in the search/interview fields, or dictate into your assistant chat. The page does not record audio, transcribe speech or call a model. **Copy my interview & search brief** prepares a private handoff for an assistant to clarify constraints, research current employers and ask follow-up questions. The separate Employer Atlas has a reviewed search brief for its historical company directory; it does not search live vacancies itself.
+
+Paste a role's description under **Tailor this application**. Local recommendations show shared words with confirmed facts and identify resume statements without an exact wording match. These are review aids, not semantic fact-checking or qualification scores. The full assistant-review handoff includes the current document, revision, all portfolio facts and interview notes so the assistant can check attribution, dates, quantities and missing evidence. Draft/retired facts remain questions, not proposed claims.
+
+Select confirmed facts and preview them in the existing before/after proposal panel. Adding to an experience requires the fact's organization to match that employer; the projects destination prefixes organization names. Applying remains an explicit user action. For removal, rewording or more complex tailoring, use the existing agent proposal workflow.
+
+Save up to 20 named application snapshots independently of up to 500 facts. Restoring a version first saves the current resume and preserves the master library. Export a **portfolio** backup to retain facts, notes and versions; **Save profile** exports only the current application. Portfolio imports validate and preview an additive merge, preserve existing IDs and nonempty notes, and never replace the live resume automatically. The library uses browser-local storage under `career-studio.portfolio.v1`; it does not sync across devices or origins. Copied prompts and exports contain private data. Nothing is transmitted automatically.
+
 ## What works
 
 - Six-step guided profile editor with repeatable experience and education entries.
@@ -62,6 +74,7 @@ Profile edits update the preview immediately. Letter and email drafts only regen
 - `dist/resume-editor.css`: original editor controls and states.
 - `dist/block-editor.css`: block library, insertion guides, design presets, responsive workspace, and print refinements.
 - `dist/template-flow.js` and `dist/template-flow.css`: finished template examples, search, zoomable previews, intake, PDF text extraction, and assistant handoff.
+- `dist/portfolio.js` and `dist/portfolio.css`: private master facts, interview notes, job-description comparison, reviewed resume additions and application snapshots.
 - `dist/vendor/pdfjs/`: PDF.js 4.10.38 browser library and worker, distributed under its included Apache 2.0 license.
 
 The **Edit site copy** button changes the current browser's preview. Download the resulting `content.json`, replace `dist/content.json`, and deploy to make those changes visible to everyone. This editor is not a hosted CMS or an authenticated administrator interface. A browser-local override takes precedence over the deployed JSON for that browser.
@@ -105,3 +118,7 @@ Follow Zach's weekly review policy: no new automated tests or routine suite runs
 ## License
 
 MIT. See [LICENSE](LICENSE). Vendored PDF.js retains its [Apache 2.0 license](dist/vendor/pdfjs/LICENSE).
+
+## Job Board application tailoring
+
+The Job Board's Application Studio now reuses `profile-model.js` and `resume-editor.js` for structured resumes. Its locked-template review surface, source-linked facts and per-field suggestions are documented in [Tailoring Studio](../job-board/docs/tailoring-studio.md). Job Board and Career Studio keep their own private storage; an editable profile JSON export transfers a resume explicitly. This is not automatic cross-origin synchronization.

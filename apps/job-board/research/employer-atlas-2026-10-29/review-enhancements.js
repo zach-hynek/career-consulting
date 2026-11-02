@@ -76,7 +76,7 @@ function enhancedCard(e) {
   const foot = el('div', undefined, 'footer'), button = el('button', 'Read the dossier ↗');
   button.setAttribute('aria-label', 'Open ' + e.displayName + ' dossier'); button.onclick = () => openDetail(e);
   foot.append(el('span', decisionFor(e.id) === 'unreviewed' ? 'Checked ' + DB.asOf : 'Your call: ' + decisionFor(e.id)), button);
-  c.append(head, tags, el('p', e.thesis, 'thesis'), receipts, compactScore(e), foot);
+  c.append(head, tags, el('p', e.thesis, 'thesis'));const searchMatch=briefMatch(e);if(appliedBrief)c.append(el('div','Search interests: '+(searchMatch.matched.join(', ')||'No interest restriction')+(appliedBrief.remote&&searchMatch.remote?' · documented remote option; confirm role':''),'brief-match'));c.append(receipts, compactScore(e), foot);
   return c;
 }
 function evidenceFor(e, id) {

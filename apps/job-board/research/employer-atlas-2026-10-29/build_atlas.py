@@ -179,7 +179,7 @@ template = (ROOT / "review-template.html").read_text()
 html = template.replace("__ATLAS_DATA__", embedded(data)).replace("__RESEARCH_BRIEF__", embedded((ROOT / "README.md").read_text()))
 html = html.replace("__SCORE_RUBRIC__", embedded(json.loads((ROOT / "scoring-rubric.json").read_text())))
 html = html.replace("__COMPANY_LOGOS__", embedded(json.loads((ROOT / "logos.json").read_text())))
-for marker, filename in [("__SCORE_ENGINE__", "score-engine.js"), ("__REVIEW_ENHANCEMENTS__", "review-enhancements.js"), ("__ENHANCEMENT_CSS__", "atlas-enhancements.css")]:
+for marker, filename in [("__SCORE_ENGINE__", "score-engine.js"), ("__REVIEW_ENHANCEMENTS__", "review-enhancements.js"), ("__DISCOVERY_BRIEF__", "discovery-brief.js"), ("__ENHANCEMENT_CSS__", "atlas-enhancements.css")]:
     html = html.replace(marker, (ROOT / filename).read_text())
 (ROOT / "employer-atlas.html").write_text(html)
 
@@ -188,7 +188,7 @@ files = ["README.md", "employer-atlas.html", "atlas-data.json", "sources.json", 
          "evidence.csv", "workforce-events.csv", "capital-and-business.csv", "workplace-policies.csv",
          "salary-examples.csv", "metro-price-levels.csv", "career-links.json", "candidates.json",
          "verification.md", "build_atlas.py", "review-template.html", "scoring-rubric.json",
-         "score-engine.js", "review-enhancements.js", "atlas-enhancements.css", "logos.json", "fetch_logos.py"]
+         "score-engine.js", "review-enhancements.js", "discovery-brief.js", "atlas-enhancements.css", "logos.json", "fetch_logos.py"]
 with zipfile.ZipFile(ROOT / "zachs-employer-atlas-2026-10-29.zip", "w", zipfile.ZIP_DEFLATED) as bundle:
     for name in files:
         bundle.write(ROOT / name, arcname="employer-atlas/" + name)

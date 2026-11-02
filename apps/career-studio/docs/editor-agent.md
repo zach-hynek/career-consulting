@@ -48,6 +48,14 @@ Indices are zero-based. Read fresh state before proposing index-based edits. A c
 
 The agent interface does not execute code, send applications, publish websites, or silently apply changes. Browser-agent support is feature-detected; the copy/paste workflow remains usable in other browsers.
 
+## Evidence portfolio context
+
+`get_resume_document` and copied editor context also include `evidencePortfolio`: schema version, full facts with provenance/status, search narrative, interview notes and the separately drafted target job description. This is private reference material from the same browser. Reading the context does not change the resume. Portfolio facts are not included in the document revision fingerprint; read fresh context before making recommendations if the library changed.
+
+Use confirmed facts for proposed wording, checking attribution and limitations. Confirmation is self-reported, not external verification. Draft and retired facts are follow-up questions. Never infer personal accomplishments from employer achievements or turn approximate quantities into exact metrics. If the user dictates a career update, clarify their own contribution, period, scope and observable outcome, then show wording for confirmation before using it. Ask one useful follow-up at a time.
+
+The portfolio's local matching uses keyword overlap and exact normalized wording, not semantic entailment. A missing match does not imply a false claim, and a shared word does not establish role eligibility. Review the whole resume against the actual role and confirmed evidence. Stage the result with the same exact-before/revision contract above. Library changes, fact confirmation and version restoration are GUI actions; the resume proposal tool cannot modify those records.
+
 ## Document structure
 
 Existing schema version 1 profile backups remain compatible. The optional `document` object contains:

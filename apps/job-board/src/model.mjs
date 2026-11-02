@@ -1,3 +1,4 @@
+import {normalizeWorkflow} from './workflow-model.mjs';
 export const STAGES = ['Not Started', 'Networking / Following', 'Mutual Connections', 'Applied w/ Referral Link', 'Applied w/o Referral Link', 'Interviewing', 'Offer', 'Accepted', 'Rejected', 'Not Interested'];
 export const INDUSTRIES = [{id:'nuclear-energy',label:'Nuclear & energy',icon:'↗',description:'Build what powers the future.'},{id:'climate-deep-tech',label:'Climate & deep tech',icon:'◎',description:'Work on problems that matter.'},{id:'ai-startups',label:'AI & startups',icon:'✳',description:'Help shape what comes next.'}];
 export const FUNCTIONS = ['Sales', 'Business development', 'Finance', 'Operations', 'Product', 'Engineering', 'Marketing', 'People', 'Other'];
@@ -26,15 +27,15 @@ export function normalizeRecord(input) {
 }
 export function normalizeSalary(s){if(!s||typeof s!=='object')return null;return {min:Number.isFinite(s.min)?s.min:null,max:Number.isFinite(s.max)?s.max:null,currency:typeof s.currency==='string'?s.currency.slice(0,8):'',interval:typeof s.interval==='string'?s.interval.slice(0,30):''};}
 function validTimestamp(v){return typeof v==='string'&&v.length<50&&Number.isFinite(Date.parse(v))?v:'';}
-export function validateBackup(data){
+export function validateBackup(data, trusted=false){
   if(!data||data.schemaVersion!==1||!Array.isArray(data.records)||data.records.length>5000)throw new Error('Choose a version 1 Job Board backup (up to 5,000 records).');
   const records=data.records.map(normalizeRecord),ids=new Set();for(const r of records){if(ids.has(r.id))throw new Error('The backup has duplicate record IDs.');ids.add(r.id);}
   const preferences=blankPreferences();if(data.preferences&&typeof data.preferences==='object')for(const k of Object.keys(preferences))if(typeof data.preferences[k]===typeof preferences[k])preferences[k]=typeof preferences[k]==='string'?data.preferences[k].slice(0,1000):data.preferences[k];
   const shortlist=Array.isArray(data.shortlist)?[...new Set(data.shortlist.filter(x=>typeof x==='string'&&x.length<160))].slice(0,5000):[];
-  return {schemaVersion:1,records,shortlist,preferences};
+  return {schemaVersion:1,records,shortlist,preferences,workflow:normalizeWorkflow(data.workflow,trusted)};
 }
 export function recordKey(r){return r.kind==='company'?`company:${r.company.trim().toLowerCase()}`:r.url?`url:${canonicalURL(r.url)}`:`role:${r.company.toLowerCase()}:${r.title.toLowerCase()}`;}
-export function mergeBackup(state,incoming){const keys=new Set(state.records.map(recordKey)),ids=new Set(state.records.map(r=>r.id));const added=[];for(const r of incoming.records){if(keys.has(recordKey(r))||ids.has(r.id))continue;added.push(r);keys.add(recordKey(r));ids.add(r.id);}return {...state,records:[...state.records,...added],shortlist:[...new Set([...state.shortlist,...incoming.shortlist])]};}
+export function mergeBackup(state,incoming){const keys=new Set(state.records.map(recordKey)),ids=new Set(state.records.map(r=>r.id));const added=[];for(const r of incoming.records){if(keys.has(recordKey(r))||ids.has(r.id))continue;added.push(r);keys.add(recordKey(r));ids.add(r.id);}const workflow=normalizeWorkflow(state.workflow,true);if(!state.records.length&&incoming.workflow){workflow.masterResume=incoming.workflow.masterResume;workflow.masterPageBudget=incoming.workflow.masterPageBudget;workflow.facts=incoming.workflow.facts;workflow.brief=incoming.workflow.brief;workflow.playbook=incoming.workflow.playbook;workflow.selected=incoming.workflow.selected;workflow.passed=incoming.workflow.passed;}for(const f of incoming.workflow?.facts||[])if(!workflow.facts.some(x=>x.id===f.id)&&workflow.facts.length<500)workflow.facts.push(f);for(const r of added)if(incoming.workflow?.applications[r.id])workflow.applications[r.id]=incoming.workflow.applications[r.id];return {...state,workflow,records:[...state.records,...added],shortlist:[...new Set([...state.shortlist,...incoming.shortlist])]};}
 export function salaryLabel(s){if(!s||(s.min==null&&s.max==null))return 'Salary undisclosed';const format=n=>new Intl.NumberFormat('en-US',{maximumFractionDigits:0}).format(n);return `${s.currency||''} ${s.min!=null?format(s.min):'?'}${s.max!=null?` – ${format(s.max)}`:'+'}${s.interval?` / ${s.interval}`:''}`.trim();}
 export function dateLabel(v){return v&&Number.isFinite(Date.parse(v))?new Intl.DateTimeFormat(undefined,{month:'short',day:'numeric',year:'numeric'}).format(new Date(v)):'Unknown';}
 export function matchJobs(jobs,prefs){

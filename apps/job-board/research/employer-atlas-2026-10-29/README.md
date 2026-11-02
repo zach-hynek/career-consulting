@@ -155,6 +155,14 @@ Deeper coverage is concentrated in the overall Top 100 and selected workforce/fl
 
 ## Review and publication
 
+### Voice-to-text discovery brief (November 2 interface update)
+
+Expand **Describe your next chapter** to paste or dictate a long-form search narrative with your device keyboard. The page does not record audio or call a speech/model service. **Suggest interest terms** recognizes a small topic dictionary; review its suggestions because it does not understand negation or nuanced requirements. Enter explicit exclusions and keep pay, eligible locations, travel and office-day requirements in the verification field.
+
+**Search the atlas** applies the reviewed interests across the 315 selected employers, resets other filters and ranks shared interests, optionally putting documented remote options first. Cards explain matched interests. The sort selector can switch back to editorial, alphabetical or personal-grade order. Matching any one interest is sufficient, so broad role terms may return most of the directory. Remote preference is a company-policy signal, not confirmation that a particular role is remote or legally available to you.
+
+The draft is browser-local and included in the private review export; reload restores it without silently applying filters. **Copy brief for live research** prepares an assistant prompt with the draft and up to 15 current atlas leads. It asks for current sources, real vacancies and constraint checks, then a comparison with confirmed resume evidence. The assistant must do that research; the page itself searches only the dated atlas. Career Studio's separate **Evidence portfolio** holds career facts and application snapshots. There is no automatic transfer or synchronization between these applications.
+
 1. Review the proposed Top 100 and any workforce flags; keep, hold or remove entries in the local atlas and export the decisions.
 2. Refine role family, geography, guaranteed-pay floor and flexibility constraints. Those determine which companies remain useful.
 3. For selected employers, confirm current career URL, employing entity and exact ATS board. Record access/reuse conditions before enabling collection. A detected ATS is a candidate connector, not approved reuse.

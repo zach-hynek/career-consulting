@@ -1,5 +1,7 @@
 # Employer Atlas handoff
 
+November 2 interface addition: a private, reviewed voice-to-text search brief now filters the historical directory and explains shared interests. Device/chat dictation supplies text; no audio recorder, model service or live vacancy crawler was added. A focused browser walkthrough converted a climate/energy/operations narrative into editable interests and showed employer matches with explicit unverified constraints. Sort order remains user-selectable. This did not refresh company research, publish employers or activate feeds.
+
 Research cutoff: October 29, 2026. Interface and icon assets updated October 30, 2026. Local research artifact only; no company publication or job-feed activation.
 
 - Seven collections retain exactly 50 members each; 350 memberships cover 315 selected employers, with 322 screened records and 100 expanded dossiers.
