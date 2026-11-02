@@ -13,6 +13,7 @@ Start with the experience you already have. Make your contribution clear, suppor
 | Tailor an application using confirmed facts | [Application prompt](prompts/tailor-application.md) |
 | Draft a cover letter | [Cover-letter prompt](prompts/cover-letter.md) |
 | Write a first outreach message | [Outreach prompt](prompts/outreach.md) |
+| Discover curated companies and track job-search relationships | [Career Job Board](apps/job-board): private networking pipeline, portable HTML, and optional Supabase feeds |
 | Find reusable tools and related repositories | [Resource catalog](docs/catalog.md) |
 | Copy or extend the website with an agent | [Build prompt](apps/career-studio/docs/agent-prompt.md) and [build plan](apps/career-studio/docs/build-plan.md) |
 
@@ -42,7 +43,7 @@ For a simpler starting point, copy a prompt from `prompts/` into your preferred 
 
 This repository is the entry point and shared home for small career tools. Working applications live in `apps/`, reusable agent workflows in `skills/`, copy/paste instructions in `prompts/`, and guides and repository links in `docs/`. Larger tools can move into their own repositories and remain discoverable in the catalog.
 
-The first working tool is the resume editor. See the [roadmap](docs/roadmap.md) for possible additions and the criteria for moving to a dedicated organization.
+The resume editor and [Career Job Board](apps/job-board) are independent apps. The job board’s private tracker works immediately; its live catalog needs backend deployment and a separately curated company list. See the [roadmap](docs/roadmap.md) for possible additions and the criteria for moving to a dedicated organization.
 
 ## Contribute
 

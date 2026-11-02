@@ -6,6 +6,7 @@ Career Consulting is an open-source collection that helps people explain their e
 
 - Visual resume editing with inline text, a selection panel, section and entry dragging, undo/redo, and reviewed agent proposals.
 - Guided questions, editable cover-letter and outreach templates, portable profile JSON, and a personal website HTML export.
+- A private job-search pipeline and portable HTML app, with optional Supabase feed adapters; hosted backend activation and the reviewed Top 100 remain pending.
 - A reusable resume review skill and copy/paste application prompts.
 
 ## Possible next steps
@@ -14,7 +15,7 @@ These are ideas, not available features or commitments:
 
 1. Improve the resume editor from real use: custom sections, multiple application versions, and verified print layouts.
 2. Document Zach's approach through approved, anonymized examples and his own application advice.
-3. Add an interview story workspace and a simple application tracker if they solve a demonstrated need.
+3. Curate and publish the Job Board’s Top 100, activate its backend, and refine the pipeline from real use. Consider an interview story workspace when useful.
 4. Curate other maintained open-source career tools, with license, requirements, and a clear explanation of their value.
 5. Split a tool into its own repository when its release cycle, contributors, or dependencies justify independent maintenance.
 

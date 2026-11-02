@@ -5,6 +5,7 @@ Only implemented resources are listed below. Future ideas live in the [roadmap](
 | Resource | Format | What it helps with | Requirements |
 | --- | --- | --- | --- |
 | [Career Studio](../apps/career-studio) | Browser app and source | Edit resume text, reorder sections and entries, review agent changes, draft application materials, export a personal website | Modern browser; a static server for local use |
+| [Career Job Board](../apps/job-board) | Browser app, standalone HTML, and optional backend | Track job opportunities, referrals and follow-ups; filter curated employer feeds | Modern browser; Supabase + static hosting for live discovery/import; company curation pending |
 | [Resume review](../skills/career-resume-review/SKILL.md) | Agent skill | Interview the applicant, identify evidence, and revise a resume without inventing claims | An assistant; optional Codex skill installation |
 | [Tailor an application](../prompts/tailor-application.md) | Copy/paste prompt | Map a job brief to confirmed experience and identify gaps | Your resume and a target role |
 | [Cover letter](../prompts/cover-letter.md) | Copy/paste prompt | Explain fit with concrete examples and motivation | Confirmed experience and employer context |

@@ -1,0 +1,16 @@
+import {INDUSTRIES,safeURL,normalizeSalary} from './model.mjs';
+const fetchJSON=async url=>{const r=await fetch(url,{signal:AbortSignal.timeout(15000),cache:'no-cache',credentials:'omit'});if(!r.ok)throw new Error('The catalog is temporarily unavailable.');const text=await r.text();if(text.length>8_000_000)throw new Error('Catalog exceeds the supported size.');return JSON.parse(text);};
+export async function loadCatalog(config){
+ if(!config.catalogUrl)return null;const base=safeURL(config.catalogUrl);if(!base)throw new Error('Invalid catalog configuration.');const manifest=await fetchJSON(base);if(manifest.schemaVersion!==1||!Array.isArray(manifest.collections)||manifest.collections.length>30)throw new Error('Unsupported catalog version.');
+ const origin=new URL(base).origin;const resolve=p=>{const u=new URL(p,base);if(u.origin!==origin)throw new Error('Unexpected catalog host.');return u.href;};
+ const shards=await Promise.all(manifest.collections.map(c=>fetchJSON(resolve(c.path))));let companies=[],jobs=[];
+ for(const shard of shards){if(!Array.isArray(shard.companies)||!Array.isArray(shard.jobs))throw new Error('Incomplete catalog.');companies.push(...shard.companies);jobs.push(...shard.jobs);}
+ if(jobs.length>30000||companies.length>1000)throw new Error('Catalog exceeds the supported size.');
+ const cleanCompanies=companies.map(c=>({id:String(c.id),name:String(c.name||''),industry:String(c.industry||''),careerUrl:safeURL(c.careerUrl),rationale:String(c.rationale||''),sourceStatus:String(c.sourceStatus||'manual'),lastVerifiedAt:c.lastVerifiedAt||null}));
+ const cleanJobs=jobs.map(j=>({id:String(j.id),companyId:String(j.companyId),company:String(j.company||''),title:String(j.title||''),industry:String(j.industry||''),function:String(j.function||'Other'),location:String(j.location||''),workplace:String(j.workplace||'Unknown'),remoteEligibility:String(j.remoteEligibility||''),url:safeURL(j.url),source:String(j.source||''),sourceId:String(j.sourceId||''),publishedAt:j.publishedAt||'',firstSeenAt:j.firstSeenAt||'',lastVerifiedAt:j.lastVerifiedAt||'',excerpt:String(j.excerpt||'').slice(0,600),salary:normalizeSalary(j.salary),sourceStatus:String(j.sourceStatus||'unknown')}));
+ return {manifest:{schemaVersion:1,version:String(manifest.version),publishedAt:manifest.publishedAt,collections:manifest.collections},companies:[...new Map(cleanCompanies.map(c=>[c.id,c])).values()],jobs:cleanJobs};
+}
+export async function getDetail(config,id){if(!config.apiUrl)return null;return fetchJSON(`${config.apiUrl.replace(/\/$/,'')}/jobs/${encodeURIComponent(id)}`);}
+export async function extractURL(config,url){if(!config.apiUrl)return {status:'manual_required',fields:{url},message:'Automatic extraction is not connected here. Paste the description below to continue.'};
+ const r=await fetch(`${config.apiUrl.replace(/\/$/,'')}/extract`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url}),credentials:'omit',signal:AbortSignal.timeout(20000)});if(!r.ok)return {status:'manual_required',fields:{url},message:r.status===429?'Import limit reached. You can still paste the details.':'This page could not be read. Save the link and paste the details.'};return r.json();}
+export const emptyCollections=()=>INDUSTRIES.map(i=>({...i,count:0}));

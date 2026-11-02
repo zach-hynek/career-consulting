@@ -1,0 +1,7 @@
+project_id = "career-job-board"
+
+[functions.job-board]
+verify_jwt = false
+
+[functions.refresh-jobs]
+verify_jwt = false

@@ -33,3 +33,12 @@ jobs:
           python -m json.tool apps/career-studio/vercel.json > /dev/null
       - name: Package reusable source
         run: python apps/career-studio/scripts/package_source.py
+
+      - name: Build Job Board and check migration security
+        working-directory: apps/job-board
+        run: |
+          npm ci
+          npm run check
+          npm run build
+          npm run check:security
+          DENO_DIR=/tmp/job-board-deno npx deno check --config supabase/functions/deno.json supabase/functions/job-board/index.ts supabase/functions/refresh-jobs/index.ts

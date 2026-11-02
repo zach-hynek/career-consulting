@@ -1,0 +1,2921 @@
+[
+  {
+    "name": "Anthropic",
+    "niche": "Frontier AI models",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "OpenAI",
+    "niche": "Frontier AI deployment",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Alphabet / Google DeepMind",
+    "niche": "AI research and cloud platforms",
+    "selected": true,
+    "collections": [
+      "ai",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "NVIDIA",
+    "niche": "AI chips and accelerated computing",
+    "selected": true,
+    "collections": [
+      "ai",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Microsoft",
+    "niche": "Cloud and enterprise AI",
+    "selected": true,
+    "collections": [
+      "ai",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Databricks",
+    "niche": "Enterprise data and AI platforms",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Hugging Face",
+    "niche": "Open model ecosystem",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Cohere",
+    "niche": "Enterprise language models",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Mistral AI",
+    "niche": "European foundation models",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Allen Institute for AI (Ai2)",
+    "niche": "Nonprofit AI research",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Perplexity",
+    "niche": "AI search",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Glean",
+    "niche": "Enterprise knowledge search",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Harvey",
+    "niche": "Legal workflow AI",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Writer",
+    "niche": "Enterprise generative AI",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Scale AI",
+    "niche": "AI data and evaluation",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Together AI",
+    "niche": "Open-model infrastructure",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Fireworks AI",
+    "niche": "AI inference infrastructure",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Cerebras",
+    "niche": "Wafer-scale AI computing",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Groq",
+    "niche": "AI inference chips and cloud",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "SambaNova Systems",
+    "niche": "AI computing systems",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "CoreWeave",
+    "niche": "GPU cloud",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Lambda",
+    "niche": "GPU cloud",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Crusoe",
+    "niche": "AI infrastructure and energy",
+    "selected": true,
+    "collections": [
+      "ai",
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Modal",
+    "niche": "Serverless AI infrastructure",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Baseten",
+    "niche": "Model inference deployment",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Anyscale",
+    "niche": "Distributed AI computing",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Sierra",
+    "niche": "Customer-service AI agents",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Decagon",
+    "niche": "Customer-service AI agents",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "LangChain",
+    "niche": "AI application tooling",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "LlamaIndex",
+    "niche": "Retrieval and agent tooling",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Runway",
+    "niche": "Creative AI video",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "ElevenLabs",
+    "niche": "Voice AI",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Synthesia",
+    "niche": "Enterprise AI video",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Descript",
+    "niche": "AI media editing",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Notion",
+    "niche": "Connected productivity software",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Airtable",
+    "niche": "Workflow software",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Figma",
+    "niche": "Collaborative design software",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Anysphere / Cursor",
+    "niche": "AI coding tools",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Replit",
+    "niche": "AI application development",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Vercel",
+    "niche": "Web development cloud",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Cloudflare",
+    "niche": "Internet infrastructure and security",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Snowflake",
+    "niche": "Cloud data platforms",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "MongoDB",
+    "niche": "Developer databases",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Elastic",
+    "niche": "Search and observability",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Redis",
+    "niche": "In-memory data infrastructure",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Pinecone",
+    "niche": "Vector databases",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Weaviate",
+    "niche": "Vector databases",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Qdrant",
+    "niche": "Vector search",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Sentry",
+    "niche": "Application monitoring",
+    "selected": true,
+    "collections": [
+      "ai"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Linear",
+    "niche": "Product development software",
+    "selected": true,
+    "collections": [
+      "ai",
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "TerraPower",
+    "niche": "Advanced nuclear deployment",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "X-energy",
+    "niche": "High-temperature nuclear reactors",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Kairos Power",
+    "niche": "Fluoride-salt nuclear reactors",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Oklo",
+    "niche": "Fast nuclear reactors",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "BWX Technologies",
+    "niche": "Nuclear components and services",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "GE Vernova",
+    "niche": "Power generation and grid technology",
+    "selected": true,
+    "collections": [
+      "energy",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Westinghouse Electric",
+    "niche": "Nuclear plant technology and services",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Framatome",
+    "niche": "Nuclear equipment and fuel",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Constellation Energy",
+    "niche": "Electric power and nuclear operations",
+    "selected": true,
+    "collections": [
+      "energy",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Vistra",
+    "niche": "Electric power generation",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Duke Energy",
+    "niche": "Electric utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Southern Company",
+    "niche": "Electric utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "NextEra Energy",
+    "niche": "Renewable and regulated power",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Dominion Energy",
+    "niche": "Electric utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Exelon",
+    "niche": "Electric utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Entergy",
+    "niche": "Electric utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "PG&E",
+    "niche": "Electric and gas utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Xcel Energy",
+    "niche": "Electric utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "PSEG",
+    "niche": "Electric and gas utility operations",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "National Grid",
+    "niche": "Electricity and gas networks",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Quanta Services",
+    "niche": "Power infrastructure construction",
+    "selected": true,
+    "collections": [
+      "energy",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Eaton",
+    "niche": "Electrical power management",
+    "selected": true,
+    "collections": [
+      "energy",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Schneider Electric",
+    "niche": "Energy management and automation",
+    "selected": true,
+    "collections": [
+      "energy",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Siemens Energy",
+    "niche": "Power generation and grid equipment",
+    "selected": true,
+    "collections": [
+      "energy",
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Hitachi Energy",
+    "niche": "Grid systems and transformers",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Curtiss-Wright",
+    "niche": "Engineered industrial and nuclear components",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Amentum",
+    "niche": "Technical and government services",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Bechtel",
+    "niche": "Major-project engineering and construction",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Centrus Energy",
+    "niche": "Nuclear fuel enrichment",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Cameco",
+    "niche": "Uranium and nuclear fuel supply",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Orano",
+    "niche": "Nuclear fuel cycle",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Urenco",
+    "niche": "Uranium enrichment",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "General Atomics",
+    "niche": "Energy and defense technology",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Commonwealth Fusion Systems",
+    "niche": "High-field magnetic fusion",
+    "selected": true,
+    "collections": [
+      "energy",
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Helion Energy",
+    "niche": "Pulsed fusion",
+    "selected": true,
+    "collections": [
+      "energy",
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "TAE Technologies",
+    "niche": "Fusion energy",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Zap Energy",
+    "niche": "Sheared-flow fusion",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Type One Energy",
+    "niche": "Stellarator fusion",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Thea Energy",
+    "niche": "Stellarator fusion",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Proxima Fusion",
+    "niche": "Stellarator fusion",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Pacific Fusion",
+    "niche": "Pulsed-power fusion",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Tokamak Energy",
+    "niche": "Spherical tokamak fusion",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Kyoto Fusioneering",
+    "niche": "Fusion engineering and supply chain",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Radiant",
+    "niche": "Portable nuclear power",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Last Energy",
+    "niche": "Small modular nuclear deployment",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Aalo Atomics",
+    "niche": "Modular nuclear reactors",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Deep Fission",
+    "niche": "Underground nuclear reactors",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Antares Nuclear",
+    "niche": "Mission-focused nuclear microreactors",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Zeno Power",
+    "niche": "Radioisotope power",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Fluor",
+    "niche": "Engineering and construction",
+    "selected": true,
+    "collections": [
+      "energy"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Redwood Materials",
+    "niche": "Battery materials and energy storage",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Form Energy",
+    "niche": "Iron-air long-duration storage",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Fervo Energy",
+    "niche": "Enhanced geothermal power",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Electric Hydrogen",
+    "niche": "Industrial hydrogen equipment",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Twelve",
+    "niche": "Carbon conversion",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Charm Industrial",
+    "niche": "Biomass carbon removal",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Heirloom",
+    "niche": "Direct air capture",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "CarbonCapture",
+    "niche": "Direct air capture",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Climeworks",
+    "niche": "Direct air capture",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Carbon Clean",
+    "niche": "Industrial carbon capture",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Sublime Systems",
+    "niche": "Low-carbon cement",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Brimstone",
+    "niche": "Low-carbon cement and alumina",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Boston Metal",
+    "niche": "Low-carbon metals",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Electra",
+    "niche": "Electrochemical clean iron",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Rondo Energy",
+    "niche": "Industrial heat storage",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Antora Energy",
+    "niche": "Thermal energy storage",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Eos Energy",
+    "niche": "Zinc-based energy storage",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Energy Vault",
+    "niche": "Energy storage projects",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Fluence",
+    "niche": "Grid energy storage",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Tesla",
+    "niche": "Electric vehicles and energy",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Rivian",
+    "niche": "Electric vehicles",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Lucid Motors",
+    "niche": "Electric vehicles",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "QuantumScape",
+    "niche": "Battery technology",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Solid Power",
+    "niche": "Solid-state batteries",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Sila",
+    "niche": "Battery materials",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Group14 Technologies",
+    "niche": "Silicon battery materials",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Ascend Elements",
+    "niche": "Battery recycling and materials",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Lyten",
+    "niche": "Battery technology",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Nth Cycle",
+    "niche": "Metals refining and recovery",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Niron Magnetics",
+    "niche": "Rare-earth-free magnets",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "KoBold Metals",
+    "niche": "Mineral exploration technology",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Lilac Solutions",
+    "niche": "Lithium extraction",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Standard Lithium",
+    "niche": "Lithium development",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Octopus Energy",
+    "niche": "Energy retail and software",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Enphase Energy",
+    "niche": "Solar power electronics",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "SolarEdge",
+    "niche": "Solar power electronics",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "First Solar",
+    "niche": "Solar manufacturing",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Sunrun",
+    "niche": "Residential solar and storage",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Nextracker",
+    "niche": "Solar infrastructure and power systems",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Array Technologies",
+    "niche": "Solar tracking systems",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "SPAN",
+    "niche": "Smart electrical panels",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Uplight",
+    "niche": "Utility software",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Aurora Solar",
+    "niche": "Solar design software",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Watershed",
+    "niche": "Carbon accounting software",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Persefoni",
+    "niche": "Carbon accounting software",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Generate Capital",
+    "niche": "Sustainable infrastructure investment",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Pivot Energy",
+    "niche": "Distributed solar development",
+    "selected": true,
+    "collections": [
+      "climate"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Anduril",
+    "niche": "Defense autonomy and systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Shield AI",
+    "niche": "Autonomous defense aircraft",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Skydio",
+    "niche": "Autonomous drones",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Saronic",
+    "niche": "Autonomous maritime systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Saildrone",
+    "niche": "Ocean autonomy",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Helsing",
+    "niche": "Defense AI",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Palantir",
+    "niche": "Operational analytics and AI",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "SpaceX",
+    "niche": "Space launch and connectivity",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Blue Origin",
+    "niche": "Space launch and systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Rocket Lab",
+    "niche": "Space launch and systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Relativity Space",
+    "niche": "Space launch systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Firefly Aerospace",
+    "niche": "Space launch and lunar services",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Stoke Space",
+    "niche": "Reusable space launch",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Impulse Space",
+    "niche": "In-space transportation",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Astranis",
+    "niche": "Satellite communications",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Apex Space",
+    "niche": "Satellite platforms",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Varda Space Industries",
+    "niche": "Space manufacturing",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Axiom Space",
+    "niche": "Space stations",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Sierra Space",
+    "niche": "Space systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Sierra Nevada Corporation",
+    "niche": "Aerospace and national-security systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Vast",
+    "niche": "Space habitats",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Redwire",
+    "niche": "Space infrastructure",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Planet Labs",
+    "niche": "Earth observation",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Spire Global",
+    "niche": "Space data",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "BlackSky",
+    "niche": "Geospatial intelligence",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Capella Space",
+    "niche": "Radar Earth observation",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Umbra",
+    "niche": "Radar Earth observation",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Loft Orbital",
+    "niche": "Space infrastructure services",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "True Anomaly",
+    "niche": "Space domain awareness",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Castelion",
+    "niche": "Defense manufacturing",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Hadrian",
+    "niche": "Precision manufacturing",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Mach Industries",
+    "niche": "Defense systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Epirus",
+    "niche": "Directed energy",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Forterra",
+    "niche": "Autonomous ground systems",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Applied Intuition",
+    "niche": "Vehicle autonomy software",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Figure AI",
+    "niche": "Humanoid robotics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Apptronik",
+    "niche": "Humanoid robotics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Agility Robotics",
+    "niche": "Warehouse robotics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Boston Dynamics",
+    "niche": "Industrial and mobile robotics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Sanctuary AI",
+    "niche": "General-purpose robotics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "1X",
+    "niche": "Humanoid robotics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Physical Intelligence",
+    "niche": "Robot foundation models",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Skild AI",
+    "niche": "Robot foundation models",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Dexterity",
+    "niche": "Robotic manipulation",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Gecko Robotics",
+    "niche": "Industrial inspection robotics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Zipline",
+    "niche": "Autonomous logistics",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Nuro",
+    "niche": "Autonomous delivery",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Aurora Innovation",
+    "niche": "Autonomous trucking",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Kodiak Robotics",
+    "niche": "Autonomous trucking",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Torc Robotics",
+    "niche": "Autonomous trucking",
+    "selected": true,
+    "collections": [
+      "frontier"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Regeneron",
+    "niche": "Biopharmaceutical discovery",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Vertex Pharmaceuticals",
+    "niche": "Specialty medicines",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Genentech / Roche",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Amgen",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Eli Lilly",
+    "niche": "Biopharmaceuticals and manufacturing",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Novo Nordisk",
+    "niche": "Metabolic medicines",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Novartis",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Merck",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Johnson & Johnson",
+    "niche": "Pharmaceuticals and medical technology",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "AbbVie",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Gilead Sciences",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "AstraZeneca",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Sanofi",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Pfizer",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "niche": "Biopharmaceuticals",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Moderna",
+    "niche": "RNA medicines",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "BioNTech",
+    "niche": "Immunotherapies",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Alnylam",
+    "niche": "RNA interference medicines",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": true
+  },
+  {
+    "name": "BioMarin",
+    "niche": "Rare-disease medicines",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Neurocrine Biosciences",
+    "niche": "Neuroscience medicines",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Ionis Pharmaceuticals",
+    "niche": "RNA-targeted medicines",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Intellia Therapeutics",
+    "niche": "Gene editing",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "CRISPR Therapeutics",
+    "niche": "Gene editing",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Beam Therapeutics",
+    "niche": "Precision genetic medicines",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Recursion",
+    "niche": "AI-enabled drug discovery",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Tempus AI",
+    "niche": "Precision medicine AI",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Benchling",
+    "niche": "Scientific R&D software",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Insitro",
+    "niche": "Machine learning drug discovery",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Generate Biomedicines",
+    "niche": "Protein therapeutics",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Isomorphic Labs",
+    "niche": "AI-enabled drug design",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Owkin",
+    "niche": "AI-enabled medicine",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "PathAI",
+    "niche": "Digital pathology",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Natera",
+    "niche": "Genetic testing",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Guardant Health",
+    "niche": "Cancer diagnostics",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Exact Sciences",
+    "niche": "Cancer screening",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Illumina",
+    "niche": "Genomic sequencing",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "PacBio",
+    "niche": "Genomic sequencing",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Oxford Nanopore",
+    "niche": "Nanopore sequencing",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "10x Genomics",
+    "niche": "Single-cell research tools",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Danaher",
+    "niche": "Scientific and diagnostic tools",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "niche": "Scientific tools and services",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Agilent",
+    "niche": "Analytical instruments",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Waters",
+    "niche": "Analytical and laboratory tools",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Mettler-Toledo",
+    "niche": "Precision instruments",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Bruker",
+    "niche": "Scientific instruments",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Intuitive Surgical",
+    "niche": "Robotic surgery",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Medtronic",
+    "niche": "Medical devices",
+    "selected": true,
+    "collections": [
+      "life"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Boston Scientific",
+    "niche": "Medical devices",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Stryker",
+    "niche": "Medical devices",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "ResMed",
+    "niche": "Sleep and respiratory technology",
+    "selected": true,
+    "collections": [
+      "life",
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "ASML",
+    "niche": "Semiconductor lithography",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "TSMC",
+    "niche": "Semiconductor manufacturing",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Broadcom",
+    "niche": "Semiconductors and software",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "AMD",
+    "niche": "Semiconductors",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Arm",
+    "niche": "Semiconductor architecture",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Synopsys",
+    "niche": "Electronic design automation",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Cadence Design Systems",
+    "niche": "Electronic design automation",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Analog Devices",
+    "niche": "Analog semiconductors",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Texas Instruments",
+    "niche": "Analog and embedded semiconductors",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Qualcomm",
+    "niche": "Wireless semiconductors",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Lam Research",
+    "niche": "Semiconductor manufacturing equipment",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Applied Materials",
+    "niche": "Semiconductor manufacturing equipment",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "KLA",
+    "niche": "Semiconductor process control",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Teradyne",
+    "niche": "Automated test and robotics",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Keysight Technologies",
+    "niche": "Electronic test and measurement",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Fortive",
+    "niche": "Industrial technology",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Roper Technologies",
+    "niche": "Vertical software and technology",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Veralto",
+    "niche": "Water and product-quality technology",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "ABB",
+    "niche": "Electrification and automation",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Siemens",
+    "niche": "Industrial technology and software",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Rockwell Automation",
+    "niche": "Industrial automation",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Emerson",
+    "niche": "Industrial automation",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Honeywell",
+    "niche": "Industrial technology",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Parker Hannifin",
+    "niche": "Motion and control systems",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Trane Technologies",
+    "niche": "Climate control and building efficiency",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Johnson Controls",
+    "niche": "Building systems",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Hubbell",
+    "niche": "Electrical infrastructure",
+    "selected": true,
+    "collections": [
+      "durable"
+    ],
+    "top100": false
+  },
+  {
+    "name": "GitLab",
+    "niche": "Developer collaboration platform",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Automattic",
+    "niche": "Open-source web products",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Zapier",
+    "niche": "Workflow automation",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Buffer",
+    "niche": "Social publishing software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Doist",
+    "niche": "Productivity software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Toggl",
+    "niche": "Time and productivity software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "37signals",
+    "niche": "Business productivity software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "DuckDuckGo",
+    "niche": "Privacy-focused search",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Mozilla",
+    "niche": "Internet software and advocacy",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "niche": "Public-interest knowledge",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Canonical",
+    "niche": "Linux and infrastructure software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Grafana Labs",
+    "niche": "Observability software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Supabase",
+    "niche": "Open-source backend platform",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Netlify",
+    "niche": "Web development platform",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Atlassian",
+    "niche": "Team collaboration software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Dropbox",
+    "niche": "Cloud content software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Airbnb",
+    "niche": "Travel marketplace",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Spotify",
+    "niche": "Audio streaming",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "HubSpot",
+    "niche": "Customer relationship software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Reddit",
+    "niche": "Online communities",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Block",
+    "niche": "Financial technology",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Coinbase",
+    "niche": "Digital asset infrastructure",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Stripe",
+    "niche": "Payments infrastructure",
+    "selected": false,
+    "collections": [],
+    "top100": false
+  },
+  {
+    "name": "Plaid",
+    "niche": "Financial data infrastructure",
+    "selected": false,
+    "collections": [],
+    "top100": false
+  },
+  {
+    "name": "Brex",
+    "niche": "Financial operations software",
+    "selected": false,
+    "collections": [],
+    "top100": false
+  },
+  {
+    "name": "Mercury",
+    "niche": "Business banking software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Ramp",
+    "niche": "Financial operations software",
+    "selected": false,
+    "collections": [],
+    "top100": false
+  },
+  {
+    "name": "Deel",
+    "niche": "Global workforce software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Remote",
+    "niche": "Global workforce software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Oyster",
+    "niche": "Global workforce software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "SafetyWing",
+    "niche": "Remote-worker insurance and benefits",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "TestGorilla",
+    "niche": "Hiring assessment software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "PostHog",
+    "niche": "Product analytics and developer tools",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Help Scout",
+    "niche": "Customer support software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Customer.io",
+    "niche": "Customer engagement software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Kit",
+    "niche": "Creator business software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "beehiiv",
+    "niche": "Newsletter software",
+    "selected": false,
+    "collections": [],
+    "top100": false
+  },
+  {
+    "name": "Ghost",
+    "niche": "Independent publishing software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Discourse",
+    "niche": "Community software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "MotherDuck",
+    "niche": "Cloud analytics database",
+    "selected": false,
+    "collections": [],
+    "top100": false
+  },
+  {
+    "name": "ClickHouse",
+    "niche": "Analytical databases",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "dbt Labs",
+    "niche": "Analytics engineering software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  },
+  {
+    "name": "Temporal",
+    "niche": "Durable workflow infrastructure",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Tailscale",
+    "niche": "Secure networking",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "1Password",
+    "niche": "Identity and security software",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Bitwarden",
+    "niche": "Password security",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": true
+  },
+  {
+    "name": "Proton",
+    "niche": "Privacy software",
+    "selected": false,
+    "collections": [],
+    "top100": false
+  },
+  {
+    "name": "n8n",
+    "niche": "AI workflow automation",
+    "selected": true,
+    "collections": [
+      "remote"
+    ],
+    "top100": false
+  }
+]

@@ -1,0 +1,351 @@
+﻿collection_id,collection,display_order_not_quality_rank,company_id,company,niche,top_100,career_url,research_as_of
+ai,"AI, developer platforms & scientific software",1,anthropic,Anthropic,Frontier AI models,true,https://www.anthropic.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",2,openai,OpenAI,Frontier AI deployment,true,https://openai.com/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",3,alphabet-google-deepmind,Alphabet / Google DeepMind,AI research and cloud platforms,true,https://deepmind.google/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",4,nvidia,NVIDIA,AI chips and accelerated computing,true,https://www.nvidia.com/en-us/about-nvidia/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",5,microsoft,Microsoft,Cloud and enterprise AI,true,https://careers.microsoft.com/,2026-10-29
+ai,"AI, developer platforms & scientific software",6,databricks,Databricks,Enterprise data and AI platforms,true,https://www.databricks.com/company/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",7,hugging-face,Hugging Face,Open model ecosystem,true,https://apply.workable.com/huggingface/,2026-10-29
+ai,"AI, developer platforms & scientific software",8,cohere,Cohere,Enterprise language models,true,https://cohere.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",9,mistral-ai,Mistral AI,European foundation models,true,https://mistral.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",10,allen-institute-for-ai-ai2,Allen Institute for AI (Ai2),Nonprofit AI research,true,https://allenai.org/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",11,perplexity,Perplexity,AI search,false,https://www.perplexity.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",12,glean,Glean,Enterprise knowledge search,true,https://www.glean.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",13,harvey,Harvey,Legal workflow AI,true,https://www.harvey.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",14,writer,Writer,Enterprise generative AI,false,https://writer.com/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",15,scale-ai,Scale AI,AI data and evaluation,false,https://scale.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",16,together-ai,Together AI,Open-model infrastructure,false,https://www.together.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",17,fireworks-ai,Fireworks AI,AI inference infrastructure,true,https://fireworks.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",18,cerebras,Cerebras,Wafer-scale AI computing,false,https://www.cerebras.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",19,groq,Groq,AI inference chips and cloud,false,https://groq.com/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",20,sambanova-systems,SambaNova Systems,AI computing systems,false,https://sambanova.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",21,coreweave,CoreWeave,GPU cloud,false,https://www.coreweave.com/coreweave-company-culture,2026-10-29
+ai,"AI, developer platforms & scientific software",22,lambda,Lambda,GPU cloud,false,https://lambda.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",23,crusoe,Crusoe,AI infrastructure and energy,true,https://www.crusoe.ai/about/careers/culture,2026-10-29
+ai,"AI, developer platforms & scientific software",24,modal,Modal,Serverless AI infrastructure,true,https://modal.com/jobs,2026-10-29
+ai,"AI, developer platforms & scientific software",25,baseten,Baseten,Model inference deployment,true,https://www.baseten.co/resources/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",26,anyscale,Anyscale,Distributed AI computing,false,https://www.anyscale.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",27,sierra,Sierra,Customer-service AI agents,false,https://sierra.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",28,decagon,Decagon,Customer-service AI agents,false,https://decagon.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",29,langchain,LangChain,AI application tooling,true,https://www.langchain.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",30,llamaindex,LlamaIndex,Retrieval and agent tooling,false,https://www.llamaindex.ai/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",31,runway,Runway,Creative AI video,false,https://runway.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",32,elevenlabs,ElevenLabs,Voice AI,true,https://elevenlabs.io/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",33,synthesia,Synthesia,Enterprise AI video,false,https://www.synthesia.io/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",34,descript,Descript,AI media editing,false,https://www.descript.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",35,notion,Notion,Connected productivity software,false,https://www.notion.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",36,airtable,Airtable,Workflow software,false,https://www.airtable.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",37,figma,Figma,Collaborative design software,true,https://www.figma.com/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",38,anysphere-cursor,Anysphere / Cursor,AI coding tools,false,https://cursor.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",39,replit,Replit,AI application development,false,https://replit.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",40,vercel,Vercel,Web development cloud,true,https://vercel.com/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",41,cloudflare,Cloudflare,Internet infrastructure and security,true,https://www.cloudflare.com/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",42,snowflake,Snowflake,Cloud data platforms,false,https://careers.snowflake.com/,2026-10-29
+ai,"AI, developer platforms & scientific software",43,mongodb,MongoDB,Developer databases,false,https://www.mongodb.com/company/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",44,elastic,Elastic,Search and observability,true,https://www.elastic.co/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",45,redis,Redis,In-memory data infrastructure,false,https://redis.io/company/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",46,pinecone,Pinecone,Vector databases,false,https://www.pinecone.io/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",47,weaviate,Weaviate,Vector databases,true,https://weaviate.io/company/careers,2026-10-29
+ai,"AI, developer platforms & scientific software",48,qdrant,Qdrant,Vector search,false,https://qdrant.tech/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",49,sentry,Sentry,Application monitoring,false,https://sentry.io/careers/,2026-10-29
+ai,"AI, developer platforms & scientific software",50,linear,Linear,Product development software,true,https://linear.app/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",1,terrapower,TerraPower,Advanced nuclear deployment,true,https://www.terrapower.com/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",2,x-energy,X-energy,High-temperature nuclear reactors,true,https://x-energy.com/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",3,kairos-power,Kairos Power,Fluoride-salt nuclear reactors,true,https://www.kairospower.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",4,oklo,Oklo,Fast nuclear reactors,true,https://oklo.com/about/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",5,bwx-technologies,BWX Technologies,Nuclear components and services,true,https://careers.bwxt.com/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",6,ge-vernova,GE Vernova,Power generation and grid technology,true,https://careers.gevernova.com/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",7,westinghouse-electric,Westinghouse Electric,Nuclear plant technology and services,true,https://careers.westinghousenuclear.com/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",8,framatome,Framatome,Nuclear equipment and fuel,false,https://nuclearcareers.com/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",9,constellation-energy,Constellation Energy,Electric power and nuclear operations,true,https://www.constellationenergy.com/our-company/careers.html,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",10,vistra,Vistra,Electric power generation,false,https://www.vistracorp.com/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",11,duke-energy,Duke Energy,Electric utility operations,false,https://www.duke-energy.com/our-company/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",12,southern-company,Southern Company,Electric utility operations,false,https://www.southerncompany.com/our-community/invest-in-our-people.html,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",13,nextera-energy,NextEra Energy,Renewable and regulated power,false,https://www.nexteraenergy.com/careers/life-at-nextera/benefits.html,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",14,dominion-energy,Dominion Energy,Electric utility operations,false,https://careers.dominionenergy.com/content/Benefits/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",15,exelon,Exelon,Electric utility operations,false,https://careers.exeloncorp.com/careers-home/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",16,entergy,Entergy,Electric utility operations,false,https://jobs.entergy.com/content/Careers-FAQ/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",17,pg-e,PG&E,Electric and gas utility operations,false,https://careers.pge.com/content/Benefits/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",18,xcel-energy,Xcel Energy,Electric utility operations,false,https://jobs.xcelenergy.com/rewards,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",19,pseg,PSEG,Electric and gas utility operations,false,https://corporate.pseg.com/careers/benefits,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",20,national-grid,National Grid,Electricity and gas networks,false,https://livebrighterbenefits.nationalgrid.com/public/welcome,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",21,quanta-services,Quanta Services,Power infrastructure construction,true,https://www.quantaservices.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",22,eaton,Eaton,Electrical power management,true,https://www.eaton.com/us/en-us/company/careers/wellbeing-at-eaton.html,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",23,schneider-electric,Schneider Electric,Energy management and automation,true,https://careers.se.com/careers-at-schneider-electric,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",24,siemens-energy,Siemens Energy,Power generation and grid equipment,false,https://www.siemens-energy.com/global/en/home/careers/working-with-us.html,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",25,hitachi-energy,Hitachi Energy,Grid systems and transformers,true,https://www.hitachienergy.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",26,curtiss-wright,Curtiss-Wright,Engineered industrial and nuclear components,false,https://curtisswright.com/careers/benefits,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",27,amentum,Amentum,Technical and government services,false,https://www.amentumcareers.com/jobs/ai-solutions-architect-programs-delivery-remote-united-states,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",28,bechtel,Bechtel,Major-project engineering and construction,false,https://jobs.bechtel.com/us/en/home,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",29,centrus-energy,Centrus Energy,Nuclear fuel enrichment,true,https://www.centrusenergy.com/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",30,cameco,Cameco,Uranium and nuclear fuel supply,true,https://www.cameco.com/careers/why-cameco/total-rewards,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",31,orano,Orano,Nuclear fuel cycle,false,https://www.orano.group/jobs/en,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",32,urenco,Urenco,Uranium enrichment,true,https://www.urenco.com/careers/life-at-urenco,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",33,general-atomics,General Atomics,Energy and defense technology,true,https://www.ga.com/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",34,commonwealth-fusion-systems,Commonwealth Fusion Systems,High-field magnetic fusion,true,https://cfs.energy/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",35,helion-energy,Helion Energy,Pulsed fusion,true,https://www.helionenergy.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",36,tae-technologies,TAE Technologies,Fusion energy,false,https://tae.com/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",37,zap-energy,Zap Energy,Sheared-flow fusion,false,https://www.zapenergy.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",38,type-one-energy,Type One Energy,Stellarator fusion,true,https://typeoneenergy.com/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",39,thea-energy,Thea Energy,Stellarator fusion,false,https://thea.energy/careers/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",40,proxima-fusion,Proxima Fusion,Stellarator fusion,false,https://www.proximafusion.com/careers/open-positions,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",41,pacific-fusion,Pacific Fusion,Pulsed-power fusion,false,https://job-boards.greenhouse.io/pacificfusion/jobs/4329610009,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",42,tokamak-energy,Tokamak Energy,Spherical tokamak fusion,false,https://tokamakenergy.com/working-at-tokamak-energy/,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",43,kyoto-fusioneering,Kyoto Fusioneering,Fusion engineering and supply chain,false,https://kyotofusioneering.com/en/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",44,radiant,Radiant,Portable nuclear power,false,https://www.radiantnuclear.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",45,last-energy,Last Energy,Small modular nuclear deployment,false,https://www.lastenergy.com/careers/jobs,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",46,aalo-atomics,Aalo Atomics,Modular nuclear reactors,false,https://ats.rippling.com/aalo-atomics/jobs/cc9a425e-b470-46cb-8ceb-ac4146df5126,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",47,deep-fission,Deep Fission,Underground nuclear reactors,false,https://www.deepfission.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",48,antares-nuclear,Antares Nuclear,Mission-focused nuclear microreactors,false,https://www.antaresindustries.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",49,zeno-power,Zeno Power,Radioisotope power,true,https://www.zenopower.com/careers,2026-10-29
+energy,"Nuclear, fusion, grid & energy resilience",50,fluor,Fluor,Engineering and construction,false,https://careers.fluor.com/careers/hr_services,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",1,redwood-materials,Redwood Materials,Battery materials and energy storage,true,https://www.redwoodmaterials.com/join/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",2,form-energy,Form Energy,Iron-air long-duration storage,true,https://formenergy.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",3,fervo-energy,Fervo Energy,Enhanced geothermal power,true,https://job-boards.greenhouse.io/fervoenergy/jobs/4426455009,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",4,commonwealth-fusion-systems,Commonwealth Fusion Systems,High-field magnetic fusion,true,https://cfs.energy/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",5,helion-energy,Helion Energy,Pulsed fusion,true,https://www.helionenergy.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",6,electric-hydrogen,Electric Hydrogen,Industrial hydrogen equipment,false,https://eh2.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",7,twelve,Twelve,Carbon conversion,false,https://www.twelve.co/post/teamtwelve-overview-of-employee-benefits,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",8,charm-industrial,Charm Industrial,Biomass carbon removal,false,https://charmindustrial.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",9,heirloom,Heirloom,Direct air capture,false,https://www.heirloomcarbon.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",10,carboncapture,CarbonCapture,Direct air capture,false,https://jobs.lever.co/carboncapture,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",11,climeworks,Climeworks,Direct air capture,false,https://climeworks.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",12,carbon-clean,Carbon Clean,Industrial carbon capture,false,https://www.carbonclean.com/about-us/opportunities,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",13,sublime-systems,Sublime Systems,Low-carbon cement,false,https://sublime-systems.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",14,brimstone,Brimstone,Low-carbon cement and alumina,true,https://www.brimstone.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",15,boston-metal,Boston Metal,Low-carbon metals,false,https://www.bostonmetal.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",16,electra,Electra,Electrochemical clean iron,true,https://www.electra.earth/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",17,rondo-energy,Rondo Energy,Industrial heat storage,true,https://www.rondo.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",18,antora-energy,Antora Energy,Thermal energy storage,true,https://www.antora.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",19,eos-energy,Eos Energy,Zinc-based energy storage,false,https://www.eose.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",20,energy-vault,Energy Vault,Energy storage projects,false,https://jobs.lever.co/EnergyVault/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",21,fluence,Fluence,Grid energy storage,false,https://fluenceenergy.com/energy-storage-careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",22,tesla,Tesla,Electric vehicles and energy,false,https://www.tesla.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",23,rivian,Rivian,Electric vehicles,false,https://careers.rivian.com/work/jobs/categories,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",24,lucid-motors,Lucid Motors,Electric vehicles,false,https://lucidmotors.com/en-ca/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",25,quantumscape,QuantumScape,Battery technology,false,https://www.quantumscape.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",26,solid-power,Solid Power,Solid-state batteries,false,https://ir.solidpowerbattery.com/careers/default.aspx,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",27,sila,Sila,Battery materials,false,https://www.silanano.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",28,group14-technologies,Group14 Technologies,Silicon battery materials,false,https://group14.technology/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",29,ascend-elements,Ascend Elements,Battery recycling and materials,false,https://ascendelements.hrmdirect.com/employment/job-openings.php,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",30,lyten,Lyten,Battery technology,false,https://lyten.com/about-us/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",31,nth-cycle,Nth Cycle,Metals refining and recovery,false,https://nthcycle.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",32,niron-magnetics,Niron Magnetics,Rare-earth-free magnets,true,https://nironmagnetics.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",33,kobold-metals,KoBold Metals,Mineral exploration technology,true,https://koboldmetals.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",34,lilac-solutions,Lilac Solutions,Lithium extraction,false,https://ats.rippling.com/lilac-solutions/jobs,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",35,standard-lithium,Standard Lithium,Lithium development,false,https://www.standardlithium.com/contact/careers/apply/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",36,crusoe,Crusoe,AI infrastructure and energy,true,https://www.crusoe.ai/about/careers/culture,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",37,octopus-energy,Octopus Energy,Energy retail and software,true,https://octopus.energy/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",38,enphase-energy,Enphase Energy,Solar power electronics,false,https://jobs.jobvite.com/careers/enphase-energy/jobs,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",39,solaredge,SolarEdge,Solar power electronics,false,https://corporate.solaredge.com/en/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",40,first-solar,First Solar,Solar manufacturing,true,https://www.firstsolar.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",41,sunrun,Sunrun,Residential solar and storage,false,https://careers.sunrun.com/search-jobs,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",42,nextracker,Nextpower (formerly Nextracker),Solar infrastructure and power systems,true,https://nextpower.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",43,array-technologies,Array Technologies,Solar tracking systems,false,https://arraytechinc.com/our-story/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",44,span,SPAN,Smart electrical panels,false,https://www.span.io/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",45,uplight,Uplight,Utility software,false,https://uplight.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",46,aurora-solar,Aurora Solar,Solar design software,false,https://www.aurorasolar.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",47,watershed,Watershed,Carbon accounting software,true,https://watershed.com/en-GB/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",48,persefoni,Persefoni,Carbon accounting software,false,https://www.persefoni.com/careers,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",49,generate-capital,Generate Capital,Sustainable infrastructure investment,true,https://generatecapital.com/careers/,2026-10-29
+climate,"Climate, industrial reinvention & hard technology",50,pivot-energy,Pivot Energy,Distributed solar development,true,https://www.pivotenergy.net/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",1,anduril,Anduril,Defense autonomy and systems,true,https://www.anduril.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",2,shield-ai,Shield AI,Autonomous defense aircraft,true,https://shield.ai/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",3,skydio,Skydio,Autonomous drones,false,https://www.skydio.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",4,saronic,Saronic,Autonomous maritime systems,true,https://www.saronic.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",5,saildrone,Saildrone,Ocean autonomy,false,https://www.saildrone.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",6,helsing,Helsing,Defense AI,false,https://helsing.ai/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",7,palantir,Palantir,Operational analytics and AI,false,https://www.palantir.com/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",8,spacex,SpaceX,Space launch and connectivity,false,https://www.spacex.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",9,blue-origin,Blue Origin,Space launch and systems,false,https://www.blueorigin.com/careers/search,2026-10-29
+frontier,"Space, defense, robotics & autonomy",10,rocket-lab,Rocket Lab,Space launch and systems,true,https://rocketlabcorp.com/careers.php,2026-10-29
+frontier,"Space, defense, robotics & autonomy",11,relativity-space,Relativity Space,Space launch systems,false,https://www.relativityspace.com/jobs,2026-10-29
+frontier,"Space, defense, robotics & autonomy",12,firefly-aerospace,Firefly Aerospace,Space launch and lunar services,false,https://fireflyspace.com/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",13,stoke-space,Stoke Space,Reusable space launch,true,https://www.stokespace.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",14,impulse-space,Impulse Space,In-space transportation,true,https://www.impulsespace.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",15,astranis,Astranis,Satellite communications,true,https://www.astranis.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",16,apex-space,Apex Space,Satellite platforms,true,https://www.apexspace.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",17,varda-space-industries,Varda Space Industries,Space manufacturing,true,https://www.varda.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",18,axiom-space,Axiom Space,Space stations,false,https://axiomspace.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",19,sierra-space,Sierra Space,Space systems,false,https://www.sierraspace.com/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",20,sierra-nevada-corporation,Sierra Nevada Corporation,Aerospace and national-security systems,false,https://www.sierranevadacorp.net/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",21,vast,Vast,Space habitats,false,https://www.vastspace.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",22,redwire,Redwire,Space infrastructure,false,https://careers.rdw.com/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",23,planet-labs,Planet Labs,Earth observation,false,https://job-boards.greenhouse.io/planetlabs,2026-10-29
+frontier,"Space, defense, robotics & autonomy",24,spire-global,Spire Global,Space data,false,https://spire.com/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",25,blacksky,BlackSky,Geospatial intelligence,false,https://www.blacksky.com/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",26,capella-space,Capella Space,Radar Earth observation,false,https://www.capellaspace.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",27,umbra,Umbra,Radar Earth observation,false,https://umbra.space/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",28,loft-orbital,Loft Orbital,Space infrastructure services,false,https://jobs.lever.co/loftorbital,2026-10-29
+frontier,"Space, defense, robotics & autonomy",29,true-anomaly,True Anomaly,Space domain awareness,false,https://www.trueanomaly.space/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",30,castelion,Castelion,Defense manufacturing,false,https://www.castelion.com/careers/,2026-10-29
+frontier,"Space, defense, robotics & autonomy",31,hadrian,Hadrian,Precision manufacturing,false,https://www.hadrian.co/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",32,mach-industries,Mach Industries,Defense systems,false,https://machindustries.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",33,epirus,Epirus,Directed energy,false,https://www.epirusinc.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",34,forterra,Forterra,Autonomous ground systems,false,https://www.forterra.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",35,applied-intuition,Applied Intuition,Vehicle autonomy software,true,https://www.appliedintuition.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",36,figure-ai,Figure AI,Humanoid robotics,false,https://www.figure.ai/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",37,apptronik,Apptronik,Humanoid robotics,true,https://apptronik.com/careers/job-listings,2026-10-29
+frontier,"Space, defense, robotics & autonomy",38,agility-robotics,Agility Robotics,Warehouse robotics,false,https://www.agilityrobotics.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",39,boston-dynamics,Boston Dynamics,Industrial and mobile robotics,true,https://bostondynamics.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",40,sanctuary-ai,Sanctuary AI,General-purpose robotics,false,https://www.sanctuary.ai/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",41,1x,1X,Humanoid robotics,false,https://www.1x.tech/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",42,physical-intelligence,Physical Intelligence,Robot foundation models,false,https://www.pi.website/join-us,2026-10-29
+frontier,"Space, defense, robotics & autonomy",43,skild-ai,Skild AI,Robot foundation models,false,https://job-boards.greenhouse.io/skildai-careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",44,dexterity,Dexterity,Robotic manipulation,false,https://www.dexterity.ai/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",45,gecko-robotics,Gecko Robotics,Industrial inspection robotics,true,https://www.geckorobotics.com/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",46,zipline,Zipline,Autonomous logistics,true,https://www.zipline.com/about/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",47,nuro,Nuro,Autonomous delivery,false,https://www.nuro.ai/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",48,aurora-innovation,Aurora Innovation,Autonomous trucking,false,https://aurora.tech/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",49,kodiak-robotics,Kodiak AI / Kodiak Robotics,Autonomous trucking,false,https://kodiak.ai/careers,2026-10-29
+frontier,"Space, defense, robotics & autonomy",50,torc-robotics,Torc Robotics,Autonomous trucking,true,https://job-boards.greenhouse.io/torcrobotics,2026-10-29
+life,"Life science, health technology & scientific tools",1,regeneron,Regeneron,Biopharmaceutical discovery,true,https://careers.regeneron.com/,2026-10-29
+life,"Life science, health technology & scientific tools",2,vertex-pharmaceuticals,Vertex Pharmaceuticals,Specialty medicines,true,https://www.vrtx.com/careers/,2026-10-29
+life,"Life science, health technology & scientific tools",3,genentech-roche,Genentech / Roche,Biopharmaceuticals,false,https://careers.gene.com/,2026-10-29
+life,"Life science, health technology & scientific tools",4,amgen,Amgen,Biopharmaceuticals,false,https://careers.amgen.com/en/search-jobs,2026-10-29
+life,"Life science, health technology & scientific tools",5,eli-lilly,Eli Lilly,Biopharmaceuticals and manufacturing,true,https://careers.lilly.com/us/en/home,2026-10-29
+life,"Life science, health technology & scientific tools",6,novo-nordisk,Novo Nordisk,Metabolic medicines,false,https://www.novonordisk.com/careers.html,2026-10-29
+life,"Life science, health technology & scientific tools",7,novartis,Novartis,Biopharmaceuticals,false,https://www.novartis.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",8,merck,Merck,Biopharmaceuticals,false,https://jobs.merck.com/us/en/search-results/,2026-10-29
+life,"Life science, health technology & scientific tools",9,johnson-johnson,Johnson & Johnson,Pharmaceuticals and medical technology,false,https://www.careers.jnj.com/,2026-10-29
+life,"Life science, health technology & scientific tools",10,abbvie,AbbVie,Biopharmaceuticals,false,https://www.abbvie.com/join-us.html,2026-10-29
+life,"Life science, health technology & scientific tools",11,gilead-sciences,Gilead Sciences,Biopharmaceuticals,false,https://www.gilead.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",12,astrazeneca,AstraZeneca,Biopharmaceuticals,false,https://careers.astrazeneca.com/search-jobs/jobs,2026-10-29
+life,"Life science, health technology & scientific tools",13,sanofi,Sanofi,Biopharmaceuticals,false,https://jobs.sanofi.com/en/search-jobs,2026-10-29
+life,"Life science, health technology & scientific tools",14,pfizer,Pfizer,Biopharmaceuticals,false,https://www.pfizer.com/about/careers/search-results,2026-10-29
+life,"Life science, health technology & scientific tools",15,bristol-myers-squibb,Bristol Myers Squibb,Biopharmaceuticals,false,https://www.bms.com/gb/do-not-use/careers.html,2026-10-29
+life,"Life science, health technology & scientific tools",16,moderna,Moderna,RNA medicines,false,https://www.modernatx.com/en-US/careers,2026-10-29
+life,"Life science, health technology & scientific tools",17,biontech,BioNTech,Immunotherapies,false,https://www.biontech.com/int/en/home/careers/working-at-biontech.html,2026-10-29
+life,"Life science, health technology & scientific tools",18,alnylam,Alnylam,RNA interference medicines,true,https://www.alnylam.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",19,biomarin,BioMarin,Rare-disease medicines,false,https://www.biomarin.com/careers/jobs/,2026-10-29
+life,"Life science, health technology & scientific tools",20,neurocrine-biosciences,Neurocrine Biosciences,Neuroscience medicines,false,https://www.neurocrine.com/work-with-us/,2026-10-29
+life,"Life science, health technology & scientific tools",21,ionis-pharmaceuticals,Ionis Pharmaceuticals,RNA-targeted medicines,false,https://ionis.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",22,intellia-therapeutics,Intellia Therapeutics,Gene editing,false,https://www.intelliatx.com/careers/,2026-10-29
+life,"Life science, health technology & scientific tools",23,crispr-therapeutics,CRISPR Therapeutics,Gene editing,false,https://crisprtherapeutics.applytojob.com/apply/,2026-10-29
+life,"Life science, health technology & scientific tools",24,beam-therapeutics,Beam Therapeutics,Precision genetic medicines,false,https://beamtx.com/careers/,2026-10-29
+life,"Life science, health technology & scientific tools",25,recursion,Recursion,AI-enabled drug discovery,false,https://recursion.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",26,tempus-ai,Tempus AI,Precision medicine AI,false,https://www.tempus.com/careers/,2026-10-29
+life,"Life science, health technology & scientific tools",27,benchling,Benchling,Scientific R&D software,true,https://www.benchling.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",28,insitro,Insitro,Machine learning drug discovery,false,https://www.insitro.com/join-us/,2026-10-29
+life,"Life science, health technology & scientific tools",29,generate-biomedicines,Generate Biomedicines,Protein therapeutics,false,https://generatebiomedicines.com/open-positions/,2026-10-29
+life,"Life science, health technology & scientific tools",30,isomorphic-labs,Isomorphic Labs,AI-enabled drug design,false,https://www.isomorphiclabs.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",31,owkin,Owkin,AI-enabled medicine,false,https://www.owkin.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",32,pathai,PathAI,Digital pathology,false,https://www.pathai.com/careers,2026-10-29
+life,"Life science, health technology & scientific tools",33,natera,Natera,Genetic testing,false,https://www.natera.com/company/careers/,2026-10-29
+life,"Life science, health technology & scientific tools",34,guardant-health,Guardant Health,Cancer diagnostics,false,https://guardanthealth.com/careers/,2026-10-29
+life,"Life science, health technology & scientific tools",35,exact-sciences,Exact Sciences,Cancer screening,false,https://careers.exactsciences.com/,2026-10-29
+life,"Life science, health technology & scientific tools",36,illumina,Illumina,Genomic sequencing,false,https://www.illumina.com/company/careers.html,2026-10-29
+life,"Life science, health technology & scientific tools",37,pacbio,PacBio,Genomic sequencing,false,https://www.pacb.com/careers/,2026-10-29
+life,"Life science, health technology & scientific tools",38,oxford-nanopore,Oxford Nanopore,Nanopore sequencing,false,https://nanoporetech.com/about/careers,2026-10-29
+life,"Life science, health technology & scientific tools",39,10x-genomics,10x Genomics,Single-cell research tools,false,https://careers.10xgenomics.com/,2026-10-29
+life,"Life science, health technology & scientific tools",40,danaher,Danaher,Scientific and diagnostic tools,true,https://jobs.danaher.com/global/en,2026-10-29
+life,"Life science, health technology & scientific tools",41,thermo-fisher-scientific,Thermo Fisher Scientific,Scientific tools and services,true,https://jobs.thermofisher.com/global/en/,2026-10-29
+life,"Life science, health technology & scientific tools",42,agilent,Agilent,Analytical instruments,true,https://careers.agilent.com/,2026-10-29
+life,"Life science, health technology & scientific tools",43,waters,Waters,Analytical and laboratory tools,false,https://www.waters.com/nextgen/en/about-waters/careers.html,2026-10-29
+life,"Life science, health technology & scientific tools",44,mettler-toledo,Mettler-Toledo,Precision instruments,false,https://jobs.mt.com/en/search-jobs,2026-10-29
+life,"Life science, health technology & scientific tools",45,bruker,Bruker,Scientific instruments,false,https://www.bruker.com/en/careers.html,2026-10-29
+life,"Life science, health technology & scientific tools",46,intuitive-surgical,Intuitive Surgical,Robotic surgery,true,https://careers.intuitive.com/,2026-10-29
+life,"Life science, health technology & scientific tools",47,medtronic,Medtronic,Medical devices,false,https://www.medtronic.com/en-us/our-company/careers.html,2026-10-29
+life,"Life science, health technology & scientific tools",48,boston-scientific,Boston Scientific,Medical devices,false,https://jobs.bostonscientific.com/,2026-10-29
+life,"Life science, health technology & scientific tools",49,stryker,Stryker,Medical devices,false,https://careers.stryker.com/jobs,2026-10-29
+life,"Life science, health technology & scientific tools",50,resmed,ResMed,Sleep and respiratory technology,true,https://careers.resmed.com/,2026-10-29
+durable,Established public STEM employers,1,microsoft,Microsoft,Cloud and enterprise AI,true,https://careers.microsoft.com/,2026-10-29
+durable,Established public STEM employers,2,nvidia,NVIDIA,AI chips and accelerated computing,true,https://www.nvidia.com/en-us/about-nvidia/careers/,2026-10-29
+durable,Established public STEM employers,3,alphabet-google-deepmind,Alphabet / Google DeepMind,AI research and cloud platforms,true,https://deepmind.google/careers/,2026-10-29
+durable,Established public STEM employers,4,asml,ASML,Semiconductor lithography,true,https://www.asml.com/en/careers/find-your-job,2026-10-29
+durable,Established public STEM employers,5,tsmc,TSMC,Semiconductor manufacturing,false,https://www.tsmc.com/static/english/careers/it_career/index.html,2026-10-29
+durable,Established public STEM employers,6,broadcom,Broadcom,Semiconductors and software,false,https://www.broadcom.com/company/careers,2026-10-29
+durable,Established public STEM employers,7,amd,AMD,Semiconductors,false,https://www.amd.com/en/corporate/careers.html,2026-10-29
+durable,Established public STEM employers,8,arm,Arm,Semiconductor architecture,false,https://talentcommunity.arm.com/jobs/categories,2026-10-29
+durable,Established public STEM employers,9,synopsys,Synopsys,Electronic design automation,false,https://careers.synopsys.com/en/search-jobs,2026-10-29
+durable,Established public STEM employers,10,cadence-design-systems,Cadence Design Systems,Electronic design automation,true,https://www.cadence.com/en_US/home/company/careers.html,2026-10-29
+durable,Established public STEM employers,11,analog-devices,Analog Devices,Analog semiconductors,false,https://www.analog.com/en/careers.html,2026-10-29
+durable,Established public STEM employers,12,texas-instruments,Texas Instruments,Analog and embedded semiconductors,true,https://careers.ti.com/en/sites/CX,2026-10-29
+durable,Established public STEM employers,13,qualcomm,Qualcomm,Wireless semiconductors,false,https://www.qualcomm.com/company/careers/faqs,2026-10-29
+durable,Established public STEM employers,14,lam-research,Lam Research,Semiconductor manufacturing equipment,false,https://careers.lamresearch.com/careers/apply,2026-10-29
+durable,Established public STEM employers,15,applied-materials,Applied Materials,Semiconductor manufacturing equipment,false,https://jobs.appliedmaterials.com/en/search-jobs,2026-10-29
+durable,Established public STEM employers,16,kla,KLA,Semiconductor process control,true,https://www.kla.com/careers,2026-10-29
+durable,Established public STEM employers,17,teradyne,Teradyne,Automated test and robotics,false,https://jobs.teradyne.com/Teradyne/,2026-10-29
+durable,Established public STEM employers,18,keysight-technologies,Keysight Technologies,Electronic test and measurement,false,https://jobs.keysight.com/,2026-10-29
+durable,Established public STEM employers,19,fortive,Fortive,Industrial technology,false,https://careers.fortive.com/,2026-10-29
+durable,Established public STEM employers,20,roper-technologies,Roper Technologies,Vertical software and technology,false,https://www.ropertech.com/careers/,2026-10-29
+durable,Established public STEM employers,21,veralto,Veralto,Water and product-quality technology,false,https://jobs.veralto.com/,2026-10-29
+durable,Established public STEM employers,22,danaher,Danaher,Scientific and diagnostic tools,true,https://jobs.danaher.com/global/en,2026-10-29
+durable,Established public STEM employers,23,thermo-fisher-scientific,Thermo Fisher Scientific,Scientific tools and services,true,https://jobs.thermofisher.com/global/en/,2026-10-29
+durable,Established public STEM employers,24,agilent,Agilent,Analytical instruments,true,https://careers.agilent.com/,2026-10-29
+durable,Established public STEM employers,25,waters,Waters,Analytical and laboratory tools,false,https://www.waters.com/nextgen/en/about-waters/careers.html,2026-10-29
+durable,Established public STEM employers,26,mettler-toledo,Mettler-Toledo,Precision instruments,false,https://jobs.mt.com/en/search-jobs,2026-10-29
+durable,Established public STEM employers,27,bruker,Bruker,Scientific instruments,false,https://www.bruker.com/en/careers.html,2026-10-29
+durable,Established public STEM employers,28,intuitive-surgical,Intuitive Surgical,Robotic surgery,true,https://careers.intuitive.com/,2026-10-29
+durable,Established public STEM employers,29,stryker,Stryker,Medical devices,false,https://careers.stryker.com/jobs,2026-10-29
+durable,Established public STEM employers,30,boston-scientific,Boston Scientific,Medical devices,false,https://jobs.bostonscientific.com/,2026-10-29
+durable,Established public STEM employers,31,resmed,ResMed,Sleep and respiratory technology,true,https://careers.resmed.com/,2026-10-29
+durable,Established public STEM employers,32,vertex-pharmaceuticals,Vertex Pharmaceuticals,Specialty medicines,true,https://www.vrtx.com/careers/,2026-10-29
+durable,Established public STEM employers,33,regeneron,Regeneron,Biopharmaceutical discovery,true,https://careers.regeneron.com/,2026-10-29
+durable,Established public STEM employers,34,eli-lilly,Eli Lilly,Biopharmaceuticals and manufacturing,true,https://careers.lilly.com/us/en/home,2026-10-29
+durable,Established public STEM employers,35,novo-nordisk,Novo Nordisk,Metabolic medicines,false,https://www.novonordisk.com/careers.html,2026-10-29
+durable,Established public STEM employers,36,eaton,Eaton,Electrical power management,true,https://www.eaton.com/us/en-us/company/careers/wellbeing-at-eaton.html,2026-10-29
+durable,Established public STEM employers,37,schneider-electric,Schneider Electric,Energy management and automation,true,https://careers.se.com/careers-at-schneider-electric,2026-10-29
+durable,Established public STEM employers,38,abb,ABB,Electrification and automation,false,https://careers.abb/global/en/,2026-10-29
+durable,Established public STEM employers,39,siemens,Siemens,Industrial technology and software,false,https://www.siemens.com/de-de/company/jobs/,2026-10-29
+durable,Established public STEM employers,40,siemens-energy,Siemens Energy,Power generation and grid equipment,false,https://www.siemens-energy.com/global/en/home/careers/working-with-us.html,2026-10-29
+durable,Established public STEM employers,41,ge-vernova,GE Vernova,Power generation and grid technology,true,https://careers.gevernova.com/,2026-10-29
+durable,Established public STEM employers,42,rockwell-automation,Rockwell Automation,Industrial automation,false,https://www.rockwellautomation.com/en-us/company/careers.html,2026-10-29
+durable,Established public STEM employers,43,emerson,Emerson,Industrial automation,false,https://www.emerson.com/en/corporate/careers,2026-10-29
+durable,Established public STEM employers,44,honeywell,Honeywell,Industrial technology,false,https://careers.honeywell.com/en/sites/Honeywell/jobs,2026-10-29
+durable,Established public STEM employers,45,parker-hannifin,Parker Hannifin,Motion and control systems,false,https://parkercareers.ttcportals.com/,2026-10-29
+durable,Established public STEM employers,46,trane-technologies,Trane Technologies,Climate control and building efficiency,true,https://careers.tranetechnologies.com/global/en/home,2026-10-29
+durable,Established public STEM employers,47,johnson-controls,Johnson Controls,Building systems,false,https://www.johnsoncontrols.co.uk/Careers,2026-10-29
+durable,Established public STEM employers,48,quanta-services,Quanta Services,Power infrastructure construction,true,https://www.quantaservices.com/careers,2026-10-29
+durable,Established public STEM employers,49,hubbell,Hubbell,Electrical infrastructure,false,https://careers.hubbell.com/,2026-10-29
+durable,Established public STEM employers,50,constellation-energy,Constellation Energy,Electric power and nuclear operations,true,https://www.constellationenergy.com/our-company/careers.html,2026-10-29
+remote,"Remote, flexible & distributed work",1,gitlab,GitLab,Developer collaboration platform,false,https://about.gitlab.com/jobs/,2026-10-29
+remote,"Remote, flexible & distributed work",2,automattic,Automattic,Open-source web products,false,https://automattic.com/work-with-us/jobs/,2026-10-29
+remote,"Remote, flexible & distributed work",3,zapier,Zapier,Workflow automation,false,https://zapier.com/jobs,2026-10-29
+remote,"Remote, flexible & distributed work",4,buffer,Buffer,Social publishing software,true,https://buffer.com/journey,2026-10-29
+remote,"Remote, flexible & distributed work",5,doist,Todoist / Doist,Productivity software,true,https://www.todoist.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",6,toggl,Toggl,Time and productivity software,false,https://toggl.com/jobs/,2026-10-29
+remote,"Remote, flexible & distributed work",7,37signals,37signals,Business productivity software,false,https://37signals.com/jobs,2026-10-29
+remote,"Remote, flexible & distributed work",8,duckduckgo,DuckDuckGo,Privacy-focused search,true,https://duckduckgo.com/hiring,2026-10-29
+remote,"Remote, flexible & distributed work",9,mozilla,Mozilla,Internet software and advocacy,false,https://www.mozilla.org/en-US/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",10,wikimedia-foundation,Wikimedia Foundation,Public-interest knowledge,false,https://wikimediafoundation.org/jobs/,2026-10-29
+remote,"Remote, flexible & distributed work",11,canonical,Canonical,Linux and infrastructure software,false,https://canonical.com/careers/all,2026-10-29
+remote,"Remote, flexible & distributed work",12,elastic,Elastic,Search and observability,true,https://www.elastic.co/careers,2026-10-29
+remote,"Remote, flexible & distributed work",13,grafana-labs,Grafana Labs,Observability software,true,https://grafana.com/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",14,supabase,Supabase,Open-source backend platform,true,https://supabase.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",15,vercel,Vercel,Web development cloud,true,https://vercel.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",16,netlify,Netlify,Web development platform,false,https://www.netlify.com/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",17,cloudflare,Cloudflare,Internet infrastructure and security,true,https://www.cloudflare.com/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",18,atlassian,Atlassian,Team collaboration software,true,https://www.atlassian.com/company/careers,2026-10-29
+remote,"Remote, flexible & distributed work",19,dropbox,Dropbox,Cloud content software,false,https://www.dropbox.jobs/,2026-10-29
+remote,"Remote, flexible & distributed work",20,airbnb,Airbnb,Travel marketplace,true,https://careers.airbnb.com/,2026-10-29
+remote,"Remote, flexible & distributed work",21,spotify,Spotify,Audio streaming,false,https://jobs.lever.co/spotify,2026-10-29
+remote,"Remote, flexible & distributed work",22,hubspot,HubSpot,Customer relationship software,false,https://www.hubspot.com/careers/jobs/all,2026-10-29
+remote,"Remote, flexible & distributed work",23,reddit,Reddit,Online communities,false,https://www.redditinc.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",24,block,Block,Financial technology,false,https://block.xyz/careers,2026-10-29
+remote,"Remote, flexible & distributed work",25,coinbase,Coinbase,Digital asset infrastructure,false,https://www.coinbase.com/careers/positions,2026-10-29
+remote,"Remote, flexible & distributed work",26,hugging-face,Hugging Face,Open model ecosystem,true,https://apply.workable.com/huggingface/,2026-10-29
+remote,"Remote, flexible & distributed work",27,cohere,Cohere,Enterprise language models,true,https://cohere.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",28,linear,Linear,Product development software,true,https://linear.app/careers,2026-10-29
+remote,"Remote, flexible & distributed work",29,mercury,Mercury,Business banking software,false,https://mercury.com/jobs,2026-10-29
+remote,"Remote, flexible & distributed work",30,weaviate,Weaviate,Vector databases,true,https://weaviate.io/company/careers,2026-10-29
+remote,"Remote, flexible & distributed work",31,deel,Deel,Global workforce software,false,https://www.deel.com/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",32,remote,Remote,Global workforce software,false,https://remote.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",33,oyster,Oyster,Global workforce software,false,https://www.oysterhr.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",34,safetywing,SafetyWing,Remote-worker insurance and benefits,false,https://safetywing.pinpointhq.com/,2026-10-29
+remote,"Remote, flexible & distributed work",35,testgorilla,TestGorilla,Hiring assessment software,false,https://www.testgorilla.com/hiring-at-testgorilla/,2026-10-29
+remote,"Remote, flexible & distributed work",36,posthog,PostHog,Product analytics and developer tools,false,https://posthog.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",37,help-scout,Help Scout,Customer support software,false,https://www.helpscout.com/company/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",38,customer-io,Customer.io,Customer engagement software,false,https://customer.io/careers,2026-10-29
+remote,"Remote, flexible & distributed work",39,kit,Kit,Creator business software,false,https://kit.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",40,n8n,n8n,AI workflow automation,false,https://n8n.io/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",41,ghost,Ghost,Independent publishing software,false,https://ghost.org/about/,2026-10-29
+remote,"Remote, flexible & distributed work",42,discourse,Discourse,Community software,false,https://www.discourse.org/jobs,2026-10-29
+remote,"Remote, flexible & distributed work",43,llamaindex,LlamaIndex,Retrieval and agent tooling,false,https://www.llamaindex.ai/careers,2026-10-29
+remote,"Remote, flexible & distributed work",44,clickhouse,ClickHouse,Analytical databases,false,https://clickhouse.com/company/careers,2026-10-29
+remote,"Remote, flexible & distributed work",45,dbt-labs,dbt Labs,Analytics engineering software,false,https://www.getdbt.com/about-us/careers,2026-10-29
+remote,"Remote, flexible & distributed work",46,temporal,Temporal,Durable workflow infrastructure,true,https://temporal.io/careers,2026-10-29
+remote,"Remote, flexible & distributed work",47,tailscale,Tailscale,Secure networking,true,https://tailscale.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",48,1password,1Password,Identity and security software,true,https://1password.com/careers,2026-10-29
+remote,"Remote, flexible & distributed work",49,bitwarden,Bitwarden,Password security,true,https://bitwarden.com/careers/,2026-10-29
+remote,"Remote, flexible & distributed work",50,runway,Runway,Creative AI video,false,https://runway.com/careers,2026-10-29

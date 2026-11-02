@@ -1,0 +1,6120 @@
+[
+  {
+    "name": "Anthropic",
+    "careerUrl": "https://www.anthropic.com/careers",
+    "evidenceRead": {
+      "url": "https://www.anthropic.com/careers",
+      "lines": 183,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "OpenAI",
+    "careerUrl": "https://openai.com/careers/",
+    "evidenceRead": {
+      "url": "https://openai.com/careers/",
+      "lines": 188,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Alphabet / Google DeepMind",
+    "careerUrl": "https://deepmind.google/careers/",
+    "evidenceRead": {
+      "url": "https://deepmind.google/careers/",
+      "lines": 273,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "NVIDIA",
+    "careerUrl": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+    "evidenceRead": {
+      "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "lines": 204,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Microsoft",
+    "careerUrl": "https://careers.microsoft.com/",
+    "evidenceRead": {
+      "url": "https://careers.microsoft.com/",
+      "lines": 70,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Databricks",
+    "careerUrl": "https://www.databricks.com/company/careers",
+    "evidenceRead": {
+      "url": "https://www.databricks.com/company/careers",
+      "lines": 277,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Hugging Face",
+    "careerUrl": "https://apply.workable.com/huggingface/",
+    "evidenceRead": {
+      "url": "https://huggingface.co/join-us",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unsupported_workable",
+      "boardTokenCandidate": "huggingface",
+      "evidenceUrl": "https://apply.workable.com/huggingface/",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Cohere",
+    "careerUrl": "https://cohere.com/careers",
+    "evidenceRead": {
+      "url": "https://cohere.com/careers",
+      "lines": 387,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Mistral AI",
+    "careerUrl": "https://mistral.ai/careers",
+    "evidenceRead": {
+      "url": "https://mistral.ai/careers",
+      "lines": 238,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Allen Institute for AI (Ai2)",
+    "careerUrl": "https://allenai.org/careers",
+    "evidenceRead": {
+      "url": "https://allenai.org/careers",
+      "lines": 165,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Perplexity",
+    "careerUrl": "https://www.perplexity.ai/careers",
+    "evidenceRead": {
+      "url": "https://jobs.ashbyhq.com/perplexity/6628bead-dec0-4ed2-8aef-5a036815d2a0/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Glean",
+    "careerUrl": "https://www.glean.com/careers",
+    "evidenceRead": {
+      "url": "https://www.glean.com/careers",
+      "lines": 283,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "gleanwork",
+      "evidenceUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4615117005",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Harvey",
+    "careerUrl": "https://www.harvey.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.harvey.ai/careers",
+      "lines": 306,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Writer",
+    "careerUrl": "https://writer.com/careers/",
+    "evidenceRead": {
+      "url": "https://writer.com/careers/",
+      "lines": 161,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Scale AI",
+    "careerUrl": "https://scale.com/careers",
+    "evidenceRead": {
+      "url": "https://scale.com/careers",
+      "lines": 144,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Together AI",
+    "careerUrl": "https://www.together.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.together.ai/careers",
+      "lines": 188,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Fireworks AI",
+    "careerUrl": "https://fireworks.ai/careers",
+    "evidenceRead": {
+      "url": "https://fireworks.ai/careers",
+      "lines": 224,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "ashby",
+      "boardTokenCandidate": "fireworks",
+      "evidenceUrl": "https://jobs.ashbyhq.com/fireworks/85e542b8-6349-48a7-b1b4-3818baf945aa",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Cerebras",
+    "careerUrl": "https://www.cerebras.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.cerebras.ai/careers",
+      "lines": 97,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Groq",
+    "careerUrl": "https://groq.com/careers/",
+    "evidenceRead": {
+      "url": "https://groq.com/careers/",
+      "lines": 43,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "SambaNova Systems",
+    "careerUrl": "https://sambanova.ai/careers",
+    "evidenceRead": {
+      "url": "https://sambanova.ai/careers",
+      "lines": 133,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "CoreWeave",
+    "careerUrl": "https://www.coreweave.com/coreweave-company-culture",
+    "evidenceRead": {
+      "url": "https://www.coreweave.com/coreweave-company-culture",
+      "lines": 291,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Lambda",
+    "careerUrl": "https://lambda.ai/careers",
+    "evidenceRead": {
+      "url": "https://lambda.ai/careers",
+      "lines": 449,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Crusoe",
+    "careerUrl": "https://www.crusoe.ai/about/careers/culture",
+    "evidenceRead": {
+      "url": "https://www.crusoe.ai/about/careers/culture",
+      "lines": 379,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Modal",
+    "careerUrl": "https://modal.com/jobs",
+    "evidenceRead": {
+      "url": "https://modal.com/jobs",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Baseten",
+    "careerUrl": "https://www.baseten.co/resources/careers/",
+    "evidenceRead": {
+      "url": "https://www.baseten.co/resources/careers/",
+      "lines": 265,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "ashby",
+      "boardTokenCandidate": "baseten",
+      "evidenceUrl": "https://jobs.ashbyhq.com/baseten/5fdfe98f-c926-4af8-891a-79610b52ff96",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Anyscale",
+    "careerUrl": "https://www.anyscale.com/careers",
+    "evidenceRead": {
+      "url": "https://www.anyscale.com/careers",
+      "lines": 147,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "ashby",
+      "boardTokenCandidate": "anyscale",
+      "evidenceUrl": "https://jobs.ashbyhq.com/anyscale/02698dc0-9416-425f-a13d-0938ffd229a8",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sierra",
+    "careerUrl": "https://sierra.ai/careers",
+    "evidenceRead": {
+      "url": "https://sierra.ai/careers",
+      "lines": 189,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Decagon",
+    "careerUrl": "https://decagon.ai/careers",
+    "evidenceRead": {
+      "url": "https://decagon.ai/careers",
+      "lines": 311,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "LangChain",
+    "careerUrl": "https://www.langchain.com/careers",
+    "evidenceRead": {
+      "url": "https://www.langchain.com/careers",
+      "lines": 75,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "LlamaIndex",
+    "careerUrl": "https://www.llamaindex.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.llamaindex.ai/careers",
+      "lines": 329,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Runway",
+    "careerUrl": "https://runway.com/careers",
+    "evidenceRead": {
+      "url": "https://runway.com/careers",
+      "lines": 653,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "ashby",
+      "boardTokenCandidate": "runway-ml",
+      "evidenceUrl": "https://jobs.ashbyhq.com/runway-ml/8a24e440-20b5-4910-885c-3aeae2ec8805",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "ElevenLabs",
+    "careerUrl": "https://elevenlabs.io/careers",
+    "evidenceRead": {
+      "url": "https://elevenlabs.io/careers",
+      "lines": 403,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Synthesia",
+    "careerUrl": "https://www.synthesia.io/careers",
+    "evidenceRead": {
+      "url": "https://www.synthesia.io/careers",
+      "lines": 423,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Descript",
+    "careerUrl": "https://www.descript.com/careers",
+    "evidenceRead": {
+      "url": "https://www.descript.com/careers",
+      "lines": 241,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Notion",
+    "careerUrl": "https://www.notion.com/careers",
+    "evidenceRead": {
+      "url": "https://www.notion.com/careers",
+      "lines": 489,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Airtable",
+    "careerUrl": "https://www.airtable.com/careers",
+    "evidenceRead": {
+      "url": "https://www.airtable.com/careers",
+      "lines": 1,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Figma",
+    "careerUrl": "https://www.figma.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.figma.com/careers/",
+      "lines": 467,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Anysphere / Cursor",
+    "careerUrl": "https://cursor.com/careers",
+    "evidenceRead": {
+      "url": "https://cursor.com/careers",
+      "lines": 226,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Replit",
+    "careerUrl": "https://replit.com/careers",
+    "evidenceRead": {
+      "url": "https://replit.com/careers",
+      "lines": 271,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Vercel",
+    "careerUrl": "https://vercel.com/careers",
+    "evidenceRead": {
+      "url": "https://vercel.com/careers",
+      "lines": 252,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Cloudflare",
+    "careerUrl": "https://www.cloudflare.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.cloudflare.com/careers/",
+      "lines": 186,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Snowflake",
+    "careerUrl": "https://careers.snowflake.com/",
+    "evidenceRead": {
+      "url": "https://careers.snowflake.com/",
+      "lines": 62,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "MongoDB",
+    "careerUrl": "https://www.mongodb.com/company/careers",
+    "evidenceRead": {
+      "url": "https://www.mongodb.com/company/careers",
+      "lines": 185,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Elastic",
+    "careerUrl": "https://www.elastic.co/careers",
+    "evidenceRead": {
+      "url": "https://www.elastic.co/careers",
+      "lines": 280,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Redis",
+    "careerUrl": "https://redis.io/company/careers/",
+    "evidenceRead": {
+      "url": "https://redis.io/company/careers/",
+      "lines": 224,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Pinecone",
+    "careerUrl": "https://www.pinecone.io/careers/",
+    "evidenceRead": {
+      "url": "https://www.pinecone.io/careers/",
+      "lines": 90,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Weaviate",
+    "careerUrl": "https://weaviate.io/company/careers",
+    "evidenceRead": {
+      "url": "https://weaviate.io/company/careers",
+      "lines": 122,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Qdrant",
+    "careerUrl": "https://qdrant.tech/careers/",
+    "evidenceRead": {
+      "url": "https://qdrant.tech/careers/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sentry",
+    "careerUrl": "https://sentry.io/careers/",
+    "evidenceRead": {
+      "url": "https://sentry.io/careers/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Linear",
+    "careerUrl": "https://linear.app/careers",
+    "evidenceRead": {
+      "url": "https://linear.app/careers",
+      "lines": 174,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "TerraPower",
+    "careerUrl": "https://www.terrapower.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.terrapower.com/careers/",
+      "lines": 100,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "terrapowerllc",
+      "evidenceUrl": "https://job-boards.greenhouse.io/terrapowerllc/jobs/4370694009",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "X-energy",
+    "careerUrl": "https://x-energy.com/careers/",
+    "evidenceRead": {
+      "url": "https://x-energy.com/careers/",
+      "lines": 211,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Kairos Power",
+    "careerUrl": "https://www.kairospower.com/careers",
+    "evidenceRead": {
+      "url": "https://www.kairospower.com/careers",
+      "lines": 208,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Oklo",
+    "careerUrl": "https://oklo.com/about/careers",
+    "evidenceRead": {
+      "url": "https://oklo.com/about/careers",
+      "lines": 174,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "BWX Technologies",
+    "careerUrl": "https://careers.bwxt.com/",
+    "evidenceRead": {
+      "url": "https://careers.bwxt.com/",
+      "lines": 56,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "GE Vernova",
+    "careerUrl": "https://careers.gevernova.com/",
+    "evidenceRead": {
+      "url": "https://careers.gevernova.com/",
+      "lines": 294,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Westinghouse Electric",
+    "careerUrl": "https://careers.westinghousenuclear.com/",
+    "evidenceRead": {
+      "url": "https://careers.westinghousenuclear.com/",
+      "lines": 175,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Framatome",
+    "careerUrl": "https://nuclearcareers.com/",
+    "evidenceRead": {
+      "url": "https://nuclearcareers.com/",
+      "lines": 47,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Constellation Energy",
+    "careerUrl": "https://www.constellationenergy.com/our-company/careers.html",
+    "evidenceRead": {
+      "url": "https://jobs.constellationenergy.com/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Vistra",
+    "careerUrl": "https://www.vistracorp.com/careers/",
+    "evidenceRead": {
+      "url": "https://careers.vistracorp.com/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Duke Energy",
+    "careerUrl": "https://www.duke-energy.com/our-company/careers",
+    "evidenceRead": {
+      "url": "https://www.duke-energy.com/our-company/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Southern Company",
+    "careerUrl": "https://www.southerncompany.com/our-community/invest-in-our-people.html",
+    "evidenceRead": {
+      "url": "https://www.southerncompany.com/our-community/invest-in-our-people.html",
+      "lines": 223,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "NextEra Energy",
+    "careerUrl": "https://www.nexteraenergy.com/careers/life-at-nextera/benefits.html",
+    "evidenceRead": {
+      "url": "https://www.nexteraenergy.com/careers/life-at-nextera/benefits.html",
+      "lines": 105,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Dominion Energy",
+    "careerUrl": "https://careers.dominionenergy.com/content/Benefits/",
+    "evidenceRead": {
+      "url": "https://careers.dominionenergy.com/content/Benefits/",
+      "lines": 59,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Exelon",
+    "careerUrl": "https://careers.exeloncorp.com/careers-home/",
+    "evidenceRead": {
+      "url": "https://careers.exeloncorp.com/careers-home/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Entergy",
+    "careerUrl": "https://jobs.entergy.com/content/Careers-FAQ/",
+    "evidenceRead": {
+      "url": "https://jobs.entergy.com/content/Careers-FAQ/",
+      "lines": 115,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "PG&E",
+    "careerUrl": "https://careers.pge.com/content/Benefits/",
+    "evidenceRead": {
+      "url": "https://careers.pge.com/content/Benefits/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Xcel Energy",
+    "careerUrl": "https://jobs.xcelenergy.com/rewards",
+    "evidenceRead": {
+      "url": "https://jobs.xcelenergy.com/rewards",
+      "lines": 212,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "PSEG",
+    "careerUrl": "https://corporate.pseg.com/careers/benefits",
+    "evidenceRead": {
+      "url": "https://corporate.pseg.com/careers/benefits",
+      "lines": 532,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "National Grid",
+    "careerUrl": "https://livebrighterbenefits.nationalgrid.com/public/welcome",
+    "evidenceRead": {
+      "url": "https://livebrighterbenefits.nationalgrid.com/public/welcome",
+      "lines": 31,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Quanta Services",
+    "careerUrl": "https://www.quantaservices.com/careers",
+    "evidenceRead": {
+      "url": "https://www.quantaservices.com/careers",
+      "lines": 67,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Eaton",
+    "careerUrl": "https://www.eaton.com/us/en-us/company/careers/wellbeing-at-eaton.html",
+    "evidenceRead": {
+      "url": "https://www.eaton.com/us/en-us/company/careers/wellbeing-at-eaton.html",
+      "lines": 235,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Schneider Electric",
+    "careerUrl": "https://careers.se.com/careers-at-schneider-electric",
+    "evidenceRead": {
+      "url": "https://careers.se.com/careers-at-schneider-electric",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Siemens Energy",
+    "careerUrl": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html",
+    "evidenceRead": {
+      "url": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html",
+      "lines": 246,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Hitachi Energy",
+    "careerUrl": "https://www.hitachienergy.com/careers",
+    "evidenceRead": {
+      "url": "https://www.hitachienergy.com/careers",
+      "lines": 266,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Curtiss-Wright",
+    "careerUrl": "https://curtisswright.com/careers/benefits",
+    "evidenceRead": {
+      "url": "https://curtisswright.com/careers/benefits",
+      "lines": 153,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Amentum",
+    "careerUrl": "https://www.amentumcareers.com/jobs/ai-solutions-architect-programs-delivery-remote-united-states",
+    "evidenceRead": {
+      "url": "https://www.amentumcareers.com/jobs/ai-solutions-architect-programs-delivery-remote-united-states",
+      "lines": 143,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Bechtel",
+    "careerUrl": "https://jobs.bechtel.com/us/en/home",
+    "evidenceRead": {
+      "url": "https://jobs.bechtel.com/us/en/home",
+      "lines": 67,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Centrus Energy",
+    "careerUrl": "https://www.centrusenergy.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.centrusenergy.com/careers/",
+      "lines": 139,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Cameco",
+    "careerUrl": "https://www.cameco.com/careers/why-cameco/total-rewards",
+    "evidenceRead": {
+      "url": "https://www.cameco.com/careers/why-cameco/total-rewards",
+      "lines": 131,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Orano",
+    "careerUrl": "https://www.orano.group/jobs/en",
+    "evidenceRead": {
+      "url": "https://www.orano.group/jobs/en",
+      "lines": 40,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Urenco",
+    "careerUrl": "https://www.urenco.com/careers/life-at-urenco",
+    "evidenceRead": {
+      "url": "https://www.urenco.com/careers/life-at-urenco",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "General Atomics",
+    "careerUrl": "https://www.ga.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.ga.com/careers/",
+      "lines": 329,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Commonwealth Fusion Systems",
+    "careerUrl": "https://cfs.energy/careers/",
+    "evidenceRead": {
+      "url": "https://cfs.energy/careers/",
+      "lines": 68,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Helion Energy",
+    "careerUrl": "https://www.helionenergy.com/careers",
+    "evidenceRead": {
+      "url": "https://www.helionenergy.com/careers",
+      "lines": 261,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "TAE Technologies",
+    "careerUrl": "https://tae.com/careers/",
+    "evidenceRead": {
+      "url": "https://tae.com/careers/",
+      "lines": 132,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Zap Energy",
+    "careerUrl": "https://www.zapenergy.com/careers",
+    "evidenceRead": {
+      "url": "https://www.zapenergy.com/careers",
+      "lines": 126,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Type One Energy",
+    "careerUrl": "https://typeoneenergy.com/careers/",
+    "evidenceRead": {
+      "url": "https://typeoneenergy.com/careers/",
+      "lines": 291,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Thea Energy",
+    "careerUrl": "https://thea.energy/careers/",
+    "evidenceRead": {
+      "url": "https://thea.energy/careers/",
+      "lines": 240,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Proxima Fusion",
+    "careerUrl": "https://www.proximafusion.com/careers/open-positions",
+    "evidenceRead": {
+      "url": "https://www.proximafusion.com/careers/open-positions",
+      "lines": 734,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Pacific Fusion",
+    "careerUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4329610009",
+    "evidenceRead": {
+      "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4329610009",
+      "lines": 293,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "pacificfusion",
+      "evidenceUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4329610009",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Tokamak Energy",
+    "careerUrl": "https://tokamakenergy.com/working-at-tokamak-energy/",
+    "evidenceRead": {
+      "url": "https://tokamakenergy.com/working-at-tokamak-energy/",
+      "lines": 533,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Kyoto Fusioneering",
+    "careerUrl": "https://kyotofusioneering.com/en/careers",
+    "evidenceRead": {
+      "url": "https://kyotofusioneering.com/en/careers",
+      "lines": 255,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Radiant",
+    "careerUrl": "https://www.radiantnuclear.com/careers",
+    "evidenceRead": {
+      "url": "https://www.radiantnuclear.com/careers",
+      "lines": 151,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Last Energy",
+    "careerUrl": "https://www.lastenergy.com/careers/jobs",
+    "evidenceRead": {
+      "url": "https://www.lastenergy.com/careers/jobs",
+      "lines": 131,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Aalo Atomics",
+    "careerUrl": "https://ats.rippling.com/aalo-atomics/jobs/cc9a425e-b470-46cb-8ceb-ac4146df5126",
+    "evidenceRead": {
+      "url": "https://ats.rippling.com/aalo-atomics/jobs/cc9a425e-b470-46cb-8ceb-ac4146df5126",
+      "lines": 101,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Deep Fission",
+    "careerUrl": "https://www.deepfission.com/careers",
+    "evidenceRead": {
+      "url": "https://www.deepfission.com/careers",
+      "lines": 84,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Antares Nuclear",
+    "careerUrl": "https://www.antaresindustries.com/careers",
+    "evidenceRead": {
+      "url": "https://www.antaresindustries.com/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Zeno Power",
+    "careerUrl": "https://www.zenopower.com/careers",
+    "evidenceRead": {
+      "url": "https://www.zenopower.com/careers",
+      "lines": 561,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Fluor",
+    "careerUrl": "https://careers.fluor.com/careers/hr_services",
+    "evidenceRead": {
+      "url": "https://careers.fluor.com/careers/hr_services",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Redwood Materials",
+    "careerUrl": "https://www.redwoodmaterials.com/join/",
+    "evidenceRead": {
+      "url": "https://www.redwoodmaterials.com/join/",
+      "lines": 104,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Form Energy",
+    "careerUrl": "https://formenergy.com/careers/",
+    "evidenceRead": {
+      "url": "https://formenergy.com/careers/",
+      "lines": 284,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Fervo Energy",
+    "careerUrl": "https://job-boards.greenhouse.io/fervoenergy/jobs/4426455009",
+    "evidenceRead": {
+      "url": "https://job-boards.greenhouse.io/fervoenergy/jobs/4426455009",
+      "lines": 267,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "fervoenergy",
+      "evidenceUrl": "https://job-boards.greenhouse.io/fervoenergy/jobs/4426455009",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Electric Hydrogen",
+    "careerUrl": "https://eh2.com/careers/",
+    "evidenceRead": {
+      "url": "https://eh2.com/careers/",
+      "lines": 222,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Twelve",
+    "careerUrl": "https://www.twelve.co/post/teamtwelve-overview-of-employee-benefits",
+    "evidenceRead": {
+      "url": "https://www.twelve.co/post/teamtwelve-overview-of-employee-benefits",
+      "lines": 193,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Charm Industrial",
+    "careerUrl": "https://charmindustrial.com/careers",
+    "evidenceRead": {
+      "url": "https://charmindustrial.com/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Heirloom",
+    "careerUrl": "https://www.heirloomcarbon.com/careers",
+    "evidenceRead": {
+      "url": "https://www.heirloomcarbon.com/careers",
+      "lines": 135,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "CarbonCapture",
+    "careerUrl": "https://jobs.lever.co/carboncapture",
+    "evidenceRead": {
+      "url": "https://jobs.lever.co/carboncapture",
+      "lines": 5,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "lever",
+      "boardTokenCandidate": "carboncapture",
+      "evidenceUrl": "https://jobs.lever.co/carboncapture",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Climeworks",
+    "careerUrl": "https://climeworks.com/careers",
+    "evidenceRead": {
+      "url": "https://climeworks.com/careers",
+      "lines": 205,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Carbon Clean",
+    "careerUrl": "https://www.carbonclean.com/about-us/opportunities",
+    "evidenceRead": {
+      "url": "https://www.carbonclean.com/about-us/opportunities",
+      "lines": 129,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sublime Systems",
+    "careerUrl": "https://sublime-systems.com/careers/",
+    "evidenceRead": {
+      "url": "https://sublime-systems.com/careers/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Brimstone",
+    "careerUrl": "https://www.brimstone.com/careers",
+    "evidenceRead": {
+      "url": "https://www.brimstone.com/careers",
+      "lines": 331,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Boston Metal",
+    "careerUrl": "https://www.bostonmetal.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.bostonmetal.com/careers/",
+      "lines": 117,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Electra",
+    "careerUrl": "https://www.electra.earth/careers/",
+    "evidenceRead": {
+      "url": "https://www.electra.earth/careers/",
+      "lines": 84,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Rondo Energy",
+    "careerUrl": "https://www.rondo.com/careers",
+    "evidenceRead": {
+      "url": "https://www.rondo.com/careers",
+      "lines": 121,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Antora Energy",
+    "careerUrl": "https://www.antora.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.antora.com/careers/",
+      "lines": 251,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Eos Energy",
+    "careerUrl": "https://www.eose.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.eose.com/careers/",
+      "lines": 238,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Energy Vault",
+    "careerUrl": "https://jobs.lever.co/EnergyVault/",
+    "evidenceRead": {
+      "url": "https://jobs.lever.co/EnergyVault/",
+      "lines": 98,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "lever",
+      "boardTokenCandidate": "EnergyVault",
+      "evidenceUrl": "https://jobs.lever.co/EnergyVault/",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Fluence",
+    "careerUrl": "https://fluenceenergy.com/energy-storage-careers/",
+    "evidenceRead": {
+      "url": "https://fluenceenergy.com/energy-storage-careers/",
+      "lines": 389,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Tesla",
+    "careerUrl": "https://www.tesla.com/careers",
+    "evidenceRead": {
+      "url": "https://www.tesla.com/careers",
+      "lines": 4,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Rivian",
+    "careerUrl": "https://careers.rivian.com/work/jobs/categories",
+    "evidenceRead": {
+      "url": "https://careers.rivian.com/work/jobs/categories",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Lucid Motors",
+    "careerUrl": "https://lucidmotors.com/en-ca/careers",
+    "evidenceRead": {
+      "url": "https://lucidmotors.com/en-ca/careers",
+      "lines": 192,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "QuantumScape",
+    "careerUrl": "https://www.quantumscape.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.quantumscape.com/careers/",
+      "lines": 77,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Solid Power",
+    "careerUrl": "https://ir.solidpowerbattery.com/careers/default.aspx",
+    "evidenceRead": {
+      "url": "https://ir.solidpowerbattery.com/careers/default.aspx",
+      "lines": 55,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sila",
+    "careerUrl": "https://www.silanano.com/careers",
+    "evidenceRead": {
+      "url": "https://www.silanano.com/careers",
+      "lines": 91,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Group14 Technologies",
+    "careerUrl": "https://group14.technology/careers/",
+    "evidenceRead": {
+      "url": "https://group14.technology/careers/",
+      "lines": 206,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Ascend Elements",
+    "careerUrl": "https://ascendelements.hrmdirect.com/employment/job-openings.php",
+    "evidenceRead": {
+      "url": "https://ascendelements.hrmdirect.com/employment/job-openings.php",
+      "lines": 7,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Lyten",
+    "careerUrl": "https://lyten.com/about-us/careers/",
+    "evidenceRead": {
+      "url": "https://lyten.com/about-us/careers/",
+      "lines": 174,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Nth Cycle",
+    "careerUrl": "https://nthcycle.com/careers",
+    "evidenceRead": {
+      "url": "https://nthcycle.com/careers",
+      "lines": 206,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Niron Magnetics",
+    "careerUrl": "https://nironmagnetics.com/careers/",
+    "evidenceRead": {
+      "url": "https://nironmagnetics.com/careers/",
+      "lines": 138,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "KoBold Metals",
+    "careerUrl": "https://koboldmetals.com/careers/",
+    "evidenceRead": {
+      "url": "https://koboldmetals.com/careers/",
+      "lines": 63,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Lilac Solutions",
+    "careerUrl": "https://ats.rippling.com/lilac-solutions/jobs",
+    "evidenceRead": {
+      "url": "https://ats.rippling.com/lilac-solutions/jobs",
+      "lines": 27,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Standard Lithium",
+    "careerUrl": "https://www.standardlithium.com/contact/careers/apply/",
+    "evidenceRead": {
+      "url": "https://www.standardlithium.com/contact/careers/apply/",
+      "lines": 169,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Octopus Energy",
+    "careerUrl": "https://octopus.energy/careers/",
+    "evidenceRead": {
+      "url": "https://octopus.energy/careers/",
+      "lines": 205,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Enphase Energy",
+    "careerUrl": "https://jobs.jobvite.com/careers/enphase-energy/jobs",
+    "evidenceRead": {
+      "url": "https://jobs.jobvite.com/careers/enphase-energy/jobs",
+      "lines": 157,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "SolarEdge",
+    "careerUrl": "https://corporate.solaredge.com/en/careers",
+    "evidenceRead": {
+      "url": "https://corporate.solaredge.com/en/careers",
+      "lines": 135,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "First Solar",
+    "careerUrl": "https://www.firstsolar.com/careers",
+    "evidenceRead": {
+      "url": "https://www.firstsolar.com/careers",
+      "lines": 333,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sunrun",
+    "careerUrl": "https://careers.sunrun.com/search-jobs",
+    "evidenceRead": {
+      "url": "https://careers.sunrun.com/search-jobs",
+      "lines": 387,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Nextracker",
+    "careerUrl": "https://nextpower.com/careers",
+    "evidenceRead": {
+      "url": "https://nextpower.com/careers",
+      "lines": 18,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Array Technologies",
+    "careerUrl": "https://arraytechinc.com/our-story/careers/",
+    "evidenceRead": {
+      "url": "https://arraytechinc.com/our-story/careers/",
+      "lines": 200,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "SPAN",
+    "careerUrl": "https://www.span.io/careers",
+    "evidenceRead": {
+      "url": "https://www.span.io/careers",
+      "lines": 167,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Uplight",
+    "careerUrl": "https://uplight.com/careers/",
+    "evidenceRead": {
+      "url": "https://uplight.com/careers/",
+      "lines": 762,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Aurora Solar",
+    "careerUrl": "https://www.aurorasolar.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.aurorasolar.com/careers/",
+      "lines": 332,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Watershed",
+    "careerUrl": "https://watershed.com/en-GB/careers",
+    "evidenceRead": {
+      "url": "https://watershed.com/en-GB/careers",
+      "lines": 180,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Persefoni",
+    "careerUrl": "https://www.persefoni.com/careers",
+    "evidenceRead": {
+      "url": "https://www.persefoni.com/careers",
+      "lines": 181,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Generate Capital",
+    "careerUrl": "https://generatecapital.com/careers/",
+    "evidenceRead": {
+      "url": "https://generatecapital.com/careers/",
+      "lines": 57,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Pivot Energy",
+    "careerUrl": "https://www.pivotenergy.net/careers",
+    "evidenceRead": {
+      "url": "https://www.pivotenergy.net/careers",
+      "lines": 322,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Anduril",
+    "careerUrl": "https://www.anduril.com/careers",
+    "evidenceRead": {
+      "url": "https://www.anduril.com/careers",
+      "lines": 1,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Shield AI",
+    "careerUrl": "https://shield.ai/careers/",
+    "evidenceRead": {
+      "url": "https://shield.ai/careers/",
+      "lines": 207,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Skydio",
+    "careerUrl": "https://www.skydio.com/careers",
+    "evidenceRead": {
+      "url": "https://www.skydio.com/careers",
+      "lines": 1395,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Saronic",
+    "careerUrl": "https://www.saronic.com/careers",
+    "evidenceRead": {
+      "url": "https://www.saronic.com/careers",
+      "lines": 241,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Saildrone",
+    "careerUrl": "https://www.saildrone.com/careers",
+    "evidenceRead": {
+      "url": "https://www.saildrone.com/careers",
+      "lines": 171,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Helsing",
+    "careerUrl": "https://helsing.ai/careers",
+    "evidenceRead": {
+      "url": "https://helsing.ai/careers",
+      "lines": 94,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Palantir",
+    "careerUrl": "https://www.palantir.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.palantir.com/careers/",
+      "lines": 3,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "SpaceX",
+    "careerUrl": "https://www.spacex.com/careers",
+    "evidenceRead": {
+      "url": "https://www.spacex.com/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Blue Origin",
+    "careerUrl": "https://www.blueorigin.com/careers/search",
+    "evidenceRead": {
+      "url": "https://www.blueorigin.com/careers/search",
+      "lines": 165,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Rocket Lab",
+    "careerUrl": "https://rocketlabcorp.com/careers.php",
+    "evidenceRead": {
+      "url": "https://rocketlabcorp.com/careers.php",
+      "lines": 288,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Relativity Space",
+    "careerUrl": "https://www.relativityspace.com/jobs",
+    "evidenceRead": {
+      "url": "https://www.relativityspace.com/jobs",
+      "lines": 16,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Firefly Aerospace",
+    "careerUrl": "https://fireflyspace.com/careers/",
+    "evidenceRead": {
+      "url": "https://fireflyspace.com/careers/",
+      "lines": 509,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Stoke Space",
+    "careerUrl": "https://www.stokespace.com/careers",
+    "evidenceRead": {
+      "url": "https://www.stokespace.com/careers",
+      "lines": 131,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Impulse Space",
+    "careerUrl": "https://www.impulsespace.com/careers",
+    "evidenceRead": {
+      "url": "https://www.impulsespace.com/careers",
+      "lines": 495,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Astranis",
+    "careerUrl": "https://www.astranis.com/careers",
+    "evidenceRead": {
+      "url": "https://www.astranis.com/careers",
+      "lines": 499,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Apex Space",
+    "careerUrl": "https://www.apexspace.com/careers",
+    "evidenceRead": {
+      "url": "https://www.apexspace.com/careers",
+      "lines": 346,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Varda Space Industries",
+    "careerUrl": "https://www.varda.com/careers",
+    "evidenceRead": {
+      "url": "https://www.varda.com/careers",
+      "lines": 296,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Axiom Space",
+    "careerUrl": "https://axiomspace.com/careers",
+    "evidenceRead": {
+      "url": "https://axiomspace.com/careers",
+      "lines": 238,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sierra Space",
+    "careerUrl": "https://www.sierraspace.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.sierraspace.com/careers/",
+      "lines": 380,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sierra Nevada Corporation",
+    "careerUrl": "https://www.sierranevadacorp.net/careers/",
+    "evidenceRead": {
+      "url": "https://www.sierranevadacorp.net/careers/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Vast",
+    "careerUrl": "https://www.vastspace.com/careers",
+    "evidenceRead": {
+      "url": "https://www.vastspace.com/careers",
+      "lines": 176,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Redwire",
+    "careerUrl": "https://careers.rdw.com/",
+    "evidenceRead": {
+      "url": "https://careers.rdw.com/",
+      "lines": 111,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Planet Labs",
+    "careerUrl": "https://job-boards.greenhouse.io/planetlabs",
+    "evidenceRead": {
+      "url": "https://job-boards.greenhouse.io/planetlabs",
+      "lines": 158,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "planetlabs",
+      "evidenceUrl": "https://job-boards.greenhouse.io/planetlabs",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Spire Global",
+    "careerUrl": "https://spire.com/careers/",
+    "evidenceRead": {
+      "url": "https://spire.com/careers/",
+      "lines": 585,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "BlackSky",
+    "careerUrl": "https://www.blacksky.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.blacksky.com/careers/",
+      "lines": 19,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Capella Space",
+    "careerUrl": "https://www.capellaspace.com/careers",
+    "evidenceRead": {
+      "url": "https://www.capellaspace.com/careers",
+      "lines": 177,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Umbra",
+    "careerUrl": "https://umbra.space/careers/",
+    "evidenceRead": {
+      "url": "https://umbra.space/careers/",
+      "lines": 99,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Loft Orbital",
+    "careerUrl": "https://jobs.lever.co/loftorbital",
+    "evidenceRead": {
+      "url": "https://jobs.lever.co/loftorbital",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "lever",
+      "boardTokenCandidate": "loftorbital",
+      "evidenceUrl": "https://jobs.lever.co/loftorbital",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "True Anomaly",
+    "careerUrl": "https://www.trueanomaly.space/careers",
+    "evidenceRead": {
+      "url": "https://www.trueanomaly.space/careers",
+      "lines": 331,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Castelion",
+    "careerUrl": "https://www.castelion.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.castelion.com/careers/",
+      "lines": 589,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Hadrian",
+    "careerUrl": "https://www.hadrian.co/careers",
+    "evidenceRead": {
+      "url": "https://www.hadrian.co/careers",
+      "lines": 65,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Mach Industries",
+    "careerUrl": "https://machindustries.com/careers",
+    "evidenceRead": {
+      "url": "https://machindustries.com/careers",
+      "lines": 132,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Epirus",
+    "careerUrl": "https://www.epirusinc.com/careers",
+    "evidenceRead": {
+      "url": "https://www.epirusinc.com/careers",
+      "lines": 129,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Forterra",
+    "careerUrl": "https://www.forterra.com/careers",
+    "evidenceRead": {
+      "url": "https://www.forterra.com/careers",
+      "lines": 164,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Applied Intuition",
+    "careerUrl": "https://www.appliedintuition.com/careers",
+    "evidenceRead": {
+      "url": "https://www.appliedintuition.com/careers",
+      "lines": 249,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Figure AI",
+    "careerUrl": "https://www.figure.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.figure.ai/careers",
+      "lines": 53,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Apptronik",
+    "careerUrl": "https://apptronik.com/careers/job-listings",
+    "evidenceRead": {
+      "url": "https://apptronik.com/careers/job-listings",
+      "lines": 61,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Agility Robotics",
+    "careerUrl": "https://www.agilityrobotics.com/careers",
+    "evidenceRead": {
+      "url": "https://www.agilityrobotics.com/careers",
+      "lines": 91,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Boston Dynamics",
+    "careerUrl": "https://bostondynamics.com/careers",
+    "evidenceRead": {
+      "url": "https://bostondynamics.com/careers",
+      "lines": 475,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sanctuary AI",
+    "careerUrl": "https://www.sanctuary.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.sanctuary.ai/careers",
+      "lines": 145,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "1X",
+    "careerUrl": "https://www.1x.tech/careers",
+    "evidenceRead": {
+      "url": "https://www.1x.tech/careers",
+      "lines": 87,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Physical Intelligence",
+    "careerUrl": "https://www.pi.website/join-us",
+    "evidenceRead": {
+      "url": "https://www.pi.website/join-us",
+      "lines": 9,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Skild AI",
+    "careerUrl": "https://job-boards.greenhouse.io/skildai-careers",
+    "evidenceRead": {
+      "url": "https://job-boards.greenhouse.io/skildai-careers",
+      "lines": 84,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "skildai-careers",
+      "evidenceUrl": "https://job-boards.greenhouse.io/skildai-careers",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Dexterity",
+    "careerUrl": "https://www.dexterity.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.dexterity.ai/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Gecko Robotics",
+    "careerUrl": "https://www.geckorobotics.com/careers",
+    "evidenceRead": {
+      "url": "https://www.geckorobotics.com/careers",
+      "lines": 191,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Zipline",
+    "careerUrl": "https://www.zipline.com/about/careers",
+    "evidenceRead": {
+      "url": "https://www.zipline.com/about/careers",
+      "lines": 29,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Nuro",
+    "careerUrl": "https://www.nuro.ai/careers",
+    "evidenceRead": {
+      "url": "https://www.nuro.ai/careers",
+      "lines": 302,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Aurora Innovation",
+    "careerUrl": "https://aurora.tech/careers",
+    "evidenceRead": {
+      "url": "https://aurora.tech/careers",
+      "lines": 216,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Kodiak Robotics",
+    "careerUrl": "https://kodiak.ai/careers",
+    "evidenceRead": {
+      "url": "https://kodiak.ai/careers",
+      "lines": 173,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Torc Robotics",
+    "careerUrl": "https://job-boards.greenhouse.io/torcrobotics",
+    "evidenceRead": {
+      "url": "https://job-boards.greenhouse.io/torcrobotics",
+      "lines": 114,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "torcrobotics",
+      "evidenceUrl": "https://job-boards.greenhouse.io/torcrobotics",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Regeneron",
+    "careerUrl": "https://careers.regeneron.com/",
+    "evidenceRead": {
+      "url": "https://careers.regeneron.com/",
+      "lines": 190,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Vertex Pharmaceuticals",
+    "careerUrl": "https://www.vrtx.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.vrtx.com/careers/",
+      "lines": 393,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Genentech / Roche",
+    "careerUrl": "https://careers.gene.com/",
+    "evidenceRead": {
+      "url": "https://careers.gene.com/",
+      "lines": 80,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Amgen",
+    "careerUrl": "https://careers.amgen.com/en/search-jobs",
+    "evidenceRead": {
+      "url": "https://careers.amgen.com/en/search-jobs",
+      "lines": 2555,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Eli Lilly",
+    "careerUrl": "https://careers.lilly.com/us/en/home",
+    "evidenceRead": {
+      "url": "https://careers.lilly.com/us/en/home",
+      "lines": 61,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Novo Nordisk",
+    "careerUrl": "https://www.novonordisk.com/careers.html",
+    "evidenceRead": {
+      "url": "https://www.novonordisk.com/careers.html",
+      "lines": 7,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Novartis",
+    "careerUrl": "https://www.novartis.com/careers",
+    "evidenceRead": {
+      "url": "https://www.novartis.com/careers",
+      "lines": 548,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Merck",
+    "careerUrl": "https://jobs.merck.com/us/en/search-results/",
+    "evidenceRead": {
+      "url": "https://jobs.merck.com/us/en/search-results/",
+      "lines": 88,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Johnson & Johnson",
+    "careerUrl": "https://www.careers.jnj.com/",
+    "evidenceRead": {
+      "url": "https://www.careers.jnj.com/",
+      "lines": 432,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "AbbVie",
+    "careerUrl": "https://www.abbvie.com/join-us.html",
+    "evidenceRead": {
+      "url": "https://www.abbvie.com/join-us.html",
+      "lines": 749,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Gilead Sciences",
+    "careerUrl": "https://www.gilead.com/careers",
+    "evidenceRead": {
+      "url": "https://www.gilead.com/careers",
+      "lines": 367,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "AstraZeneca",
+    "careerUrl": "https://careers.astrazeneca.com/search-jobs/jobs",
+    "evidenceRead": {
+      "url": "https://careers.astrazeneca.com/search-jobs/jobs",
+      "lines": 396,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Sanofi",
+    "careerUrl": "https://jobs.sanofi.com/en/search-jobs",
+    "evidenceRead": {
+      "url": "https://jobs.sanofi.com/en/search-jobs",
+      "lines": 418,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Pfizer",
+    "careerUrl": "https://www.pfizer.com/about/careers/search-results",
+    "evidenceRead": {
+      "url": "https://www.pfizer.com/about/careers/search-results",
+      "lines": 203,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "careerUrl": "https://www.bms.com/gb/do-not-use/careers.html",
+    "evidenceRead": {
+      "url": "https://www.bms.com/gb/do-not-use/careers.html",
+      "lines": 257,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Moderna",
+    "careerUrl": "https://www.modernatx.com/en-US/careers",
+    "evidenceRead": {
+      "url": "https://www.modernatx.com/en-US/careers",
+      "lines": 221,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "BioNTech",
+    "careerUrl": "https://www.biontech.com/int/en/home/careers/working-at-biontech.html",
+    "evidenceRead": {
+      "url": "https://www.biontech.com/int/en/home/careers/working-at-biontech.html",
+      "lines": 220,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Alnylam",
+    "careerUrl": "https://www.alnylam.com/careers",
+    "evidenceRead": {
+      "url": "https://www.alnylam.com/careers",
+      "lines": 400,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "BioMarin",
+    "careerUrl": "https://www.biomarin.com/careers/jobs/",
+    "evidenceRead": {
+      "url": "https://www.biomarin.com/careers/jobs/",
+      "lines": 218,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Neurocrine Biosciences",
+    "careerUrl": "https://www.neurocrine.com/work-with-us/",
+    "evidenceRead": {
+      "url": "https://www.neurocrine.com/work-with-us/",
+      "lines": 196,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Ionis Pharmaceuticals",
+    "careerUrl": "https://ionis.com/careers",
+    "evidenceRead": {
+      "url": "https://ionis.com/careers",
+      "lines": 170,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Intellia Therapeutics",
+    "careerUrl": "https://www.intelliatx.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.intelliatx.com/careers/",
+      "lines": 411,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "CRISPR Therapeutics",
+    "careerUrl": "https://crisprtherapeutics.applytojob.com/apply/",
+    "evidenceRead": {
+      "url": "https://crisprtherapeutics.applytojob.com/apply/",
+      "lines": 5,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Beam Therapeutics",
+    "careerUrl": "https://beamtx.com/careers/",
+    "evidenceRead": {
+      "url": "https://beamtx.com/careers/",
+      "lines": 180,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Recursion",
+    "careerUrl": "https://recursion.com/careers",
+    "evidenceRead": {
+      "url": "https://recursion.com/careers",
+      "lines": 219,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Tempus AI",
+    "careerUrl": "https://www.tempus.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.tempus.com/careers/",
+      "lines": 205,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Benchling",
+    "careerUrl": "https://www.benchling.com/careers",
+    "evidenceRead": {
+      "url": "https://www.benchling.com/careers",
+      "lines": 94,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Insitro",
+    "careerUrl": "https://www.insitro.com/join-us/",
+    "evidenceRead": {
+      "url": "https://www.insitro.com/join-us/",
+      "lines": 62,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Generate Biomedicines",
+    "careerUrl": "https://generatebiomedicines.com/open-positions/",
+    "evidenceRead": {
+      "url": "https://generatebiomedicines.com/open-positions/",
+      "lines": 51,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Isomorphic Labs",
+    "careerUrl": "https://www.isomorphiclabs.com/careers",
+    "evidenceRead": {
+      "url": "https://www.isomorphiclabs.com/careers",
+      "lines": 41,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Owkin",
+    "careerUrl": "https://www.owkin.com/careers",
+    "evidenceRead": {
+      "url": "https://www.owkin.com/careers",
+      "lines": 245,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "PathAI",
+    "careerUrl": "https://www.pathai.com/careers",
+    "evidenceRead": {
+      "url": "https://www.pathai.com/careers",
+      "lines": 97,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Natera",
+    "careerUrl": "https://www.natera.com/company/careers/",
+    "evidenceRead": {
+      "url": "https://www.natera.com/company/careers/",
+      "lines": 379,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Guardant Health",
+    "careerUrl": "https://guardanthealth.com/careers/",
+    "evidenceRead": {
+      "url": "https://guardanthealth.com/careers/",
+      "lines": 136,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Exact Sciences",
+    "careerUrl": "https://careers.exactsciences.com/",
+    "evidenceRead": {
+      "url": "https://careers.exactsciences.com/",
+      "lines": 119,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Illumina",
+    "careerUrl": "https://www.illumina.com/company/careers.html",
+    "evidenceRead": {
+      "url": "https://www.illumina.com/company/careers.html",
+      "lines": 1298,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "PacBio",
+    "careerUrl": "https://www.pacb.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.pacb.com/careers/",
+      "lines": 186,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Oxford Nanopore",
+    "careerUrl": "https://nanoporetech.com/about/careers",
+    "evidenceRead": {
+      "url": "https://nanoporetech.com/about/careers",
+      "lines": 253,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "10x Genomics",
+    "careerUrl": "https://careers.10xgenomics.com/",
+    "evidenceRead": {
+      "url": "https://careers.10xgenomics.com/",
+      "lines": 408,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Danaher",
+    "careerUrl": "https://jobs.danaher.com/global/en",
+    "evidenceRead": {
+      "url": "https://jobs.danaher.com/global/en",
+      "lines": 130,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "careerUrl": "https://jobs.thermofisher.com/global/en/",
+    "evidenceRead": {
+      "url": "https://jobs.thermofisher.com/global/en/",
+      "lines": 148,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Agilent",
+    "careerUrl": "https://careers.agilent.com/",
+    "evidenceRead": {
+      "url": "https://careers.agilent.com/",
+      "lines": 70,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Waters",
+    "careerUrl": "https://www.waters.com/nextgen/en/about-waters/careers.html",
+    "evidenceRead": {
+      "url": "https://www.waters.com/nextgen/en/about-waters/careers.html",
+      "lines": 260,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Mettler-Toledo",
+    "careerUrl": "https://jobs.mt.com/en/search-jobs",
+    "evidenceRead": {
+      "url": "https://jobs.mt.com/en/search-jobs",
+      "lines": 460,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Bruker",
+    "careerUrl": "https://www.bruker.com/en/careers.html",
+    "evidenceRead": {
+      "url": "https://www.bruker.com/en/careers.html",
+      "lines": 71,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Intuitive Surgical",
+    "careerUrl": "https://careers.intuitive.com/",
+    "evidenceRead": {
+      "url": "https://careers.intuitive.com/",
+      "lines": 253,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Medtronic",
+    "careerUrl": "https://www.medtronic.com/en-us/our-company/careers.html",
+    "evidenceRead": {
+      "url": "https://www.medtronic.com/en-us/our-company/careers.html",
+      "lines": 726,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Boston Scientific",
+    "careerUrl": "https://jobs.bostonscientific.com/",
+    "evidenceRead": {
+      "url": "https://jobs.bostonscientific.com/",
+      "lines": 126,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Stryker",
+    "careerUrl": "https://careers.stryker.com/jobs",
+    "evidenceRead": {
+      "url": "https://careers.stryker.com/jobs",
+      "lines": 149,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "ResMed",
+    "careerUrl": "https://careers.resmed.com/",
+    "evidenceRead": {
+      "url": "https://careers.resmed.com/",
+      "lines": 145,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "ASML",
+    "careerUrl": "https://www.asml.com/en/careers/find-your-job",
+    "evidenceRead": {
+      "url": "https://www.asml.com/en/careers/find-your-job",
+      "lines": 130,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "TSMC",
+    "careerUrl": "https://www.tsmc.com/static/english/careers/it_career/index.html",
+    "evidenceRead": {
+      "url": "https://www.tsmc.com/static/english/careers/it_career/index.html",
+      "lines": 294,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Broadcom",
+    "careerUrl": "https://www.broadcom.com/company/careers",
+    "evidenceRead": {
+      "url": "https://www.broadcom.com/company/careers",
+      "lines": 1,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "AMD",
+    "careerUrl": "https://www.amd.com/en/corporate/careers.html",
+    "evidenceRead": {
+      "url": "https://www.amd.com/en/corporate/careers.html",
+      "lines": 720,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Arm",
+    "careerUrl": "https://talentcommunity.arm.com/jobs/categories",
+    "evidenceRead": {
+      "url": "https://talentcommunity.arm.com/jobs/categories",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Synopsys",
+    "careerUrl": "https://careers.synopsys.com/en/search-jobs",
+    "evidenceRead": {
+      "url": "https://careers.synopsys.com/en/search-jobs",
+      "lines": 1041,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Cadence Design Systems",
+    "careerUrl": "https://www.cadence.com/en_US/home/company/careers.html",
+    "evidenceRead": {
+      "url": "https://www.cadence.com/en_US/home/company/careers.html",
+      "lines": 142,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Analog Devices",
+    "careerUrl": "https://www.analog.com/en/careers.html",
+    "evidenceRead": {
+      "url": "https://www.analog.com/en/careers.html",
+      "lines": 141,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Texas Instruments",
+    "careerUrl": "https://careers.ti.com/en/sites/CX",
+    "evidenceRead": {
+      "url": "https://careers.ti.com/en/sites/CX",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Qualcomm",
+    "careerUrl": "https://www.qualcomm.com/company/careers/faqs",
+    "evidenceRead": {
+      "url": "https://www.qualcomm.com/company/careers/faqs",
+      "lines": 186,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Lam Research",
+    "careerUrl": "https://careers.lamresearch.com/careers/apply",
+    "evidenceRead": {
+      "url": "https://careers.lamresearch.com/careers/apply",
+      "lines": 23,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Applied Materials",
+    "careerUrl": "https://jobs.appliedmaterials.com/en/search-jobs",
+    "evidenceRead": {
+      "url": "https://jobs.appliedmaterials.com/en/search-jobs",
+      "lines": 3984,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "KLA",
+    "careerUrl": "https://www.kla.com/careers",
+    "evidenceRead": {
+      "url": "https://www.kla.com/careers",
+      "lines": 703,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Teradyne",
+    "careerUrl": "https://jobs.teradyne.com/Teradyne/",
+    "evidenceRead": {
+      "url": "https://jobs.teradyne.com/Teradyne/",
+      "lines": 113,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Keysight Technologies",
+    "careerUrl": "https://jobs.keysight.com/",
+    "evidenceRead": {
+      "url": "https://jobs.keysight.com/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Fortive",
+    "careerUrl": "https://careers.fortive.com/",
+    "evidenceRead": {
+      "url": "https://careers.fortive.com/",
+      "lines": 181,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Roper Technologies",
+    "careerUrl": "https://www.ropertech.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.ropertech.com/careers/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Veralto",
+    "careerUrl": "https://jobs.veralto.com/",
+    "evidenceRead": {
+      "url": "https://jobs.veralto.com/",
+      "lines": 132,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "ABB",
+    "careerUrl": "https://careers.abb/global/en/",
+    "evidenceRead": {
+      "url": "https://careers.abb/global/en/",
+      "lines": 104,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Siemens",
+    "careerUrl": "https://www.siemens.com/de-de/company/jobs/",
+    "evidenceRead": {
+      "url": "https://www.siemens.com/de-de/company/jobs/",
+      "lines": 102,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Rockwell Automation",
+    "careerUrl": "https://www.rockwellautomation.com/en-us/company/careers.html",
+    "evidenceRead": {
+      "url": "https://www.rockwellautomation.com/en-us/company/careers.html",
+      "lines": 83,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Emerson",
+    "careerUrl": "https://www.emerson.com/en/corporate/careers",
+    "evidenceRead": {
+      "url": "https://www.emerson.com/en/corporate/careers",
+      "lines": 314,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Honeywell",
+    "careerUrl": "https://careers.honeywell.com/en/sites/Honeywell/jobs",
+    "evidenceRead": {
+      "url": "https://careers.honeywell.com/en/sites/Honeywell/jobs",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Parker Hannifin",
+    "careerUrl": "https://parkercareers.ttcportals.com/",
+    "evidenceRead": {
+      "url": "https://parkercareers.ttcportals.com/",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Trane Technologies",
+    "careerUrl": "https://careers.tranetechnologies.com/global/en/home",
+    "evidenceRead": {
+      "url": "https://careers.tranetechnologies.com/global/en/home",
+      "lines": 156,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Johnson Controls",
+    "careerUrl": "https://www.johnsoncontrols.co.uk/Careers",
+    "evidenceRead": {
+      "url": "https://www.johnsoncontrols.co.uk/Careers",
+      "lines": 496,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Hubbell",
+    "careerUrl": "https://careers.hubbell.com/",
+    "evidenceRead": {
+      "url": "https://careers.hubbell.com/",
+      "lines": 194,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "GitLab",
+    "careerUrl": "https://about.gitlab.com/jobs/",
+    "evidenceRead": {
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8500190002",
+      "lines": 105,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Automattic",
+    "careerUrl": "https://automattic.com/work-with-us/jobs/",
+    "evidenceRead": {
+      "url": "https://automattic.com/work-with-us/jobs/",
+      "lines": 45,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Zapier",
+    "careerUrl": "https://zapier.com/jobs",
+    "evidenceRead": {
+      "url": "https://zapier.com/jobs",
+      "lines": 383,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Buffer",
+    "careerUrl": "https://buffer.com/journey",
+    "evidenceRead": {
+      "url": "https://buffer.com/journey",
+      "lines": 429,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Doist",
+    "careerUrl": "https://www.todoist.com/careers",
+    "evidenceRead": {
+      "url": "https://doist.com/careers",
+      "lines": 189,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Toggl",
+    "careerUrl": "https://toggl.com/jobs/",
+    "evidenceRead": {
+      "url": "https://toggl.com/jobs/",
+      "lines": 335,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "37signals",
+    "careerUrl": "https://37signals.com/jobs",
+    "evidenceRead": {
+      "url": "https://37signals.com/jobs",
+      "lines": 74,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "DuckDuckGo",
+    "careerUrl": "https://duckduckgo.com/hiring",
+    "evidenceRead": {
+      "url": "https://duckduckgo.com/hiring",
+      "lines": 131,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Mozilla",
+    "careerUrl": "https://www.mozilla.org/en-US/careers/",
+    "evidenceRead": {
+      "url": "https://www.mozilla.org/en-US/careers/",
+      "lines": 209,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "careerUrl": "https://wikimediafoundation.org/jobs/",
+    "evidenceRead": {
+      "url": "https://wikimediafoundation.org/jobs/",
+      "lines": 320,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Canonical",
+    "careerUrl": "https://canonical.com/careers/all",
+    "evidenceRead": {
+      "url": "https://canonical.com/careers/all",
+      "lines": 642,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Grafana Labs",
+    "careerUrl": "https://grafana.com/careers/",
+    "evidenceRead": {
+      "url": "https://grafana.com/careers/",
+      "lines": 171,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Supabase",
+    "careerUrl": "https://supabase.com/careers",
+    "evidenceRead": {
+      "url": "https://supabase.com/careers",
+      "lines": 241,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Netlify",
+    "careerUrl": "https://www.netlify.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.netlify.com/careers/",
+      "lines": 286,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Atlassian",
+    "careerUrl": "https://www.atlassian.com/company/careers",
+    "evidenceRead": {
+      "url": "https://www.atlassian.com/company/careers",
+      "lines": 498,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Dropbox",
+    "careerUrl": "https://www.dropbox.jobs/",
+    "evidenceRead": {
+      "url": "https://www.dropbox.jobs/",
+      "lines": 179,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Airbnb",
+    "careerUrl": "https://careers.airbnb.com/",
+    "evidenceRead": {
+      "url": "https://careers.airbnb.com/",
+      "lines": 109,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Spotify",
+    "careerUrl": "https://jobs.lever.co/spotify",
+    "evidenceRead": {
+      "url": "https://jobs.lever.co/spotify",
+      "lines": 488,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "lever",
+      "boardTokenCandidate": "spotify",
+      "evidenceUrl": "https://jobs.lever.co/spotify",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "HubSpot",
+    "careerUrl": "https://www.hubspot.com/careers/jobs/all",
+    "evidenceRead": {
+      "url": "https://www.hubspot.com/careers/jobs/all",
+      "lines": 23,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Reddit",
+    "careerUrl": "https://www.redditinc.com/careers",
+    "evidenceRead": {
+      "url": "https://www.redditinc.com/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Block",
+    "careerUrl": "https://block.xyz/careers",
+    "evidenceRead": {
+      "url": "https://block.xyz/careers",
+      "lines": 97,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Coinbase",
+    "careerUrl": "https://www.coinbase.com/careers/positions",
+    "evidenceRead": {
+      "url": "https://www.coinbase.com/careers/positions",
+      "lines": 1212,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Stripe",
+    "careerUrl": "https://stripe.com/jobs",
+    "evidenceRead": {
+      "url": "https://stripe.com/jobs",
+      "lines": 158,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Plaid",
+    "careerUrl": "https://plaid.com/careers/",
+    "evidenceRead": {
+      "url": "https://plaid.com/careers/",
+      "lines": 1055,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Brex",
+    "careerUrl": "https://www.brex.com/careers",
+    "evidenceRead": {
+      "url": "https://www.brex.com/careers",
+      "lines": 350,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Mercury",
+    "careerUrl": "https://mercury.com/jobs",
+    "evidenceRead": {
+      "url": "https://mercury.com/jobs",
+      "lines": 366,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Ramp",
+    "careerUrl": "https://ramp.com/careers",
+    "evidenceRead": {
+      "url": "https://ramp.com/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Deel",
+    "careerUrl": "https://www.deel.com/careers/",
+    "evidenceRead": {
+      "url": "https://www.deel.com/careers/",
+      "lines": 321,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Remote",
+    "careerUrl": "https://remote.com/careers",
+    "evidenceRead": {
+      "url": "https://remote.com/careers",
+      "lines": 165,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Oyster",
+    "careerUrl": "https://www.oysterhr.com/careers",
+    "evidenceRead": {
+      "url": "https://www.oysterhr.com/careers",
+      "lines": 193,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "SafetyWing",
+    "careerUrl": "https://safetywing.pinpointhq.com/",
+    "evidenceRead": {
+      "url": "https://safetywing.pinpointhq.com/",
+      "lines": 18,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unsupported_pinpoint",
+      "boardTokenCandidate": null,
+      "evidenceUrl": "https://safetywing.pinpointhq.com/",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "TestGorilla",
+    "careerUrl": "https://www.testgorilla.com/hiring-at-testgorilla/",
+    "evidenceRead": {
+      "url": "https://www.testgorilla.com/hiring-at-testgorilla/",
+      "lines": 420,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "PostHog",
+    "careerUrl": "https://posthog.com/careers",
+    "evidenceRead": {
+      "url": "https://posthog.com/careers",
+      "lines": 1108,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Help Scout",
+    "careerUrl": "https://www.helpscout.com/company/careers/",
+    "evidenceRead": {
+      "url": "https://www.helpscout.com/company/careers/",
+      "lines": 201,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Customer.io",
+    "careerUrl": "https://customer.io/careers",
+    "evidenceRead": {
+      "url": "https://customer.io/careers",
+      "lines": 262,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Kit",
+    "careerUrl": "https://kit.com/careers",
+    "evidenceRead": {
+      "url": "https://kit.com/careers",
+      "lines": 358,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "beehiiv",
+    "careerUrl": "https://www.beehiiv.com/careers",
+    "evidenceRead": {
+      "url": "https://www.beehiiv.com/careers",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Ghost",
+    "careerUrl": "https://ghost.org/about/",
+    "evidenceRead": {
+      "url": "https://ghost.org/about/",
+      "lines": 409,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Discourse",
+    "careerUrl": "https://www.discourse.org/jobs",
+    "evidenceRead": {
+      "url": "https://www.discourse.org/jobs",
+      "lines": 93,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "MotherDuck",
+    "careerUrl": "https://motherduck.com/careers/",
+    "evidenceRead": {
+      "url": "https://motherduck.com/careers/",
+      "lines": 309,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "ClickHouse",
+    "careerUrl": "https://clickhouse.com/company/careers",
+    "evidenceRead": {
+      "url": "https://clickhouse.com/company/careers",
+      "lines": 280,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "dbt Labs",
+    "careerUrl": "https://www.getdbt.com/about-us/careers",
+    "evidenceRead": {
+      "url": "https://job-boards.greenhouse.io/dbtlabsinc/jobs/4587097005",
+      "lines": 0,
+      "substantive": false
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Temporal",
+    "careerUrl": "https://temporal.io/careers",
+    "evidenceRead": {
+      "url": "https://temporal.io/careers",
+      "lines": 326,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Tailscale",
+    "careerUrl": "https://tailscale.com/careers",
+    "evidenceRead": {
+      "url": "https://tailscale.com/careers",
+      "lines": 325,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "greenhouse",
+      "boardTokenCandidate": "tailscale",
+      "evidenceUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4738677005",
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "1Password",
+    "careerUrl": "https://1password.com/careers",
+    "evidenceRead": {
+      "url": "https://1password.com/careers",
+      "lines": 328,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Bitwarden",
+    "careerUrl": "https://bitwarden.com/careers/",
+    "evidenceRead": {
+      "url": "https://bitwarden.com/careers/",
+      "lines": 361,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "Proton",
+    "careerUrl": "https://proton.me/careers",
+    "evidenceRead": {
+      "url": "https://proton.me/careers",
+      "lines": 553,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  },
+  {
+    "name": "n8n",
+    "careerUrl": "https://n8n.io/careers/",
+    "evidenceRead": {
+      "url": "https://n8n.io/careers/",
+      "lines": 240,
+      "substantive": true
+    },
+    "sourceReview": {
+      "adapterCandidate": "unknown_manual",
+      "boardTokenCandidate": null,
+      "evidenceUrl": null,
+      "apiVerified": false,
+      "reuseReviewedAt": null,
+      "status": "Needs access/reuse review",
+      "approved": false,
+      "enabled": false
+    }
+  }
+]

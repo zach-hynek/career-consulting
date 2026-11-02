@@ -1,0 +1,5901 @@
+{
+  "asOf": "2026-10-29",
+  "notice": "Evidence index. Source access does not imply reuse permission.",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/careers",
+      "companies": [
+        "Anthropic"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://openai.com/careers/",
+      "companies": [
+        "OpenAI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "companies": [
+        "OpenAI"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://deepmind.google/careers/",
+      "companies": [
+        "Alphabet / Google DeepMind"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "companies": [
+        "NVIDIA"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+      "companies": [
+        "NVIDIA"
+      ],
+      "uses": [
+        "retention"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf",
+      "companies": [
+        "NVIDIA"
+      ],
+      "uses": [
+        "tenure"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+      "companies": [
+        "NVIDIA"
+      ],
+      "uses": [
+        "business"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://careers.microsoft.com/",
+      "companies": [
+        "Microsoft"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.microsoft.com/v2/global/en/life-at-microsoft/benefits.html",
+      "companies": [
+        "Microsoft"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://apnews.com/article/c5a639f53615be198db1799adf6837e1",
+      "companies": [
+        "Microsoft"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://blogs.microsoft.com/bayarea/2020/09/17/bay-area-boomerangs-on-coming-back-to-microsoft/",
+      "companies": [
+        "Microsoft"
+      ],
+      "uses": [
+        "boomerang_story"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_story"
+      ]
+    },
+    {
+      "url": "https://www.databricks.com/company/careers",
+      "companies": [
+        "Databricks"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-grows-65-yoy-surpasses-5-4-billion-revenue-run-rate",
+      "companies": [
+        "Databricks"
+      ],
+      "uses": [
+        "business"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://apply.workable.com/huggingface/",
+      "companies": [
+        "Hugging Face"
+      ],
+      "uses": [
+        "Career link; not a verified live job count"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://huggingface.co/join-us",
+      "companies": [
+        "Hugging Face"
+      ],
+      "uses": [
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://apply.workable.com/huggingface/j/81B46579FE",
+      "companies": [
+        "Hugging Face"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://www.theinformation.com/briefings/hugging-face-lays-off-4-of-staff",
+      "companies": [
+        "Hugging Face"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://cohere.com/careers",
+      "companies": [
+        "Cohere"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://cohere.com/blog/august-2025-funding-round",
+      "companies": [
+        "Cohere"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://mistral.ai/careers",
+      "companies": [
+        "Mistral AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://allenai.org/careers",
+      "companies": [
+        "Allen Institute for AI (Ai2)"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.geekwire.com/2026/microsoft-adds-more-former-ai2-researchers-to-its-superintelligence-team/",
+      "companies": [
+        "Allen Institute for AI (Ai2)"
+      ],
+      "uses": [
+        "leadership_change"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://www.perplexity.ai/careers",
+      "companies": [
+        "Perplexity"
+      ],
+      "uses": [
+        "Career link; not a verified live job count"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/perplexity/6628bead-dec0-4ed2-8aef-5a036815d2a0/",
+      "companies": [
+        "Perplexity"
+      ],
+      "uses": [
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.glean.com/careers",
+      "companies": [
+        "Glean"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.glean.com/press/glean-raises-150m-series-f-at-7-2b-valuation-to-accelerate-enterprise-ai-agent-innovation-globally",
+      "companies": [
+        "Glean"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4615117005",
+      "companies": [
+        "Glean"
+      ],
+      "uses": [
+        "Role-specific advertised compensation"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Page labels the range as base; its commercial context warrants recruiter clarification of base versus OTE. Excluded from base-pay comparisons."
+      ]
+    },
+    {
+      "url": "https://www.harvey.ai/careers",
+      "companies": [
+        "Harvey"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://writer.com/careers/",
+      "companies": [
+        "Writer"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://scale.com/careers",
+      "companies": [
+        "Scale AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.together.ai/careers",
+      "companies": [
+        "Together AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://fireworks.ai/careers",
+      "companies": [
+        "Fireworks AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://fireworks.ai/news/fireworks-raises-1-5-billion-series-d",
+      "companies": [
+        "Fireworks AI"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.cerebras.ai/careers",
+      "companies": [
+        "Cerebras"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://investors.cerebras.ai/shareholder-services/investor-faqs",
+      "companies": [
+        "Cerebras"
+      ],
+      "uses": [
+        "ownership"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://groq.com/careers/",
+      "companies": [
+        "Groq"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
+      "companies": [
+        "Groq"
+      ],
+      "uses": [
+        "ownership"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://sambanova.ai/careers",
+      "companies": [
+        "SambaNova Systems"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.coreweave.com/coreweave-company-culture",
+      "companies": [
+        "CoreWeave"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://lambda.ai/careers",
+      "companies": [
+        "Lambda"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.crusoe.ai/about/careers/culture",
+      "companies": [
+        "Crusoe"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+      "companies": [
+        "Crusoe"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-pauses-work-on-18gw-cheyenne-wyoming-data-center-at-the-request-of-our-customer/",
+      "companies": [
+        "Crusoe"
+      ],
+      "uses": [
+        "project_change"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "industry_reporting"
+      ]
+    },
+    {
+      "url": "https://modal.com/jobs",
+      "companies": [
+        "Modal"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.baseten.co/resources/careers/",
+      "companies": [
+        "Baseten"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.baseten.co/blog/announcing-our-series-f/",
+      "companies": [
+        "Baseten"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.anyscale.com/careers",
+      "companies": [
+        "Anyscale"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/anyscale/02698dc0-9416-425f-a13d-0938ffd229a8",
+      "companies": [
+        "Anyscale"
+      ],
+      "uses": [
+        "Role-specific advertised compensation"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Advertised OTE and target wording require reconciliation. Not guaranteed compensation."
+      ]
+    },
+    {
+      "url": "https://sierra.ai/careers",
+      "companies": [
+        "Sierra"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://decagon.ai/careers",
+      "companies": [
+        "Decagon"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.langchain.com/careers",
+      "companies": [
+        "LangChain"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.langchain.com/blog/series-b",
+      "companies": [
+        "LangChain"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.llamaindex.ai/careers",
+      "companies": [
+        "LlamaIndex"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://runway.com/careers",
+      "companies": [
+        "Runway"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://elevenlabs.io/careers",
+      "companies": [
+        "ElevenLabs"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://elevenlabs.io/blog/series-d",
+      "companies": [
+        "ElevenLabs"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://elevenlabs.io/blog/tender-22bn",
+      "companies": [
+        "ElevenLabs"
+      ],
+      "uses": [
+        "secondary"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.synthesia.io/careers",
+      "companies": [
+        "Synthesia"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.descript.com/careers",
+      "companies": [
+        "Descript"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.notion.com/careers",
+      "companies": [
+        "Notion"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.airtable.com/careers",
+      "companies": [
+        "Airtable"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.figma.com/careers/",
+      "companies": [
+        "Figma"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://investor.figma.com/financials/quarterly-results/",
+      "companies": [
+        "Figma"
+      ],
+      "uses": [
+        "ownership"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://cursor.com/careers",
+      "companies": [
+        "Anysphere / Cursor"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://replit.com/careers",
+      "companies": [
+        "Replit"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://vercel.com/careers",
+      "companies": [
+        "Vercel"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://vercel.com/careers/software-engineer-accounts-5430088004",
+      "companies": [
+        "Vercel"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://www.cloudflare.com/careers/",
+      "companies": [
+        "Cloudflare"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://blog.cloudflare.com/building-for-the-future",
+      "companies": [
+        "Cloudflare"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://careers.snowflake.com/",
+      "companies": [
+        "Snowflake"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.mongodb.com/company/careers",
+      "companies": [
+        "MongoDB"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.elastic.co/careers",
+      "companies": [
+        "Elastic"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ir.elastic.co/News--Events/news/news-details/2026/Elastic-Reports-First-Quarter-Fiscal-2027-Financial-Results/",
+      "companies": [
+        "Elastic"
+      ],
+      "uses": [
+        "restructuring"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://redis.io/company/careers/",
+      "companies": [
+        "Redis"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.pinecone.io/careers/",
+      "companies": [
+        "Pinecone"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://weaviate.io/company/careers",
+      "companies": [
+        "Weaviate"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://qdrant.tech/careers/",
+      "companies": [
+        "Qdrant"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://sentry.io/careers/",
+      "companies": [
+        "Sentry"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://linear.app/careers",
+      "companies": [
+        "Linear"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.terrapower.com/careers/",
+      "companies": [
+        "TerraPower"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/terrapowerllc/jobs/4370694009",
+      "companies": [
+        "TerraPower"
+      ],
+      "uses": [
+        "Workplace policy or role example",
+        "Role-specific advertised compensation"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Senior specialist example requiring substantial nuclear licensing experience. Not an employer-wide pay average or a recommendation for an unqualified candidate."
+      ]
+    },
+    {
+      "url": "https://world-nuclear-news.org/articles/bechtel-steps-away-from-terrapower-project",
+      "companies": [
+        "TerraPower",
+        "Bechtel"
+      ],
+      "uses": [
+        "project_change"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "industry_reporting"
+      ]
+    },
+    {
+      "url": "https://x-energy.com/careers/",
+      "companies": [
+        "X-energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://investors.x-energy.com/",
+      "companies": [
+        "X-energy"
+      ],
+      "uses": [
+        "ownership"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.kairospower.com/careers",
+      "companies": [
+        "Kairos Power"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://oklo.com/about/careers",
+      "companies": [
+        "Oklo"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.bwxt.com/",
+      "companies": [
+        "BWX Technologies"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.gevernova.com/",
+      "companies": [
+        "GE Vernova"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.westinghousenuclear.com/",
+      "companies": [
+        "Westinghouse Electric"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://nuclearcareers.com/",
+      "companies": [
+        "Framatome"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.constellationenergy.com/our-company/careers.html",
+      "companies": [
+        "Constellation Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://jobs.constellationenergy.com/",
+      "companies": [
+        "Constellation Energy"
+      ],
+      "uses": [
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.constellationenergy.com/news/2026/08/constellation-reports-second-quarter-2026-results.html",
+      "companies": [
+        "Constellation Energy"
+      ],
+      "uses": [
+        "engagement"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.vistracorp.com/careers/",
+      "companies": [
+        "Vistra"
+      ],
+      "uses": [
+        "Career link; not a verified live job count"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://careers.vistracorp.com/",
+      "companies": [
+        "Vistra"
+      ],
+      "uses": [
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.duke-energy.com/our-company/careers",
+      "companies": [
+        "Duke Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.southerncompany.com/our-community/invest-in-our-people.html",
+      "companies": [
+        "Southern Company"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.nexteraenergy.com/careers/life-at-nextera/benefits.html",
+      "companies": [
+        "NextEra Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.dominionenergy.com/content/Benefits/",
+      "companies": [
+        "Dominion Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.exeloncorp.com/careers-home/",
+      "companies": [
+        "Exelon"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://jobs.entergy.com/content/Careers-FAQ/",
+      "companies": [
+        "Entergy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.pge.com/content/Benefits/",
+      "companies": [
+        "PG&E"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://jobs.xcelenergy.com/rewards",
+      "companies": [
+        "Xcel Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://corporate.pseg.com/careers/benefits",
+      "companies": [
+        "PSEG"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://livebrighterbenefits.nationalgrid.com/public/welcome",
+      "companies": [
+        "National Grid"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.quantaservices.com/careers",
+      "companies": [
+        "Quanta Services"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.eaton.com/us/en-us/company/careers/wellbeing-at-eaton.html",
+      "companies": [
+        "Eaton"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.eaton.com/us/en-us/company/investor-relations/investor-toolkit/financial-reports/annual-report/letter-to-shareholders.html",
+      "companies": [
+        "Eaton"
+      ],
+      "uses": [
+        "engagement",
+        "business"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_claim",
+        "primary"
+      ]
+    },
+    {
+      "url": "https://careers.se.com/careers-at-schneider-electric",
+      "companies": [
+        "Schneider Electric"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.se.com/ww/en/about-us/investor-relations/financial-results/",
+      "companies": [
+        "Schneider Electric"
+      ],
+      "uses": [
+        "business"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.siemens-energy.com/global/en/home/careers/working-with-us.html",
+      "companies": [
+        "Siemens Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.hitachienergy.com/careers",
+      "companies": [
+        "Hitachi Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://curtisswright.com/careers/benefits",
+      "companies": [
+        "Curtiss-Wright"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.amentumcareers.com/jobs/ai-solutions-architect-programs-delivery-remote-united-states",
+      "companies": [
+        "Amentum"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.bechtel.com/us/en/home",
+      "companies": [
+        "Bechtel"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.centrusenergy.com/careers/",
+      "companies": [
+        "Centrus Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.cameco.com/careers/why-cameco/total-rewards",
+      "companies": [
+        "Cameco"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.orano.group/jobs/en",
+      "companies": [
+        "Orano"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.urenco.com/careers/life-at-urenco",
+      "companies": [
+        "Urenco"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.ga.com/careers/",
+      "companies": [
+        "General Atomics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://cfs.energy/careers/",
+      "companies": [
+        "Commonwealth Fusion Systems"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.cfs.energy/news-and-media/commonwealth-fusion-systems-raises-another-1-billion-bringing-total-capital-raised-to-4-billion/",
+      "companies": [
+        "Commonwealth Fusion Systems"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.helionenergy.com/careers",
+      "companies": [
+        "Helion Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.helionenergy.com/newsroom/helion-raises-465-million-series-g-funding-round-to-meet-surging-global-demand-for-power",
+      "companies": [
+        "Helion Energy"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://tae.com/careers/",
+      "companies": [
+        "TAE Technologies"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.zapenergy.com/careers",
+      "companies": [
+        "Zap Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://typeoneenergy.com/careers/",
+      "companies": [
+        "Type One Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://typeoneenergy.com/insights-announcements/type-one-energy-completes-200m-series-b-financing/",
+      "companies": [
+        "Type One Energy"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://thea.energy/careers/",
+      "companies": [
+        "Thea Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.proximafusion.com/careers/open-positions",
+      "companies": [
+        "Proxima Fusion"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4329610009",
+      "companies": [
+        "Pacific Fusion"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://tokamakenergy.com/working-at-tokamak-energy/",
+      "companies": [
+        "Tokamak Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://kyotofusioneering.com/en/careers",
+      "companies": [
+        "Kyoto Fusioneering"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.radiantnuclear.com/careers",
+      "companies": [
+        "Radiant"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.lastenergy.com/careers/jobs",
+      "companies": [
+        "Last Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ats.rippling.com/aalo-atomics/jobs/cc9a425e-b470-46cb-8ceb-ac4146df5126",
+      "companies": [
+        "Aalo Atomics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.deepfission.com/careers",
+      "companies": [
+        "Deep Fission"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.antaresindustries.com/careers",
+      "companies": [
+        "Antares Nuclear"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.zenopower.com/careers",
+      "companies": [
+        "Zeno Power"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.zenopower.com/announcements/zeno-power-raises-50-million-series-b-to-power-defense-space-and-beyond",
+      "companies": [
+        "Zeno Power"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://careers.fluor.com/careers/hr_services",
+      "companies": [
+        "Fluor"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.redwoodmaterials.com/join/",
+      "companies": [
+        "Redwood Materials"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "companies": [
+        "Redwood Materials"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://formenergy.com/careers/",
+      "companies": [
+        "Form Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://formenergy.com/form-energy-secures-750m-in-series-g-financing/",
+      "companies": [
+        "Form Energy"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://formenergy.com/form-energy-announces-closing-of-270m-credit-facility/",
+      "companies": [
+        "Form Energy"
+      ],
+      "uses": [
+        "debt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/fervoenergy/jobs/4426455009",
+      "companies": [
+        "Fervo Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://fervoenergy.com/fervo-energy-reports-second-quarter-2026-results/",
+      "companies": [
+        "Fervo Energy"
+      ],
+      "uses": [
+        "ownership"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://eh2.com/careers/",
+      "companies": [
+        "Electric Hydrogen"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.twelve.co/post/teamtwelve-overview-of-employee-benefits",
+      "companies": [
+        "Twelve"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://charmindustrial.com/careers",
+      "companies": [
+        "Charm Industrial"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.heirloomcarbon.com/careers",
+      "companies": [
+        "Heirloom"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.lever.co/carboncapture",
+      "companies": [
+        "CarbonCapture"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://climeworks.com/careers",
+      "companies": [
+        "Climeworks"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://climeworks.com/news/growth-adjustments",
+      "companies": [
+        "Climeworks"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.carbonclean.com/about-us/opportunities",
+      "companies": [
+        "Carbon Clean"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://sublime-systems.com/careers/",
+      "companies": [
+        "Sublime Systems"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.canarymedia.com/articles/clean-industry/clean-cement-startup-sublime-cuts-jobs",
+      "companies": [
+        "Sublime Systems"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://www.brimstone.com/careers",
+      "companies": [
+        "Brimstone"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.bostonmetal.com/careers/",
+      "companies": [
+        "Boston Metal"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/doc/boston-electrometallurgical-corporation-dba-boston-metal-woburn-ma-03-12-2026-updated-warn-notice/download",
+      "companies": [
+        "Boston Metal"
+      ],
+      "uses": [
+        "notice"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.electra.earth/careers/",
+      "companies": [
+        "Electra"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/04/24/3067528/0/en/Electra-Announces-186M-Series-B-Funding-Round-to-Scale-Clean-Iron-Production.html",
+      "companies": [
+        "Electra"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.rondo.com/careers",
+      "companies": [
+        "Rondo Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://rondo.com/careers",
+      "companies": [
+        "Rondo Energy"
+      ],
+      "uses": [
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.antora.com/careers/",
+      "companies": [
+        "Antora Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.antora.com/careers",
+      "companies": [
+        "Antora Energy"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://www.antora.com/insights/series-c",
+      "companies": [
+        "Antora Energy"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.eose.com/careers/",
+      "companies": [
+        "Eos Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.lever.co/EnergyVault/",
+      "companies": [
+        "Energy Vault"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://fluenceenergy.com/energy-storage-careers/",
+      "companies": [
+        "Fluence"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.tesla.com/careers",
+      "companies": [
+        "Tesla"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://careers.rivian.com/work/jobs/categories",
+      "companies": [
+        "Rivian"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://lucidmotors.com/en-ca/careers",
+      "companies": [
+        "Lucid Motors"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.quantumscape.com/careers/",
+      "companies": [
+        "QuantumScape"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ir.solidpowerbattery.com/careers/default.aspx",
+      "companies": [
+        "Solid Power"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.silanano.com/careers",
+      "companies": [
+        "Sila"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://group14.technology/careers/",
+      "companies": [
+        "Group14 Technologies"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ascendelements.hrmdirect.com/employment/job-openings.php",
+      "companies": [
+        "Ascend Elements"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://lyten.com/about-us/careers/",
+      "companies": [
+        "Lyten"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://nthcycle.com/careers",
+      "companies": [
+        "Nth Cycle"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://nironmagnetics.com/careers/",
+      "companies": [
+        "Niron Magnetics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://koboldmetals.com/careers/",
+      "companies": [
+        "KoBold Metals"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ats.rippling.com/lilac-solutions/jobs",
+      "companies": [
+        "Lilac Solutions"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.standardlithium.com/contact/careers/apply/",
+      "companies": [
+        "Standard Lithium"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://octopus.energy/careers/",
+      "companies": [
+        "Octopus Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.jobvite.com/careers/enphase-energy/jobs",
+      "companies": [
+        "Enphase Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://corporate.solaredge.com/en/careers",
+      "companies": [
+        "SolarEdge"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/q229s4f20",
+      "companies": [
+        "SolarEdge"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://www.firstsolar.com/careers",
+      "companies": [
+        "First Solar"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.sunrun.com/search-jobs",
+      "companies": [
+        "Sunrun"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://nextpower.com/careers",
+      "companies": [
+        "Nextracker"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://arraytechinc.com/our-story/careers/",
+      "companies": [
+        "Array Technologies"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.span.io/careers",
+      "companies": [
+        "SPAN"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://uplight.com/careers/",
+      "companies": [
+        "Uplight"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.aurorasolar.com/careers/",
+      "companies": [
+        "Aurora Solar"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://watershed.com/en-GB/careers",
+      "companies": [
+        "Watershed"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.persefoni.com/careers",
+      "companies": [
+        "Persefoni"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://generatecapital.com/careers/",
+      "companies": [
+        "Generate Capital"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.pivotenergy.net/careers",
+      "companies": [
+        "Pivot Energy"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.anduril.com/careers",
+      "companies": [
+        "Anduril"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://shield.ai/careers/",
+      "companies": [
+        "Shield AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.skydio.com/careers",
+      "companies": [
+        "Skydio"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.saronic.com/careers",
+      "companies": [
+        "Saronic"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.saildrone.com/careers",
+      "companies": [
+        "Saildrone"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://helsing.ai/careers",
+      "companies": [
+        "Helsing"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.palantir.com/careers/",
+      "companies": [
+        "Palantir"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.spacex.com/careers",
+      "companies": [
+        "SpaceX"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.blueorigin.com/careers/search",
+      "companies": [
+        "Blue Origin"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://apnews.com/article/f0279382bdc0bb3ee3991fcfe1ff042a",
+      "companies": [
+        "Blue Origin"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://rocketlabcorp.com/careers.php",
+      "companies": [
+        "Rocket Lab"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.relativityspace.com/jobs",
+      "companies": [
+        "Relativity Space"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://fireflyspace.com/careers/",
+      "companies": [
+        "Firefly Aerospace"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.stokespace.com/careers",
+      "companies": [
+        "Stoke Space"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.stokespace.com/news/stoke-space-series-e",
+      "companies": [
+        "Stoke Space"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.impulsespace.com/careers",
+      "companies": [
+        "Impulse Space"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.astranis.com/careers",
+      "companies": [
+        "Astranis"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.astranis.com/blog/series-e-raise-advanced-high-orbit-spacecraft",
+      "companies": [
+        "Astranis"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.apexspace.com/careers",
+      "companies": [
+        "Apex Space"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.apexspace.com/news/apex-announces-additional-fundraising-at-2b-valuation-to-scale-high-rate-satellite-production-for-proliferated-constellations",
+      "companies": [
+        "Apex Space"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.varda.com/careers",
+      "companies": [
+        "Varda Space Industries"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://axiomspace.com/careers",
+      "companies": [
+        "Axiom Space"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.sierraspace.com/careers/",
+      "companies": [
+        "Sierra Space"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.sierranevadacorp.net/careers/",
+      "companies": [
+        "Sierra Nevada Corporation"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.vastspace.com/careers",
+      "companies": [
+        "Vast"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.rdw.com/",
+      "companies": [
+        "Redwire"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/planetlabs",
+      "companies": [
+        "Planet Labs"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://spire.com/careers/",
+      "companies": [
+        "Spire Global"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.blacksky.com/careers/",
+      "companies": [
+        "BlackSky"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.capellaspace.com/careers",
+      "companies": [
+        "Capella Space"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://umbra.space/careers/",
+      "companies": [
+        "Umbra"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.lever.co/loftorbital",
+      "companies": [
+        "Loft Orbital"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.trueanomaly.space/careers",
+      "companies": [
+        "True Anomaly"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.castelion.com/careers/",
+      "companies": [
+        "Castelion"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.hadrian.co/careers",
+      "companies": [
+        "Hadrian"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://machindustries.com/careers",
+      "companies": [
+        "Mach Industries"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.epirusinc.com/careers",
+      "companies": [
+        "Epirus"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.forterra.com/careers",
+      "companies": [
+        "Forterra"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.appliedintuition.com/careers",
+      "companies": [
+        "Applied Intuition"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.appliedintuition.com/press-releases/series-f",
+      "companies": [
+        "Applied Intuition"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.figure.ai/careers",
+      "companies": [
+        "Figure AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://apptronik.com/careers/job-listings",
+      "companies": [
+        "Apptronik"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a",
+      "companies": [
+        "Apptronik"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.agilityrobotics.com/careers",
+      "companies": [
+        "Agility Robotics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://bostondynamics.com/careers",
+      "companies": [
+        "Boston Dynamics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.sanctuary.ai/careers",
+      "companies": [
+        "Sanctuary AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.1x.tech/careers",
+      "companies": [
+        "1X"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.pi.website/join-us",
+      "companies": [
+        "Physical Intelligence"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/skildai-careers",
+      "companies": [
+        "Skild AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.dexterity.ai/careers",
+      "companies": [
+        "Dexterity"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.geckorobotics.com/careers",
+      "companies": [
+        "Gecko Robotics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.geckorobotics.com/news/navy-idiq-expansion",
+      "companies": [
+        "Gecko Robotics"
+      ],
+      "uses": [
+        "contract_ceiling"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.zipline.com/about/careers",
+      "companies": [
+        "Zipline"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://rss.globenewswire.com/news-release/2026/01/21/3222432/0/en/zipline-surpasses-2-million-deliveries-raises-more-than-600m-to-power-next-phase-of-growth-and-expands-operations-to-houston-and-phoenix.html",
+      "companies": [
+        "Zipline"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.nuro.ai/careers",
+      "companies": [
+        "Nuro"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://aurora.tech/careers",
+      "companies": [
+        "Aurora Innovation"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://kodiak.ai/careers",
+      "companies": [
+        "Kodiak Robotics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/torcrobotics",
+      "companies": [
+        "Torc Robotics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.regeneron.com/",
+      "companies": [
+        "Regeneron"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/872589/000130817926000340/regn-20260424.htm",
+      "companies": [
+        "Regeneron"
+      ],
+      "uses": [
+        "retention",
+        "engagement"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.vrtx.com/careers/",
+      "companies": [
+        "Vertex Pharmaceuticals"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.gene.com/",
+      "companies": [
+        "Genentech / Roche"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.amgen.com/en/search-jobs",
+      "companies": [
+        "Amgen"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.lilly.com/us/en/home",
+      "companies": [
+        "Eli Lilly"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.novonordisk.com/careers.html",
+      "companies": [
+        "Novo Nordisk"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/nvo-20251231_d2.htm",
+      "companies": [
+        "Novo Nordisk"
+      ],
+      "uses": [
+        "restructuring"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.novartis.com/careers",
+      "companies": [
+        "Novartis"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.merck.com/us/en/search-results/",
+      "companies": [
+        "Merck"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.careers.jnj.com/",
+      "companies": [
+        "Johnson & Johnson"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.abbvie.com/join-us.html",
+      "companies": [
+        "AbbVie"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.gilead.com/careers",
+      "companies": [
+        "Gilead Sciences"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.astrazeneca.com/search-jobs/jobs",
+      "companies": [
+        "AstraZeneca"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.sanofi.com/en/search-jobs",
+      "companies": [
+        "Sanofi"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.pfizer.com/about/careers/search-results",
+      "companies": [
+        "Pfizer"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.bms.com/gb/do-not-use/careers.html",
+      "companies": [
+        "Bristol Myers Squibb"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.modernatx.com/en-US/careers",
+      "companies": [
+        "Moderna"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://investors.modernatx.com/statements-perspectives/moderna-announces-an-organizational-restructuring",
+      "companies": [
+        "Moderna"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.biontech.com/int/en/home/careers/working-at-biontech.html",
+      "companies": [
+        "BioNTech"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.alnylam.com/careers",
+      "companies": [
+        "Alnylam"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.biomarin.com/careers/jobs/",
+      "companies": [
+        "BioMarin"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.neurocrine.com/work-with-us/",
+      "companies": [
+        "Neurocrine Biosciences"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ionis.com/careers",
+      "companies": [
+        "Ionis Pharmaceuticals"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.intelliatx.com/careers/",
+      "companies": [
+        "Intellia Therapeutics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://crisprtherapeutics.applytojob.com/apply/",
+      "companies": [
+        "CRISPR Therapeutics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://beamtx.com/careers/",
+      "companies": [
+        "Beam Therapeutics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://recursion.com/careers",
+      "companies": [
+        "Recursion"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.tempus.com/careers/",
+      "companies": [
+        "Tempus AI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.benchling.com/careers",
+      "companies": [
+        "Benchling"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.insitro.com/join-us/",
+      "companies": [
+        "Insitro"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://generatebiomedicines.com/open-positions/",
+      "companies": [
+        "Generate Biomedicines"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.isomorphiclabs.com/careers",
+      "companies": [
+        "Isomorphic Labs"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.owkin.com/careers",
+      "companies": [
+        "Owkin"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.pathai.com/careers",
+      "companies": [
+        "PathAI"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.natera.com/company/careers/",
+      "companies": [
+        "Natera"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://guardanthealth.com/careers/",
+      "companies": [
+        "Guardant Health"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.exactsciences.com/",
+      "companies": [
+        "Exact Sciences"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.illumina.com/company/careers.html",
+      "companies": [
+        "Illumina"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.pacb.com/careers/",
+      "companies": [
+        "PacBio"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://nanoporetech.com/about/careers",
+      "companies": [
+        "Oxford Nanopore"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.10xgenomics.com/",
+      "companies": [
+        "10x Genomics"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.danaher.com/global/en",
+      "companies": [
+        "Danaher"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.thermofisher.com/global/en/",
+      "companies": [
+        "Thermo Fisher Scientific"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://corporate.thermofisher.com/csr/csr-report/talent-management",
+      "companies": [
+        "Thermo Fisher Scientific"
+      ],
+      "uses": [
+        "development"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://careers.agilent.com/",
+      "companies": [
+        "Agilent"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.waters.com/nextgen/en/about-waters/careers.html",
+      "companies": [
+        "Waters"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.mt.com/en/search-jobs",
+      "companies": [
+        "Mettler-Toledo"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.bruker.com/en/careers.html",
+      "companies": [
+        "Bruker"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.intuitive.com/",
+      "companies": [
+        "Intuitive Surgical"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.medtronic.com/en-us/our-company/careers.html",
+      "companies": [
+        "Medtronic"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.bostonscientific.com/",
+      "companies": [
+        "Boston Scientific"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.stryker.com/jobs",
+      "companies": [
+        "Stryker"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.resmed.com/",
+      "companies": [
+        "ResMed"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://investor.resmed.com/sec-filings/content/0000943819-25-000035/rmd-20250630.htm",
+      "companies": [
+        "ResMed"
+      ],
+      "uses": [
+        "retention"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.asml.com/en/careers/find-your-job",
+      "companies": [
+        "ASML"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.asml.com/en/investors/annual-report/2025/sustainability",
+      "companies": [
+        "ASML"
+      ],
+      "uses": [
+        "engagement"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.investor.asml.com/news-releases/news-release-details/strengthening-focus-on-engineering-and-innovation",
+      "companies": [
+        "ASML"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.tsmc.com/static/english/careers/it_career/index.html",
+      "companies": [
+        "TSMC"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.broadcom.com/company/careers",
+      "companies": [
+        "Broadcom"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.amd.com/en/corporate/careers.html",
+      "companies": [
+        "AMD"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://talentcommunity.arm.com/jobs/categories",
+      "companies": [
+        "Arm"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://careers.synopsys.com/en/search-jobs",
+      "companies": [
+        "Synopsys"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.cadence.com/en_US/home/company/careers.html",
+      "companies": [
+        "Cadence Design Systems"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/company/2025-cadence-corporate-impact-report.pdf",
+      "companies": [
+        "Cadence Design Systems"
+      ],
+      "uses": [
+        "tenure",
+        "retention"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.analog.com/en/careers.html",
+      "companies": [
+        "Analog Devices"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.ti.com/en/sites/CX",
+      "companies": [
+        "Texas Instruments"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://investor.ti.com/static-files/fc9d9346-cf77-40db-902a-e9961e9c5736",
+      "companies": [
+        "Texas Instruments"
+      ],
+      "uses": [
+        "retention"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.qualcomm.com/company/careers/faqs",
+      "companies": [
+        "Qualcomm"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.lamresearch.com/careers/apply",
+      "companies": [
+        "Lam Research"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.appliedmaterials.com/en/search-jobs",
+      "companies": [
+        "Applied Materials"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.kla.com/careers",
+      "companies": [
+        "KLA"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ir.kla.com/sec-filings/annual-reports/content/0000319201-26-000027/klac-20260630.htm",
+      "companies": [
+        "KLA"
+      ],
+      "uses": [
+        "retention"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://jobs.teradyne.com/Teradyne/",
+      "companies": [
+        "Teradyne"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://jobs.keysight.com/",
+      "companies": [
+        "Keysight Technologies"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://careers.fortive.com/",
+      "companies": [
+        "Fortive"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.ropertech.com/careers/",
+      "companies": [
+        "Roper Technologies"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://jobs.veralto.com/",
+      "companies": [
+        "Veralto"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.abb/global/en/",
+      "companies": [
+        "ABB"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.siemens.com/de-de/company/jobs/",
+      "companies": [
+        "Siemens"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.rockwellautomation.com/en-us/company/careers.html",
+      "companies": [
+        "Rockwell Automation"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.emerson.com/en/corporate/careers",
+      "companies": [
+        "Emerson"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.honeywell.com/en/sites/Honeywell/jobs",
+      "companies": [
+        "Honeywell"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://parkercareers.ttcportals.com/",
+      "companies": [
+        "Parker Hannifin"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://careers.tranetechnologies.com/global/en/home",
+      "companies": [
+        "Trane Technologies"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.johnsoncontrols.co.uk/Careers",
+      "companies": [
+        "Johnson Controls"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.hubbell.com/",
+      "companies": [
+        "Hubbell"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://about.gitlab.com/jobs/",
+      "companies": [
+        "GitLab"
+      ],
+      "uses": [
+        "Career link; not a verified live job count"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8500190002",
+      "companies": [
+        "GitLab"
+      ],
+      "uses": [
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://about.gitlab.com/company/culture/all-remote/",
+      "companies": [
+        "GitLab"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "companies": [
+        "GitLab"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+      "companies": [
+        "GitLab"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "independent_reporting"
+      ]
+    },
+    {
+      "url": "https://automattic.com/work-with-us/jobs/",
+      "companies": [
+        "Automattic"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://automattic.com/2025/04/02/restructuring-announcement/",
+      "companies": [
+        "Automattic"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://zapier.com/jobs",
+      "companies": [
+        "Zapier"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://buffer.com/journey",
+      "companies": [
+        "Buffer"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://buffer.com/timeoff",
+      "companies": [
+        "Buffer"
+      ],
+      "uses": [
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://buffer.com/resources/salary-system/",
+      "companies": [
+        "Buffer"
+      ],
+      "uses": [
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.todoist.com/careers",
+      "companies": [
+        "Doist"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://doist.com/careers",
+      "companies": [
+        "Doist"
+      ],
+      "uses": [
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.todoist.com/about-us",
+      "companies": [
+        "Doist"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://toggl.com/jobs/",
+      "companies": [
+        "Toggl"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://37signals.com/jobs",
+      "companies": [
+        "37signals"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://duckduckgo.com/hiring",
+      "companies": [
+        "DuckDuckGo"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "retention"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.mozilla.org/en-US/careers/",
+      "companies": [
+        "Mozilla"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://wikimediafoundation.org/jobs/",
+      "companies": [
+        "Wikimedia Foundation"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://canonical.com/careers/all",
+      "companies": [
+        "Canonical"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://canonical.com/careers/company-culture/remote-work",
+      "companies": [
+        "Canonical"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://grafana.com/careers/",
+      "companies": [
+        "Grafana Labs"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://grafana.com/press/2025/09/30/grafana-labs-surpasses-400m-arr-and-7000-customers-gains-new-investors-to-accelerate-global-expansion/",
+      "companies": [
+        "Grafana Labs"
+      ],
+      "uses": [
+        "secondary"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://supabase.com/careers",
+      "companies": [
+        "Supabase"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://supabase.com/blog/series-f",
+      "companies": [
+        "Supabase"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.netlify.com/careers/",
+      "companies": [
+        "Netlify"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.atlassian.com/company/careers",
+      "companies": [
+        "Atlassian"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.atlassian.com/company/careers/teamanywhere",
+      "companies": [
+        "Atlassian"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://www.atlassian.com/blog/announcements/atlassian-team-update-march-2026",
+      "companies": [
+        "Atlassian"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.dropbox.jobs/",
+      "companies": [
+        "Dropbox"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://blog.dropbox.com/topics/company/an-update-on-organizational-changes-2026",
+      "companies": [
+        "Dropbox"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://careers.airbnb.com/",
+      "companies": [
+        "Airbnb"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://careers.airbnb.com/life-at-airbnb/",
+      "companies": [
+        "Airbnb"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://jobs.lever.co/spotify",
+      "companies": [
+        "Spotify"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.hubspot.com/careers/jobs/all",
+      "companies": [
+        "HubSpot"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.hubspot.com/company-news/company-update",
+      "companies": [
+        "HubSpot"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://www.redditinc.com/careers",
+      "companies": [
+        "Reddit"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://block.xyz/careers",
+      "companies": [
+        "Block"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.investing.com/news/economy-news/jack-dorseys-block-to-cut-over-4000-jobs-as-ai-use-expands-shares-surge-4529839",
+      "companies": [
+        "Block"
+      ],
+      "uses": [
+        "workforce"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "reuters_syndication"
+      ]
+    },
+    {
+      "url": "https://www.coinbase.com/careers/positions",
+      "companies": [
+        "Coinbase"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://stripe.com/jobs",
+      "companies": [
+        "Stripe"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://plaid.com/careers/",
+      "companies": [
+        "Plaid"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.brex.com/careers",
+      "companies": [
+        "Brex"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://mercury.com/jobs",
+      "companies": [
+        "Mercury"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://ramp.com/careers",
+      "companies": [
+        "Ramp"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://www.deel.com/careers/",
+      "companies": [
+        "Deel"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.deel.com/blog/the-deel-hiring-experience/",
+      "companies": [
+        "Deel"
+      ],
+      "uses": [
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://remote.com/careers",
+      "companies": [
+        "Remote"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.oysterhr.com/careers",
+      "companies": [
+        "Oyster"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://safetywing.pinpointhq.com/",
+      "companies": [
+        "SafetyWing"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.testgorilla.com/hiring-at-testgorilla/",
+      "companies": [
+        "TestGorilla"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://posthog.com/careers",
+      "companies": [
+        "PostHog"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.helpscout.com/company/careers/",
+      "companies": [
+        "Help Scout"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "benefits",
+        "Role-specific advertised compensation"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim",
+        "Specific BDR opening. OTE includes variable earnings; benefits and commissions must be confirmed."
+      ]
+    },
+    {
+      "url": "https://customer.io/careers",
+      "companies": [
+        "Customer.io"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://kit.com/careers",
+      "companies": [
+        "Kit"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://www.beehiiv.com/careers",
+      "companies": [
+        "beehiiv"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://ghost.org/about/",
+      "companies": [
+        "Ghost"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.discourse.org/jobs",
+      "companies": [
+        "Discourse"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://motherduck.com/careers/",
+      "companies": [
+        "MotherDuck"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://clickhouse.com/company/careers",
+      "companies": [
+        "ClickHouse"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.getdbt.com/about-us/careers",
+      "companies": [
+        "dbt Labs"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": []
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/dbtlabsinc/jobs/4587097005",
+      "companies": [
+        "dbt Labs"
+      ],
+      "uses": [
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Limited/blocked/thin read"
+      ]
+    },
+    {
+      "url": "https://temporal.io/careers",
+      "companies": [
+        "Temporal"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://temporal.io/news/temporal-raises-550m-at-a-12-55b-valuation",
+      "companies": [
+        "Temporal"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://tailscale.com/careers",
+      "companies": [
+        "Tailscale"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://tailscale.com/blog/series-c",
+      "companies": [
+        "Tailscale"
+      ],
+      "uses": [
+        "capital"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/tailscale/jobs/4738677005",
+      "companies": [
+        "Tailscale"
+      ],
+      "uses": [
+        "Role-specific advertised compensation"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Role explicitly describes OTE. Base/commission split and actual quota attainment must be confirmed."
+      ]
+    },
+    {
+      "url": "https://1password.com/careers",
+      "companies": [
+        "1Password"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://1password.com/press/2026/october/1password-surpasses-500-million-arr",
+      "companies": [
+        "1Password"
+      ],
+      "uses": [
+        "business"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "primary"
+      ]
+    },
+    {
+      "url": "https://bitwarden.com/careers/",
+      "companies": [
+        "Bitwarden"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example",
+        "benefits"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read",
+        "employer_claim"
+      ]
+    },
+    {
+      "url": "https://proton.me/careers",
+      "companies": [
+        "Proton"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://n8n.io/careers/",
+      "companies": [
+        "n8n"
+      ],
+      "uses": [
+        "Career link; not a verified live job count",
+        "Career evidence attempt",
+        "Workplace policy or role example"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Substantive read"
+      ]
+    },
+    {
+      "url": "https://www.iea.org/reports/world-energy-employment-2025/executive-summary",
+      "companies": [],
+      "uses": [
+        "IEA: World Energy Employment 2025"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Energy employment context; not a forecast of any listed employer’s hiring."
+      ]
+    },
+    {
+      "url": "https://hai.stanford.edu/ai-index",
+      "companies": [],
+      "uses": [
+        "Stanford HAI: 2026 AI Index"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "AI market context; investment does not establish job security."
+      ]
+    },
+    {
+      "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+      "companies": [],
+      "uses": [
+        "Stanford Digital Economy Lab: Canaries in the Coal Mine"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Labor effects are uneven across groups and occupations."
+      ]
+    },
+    {
+      "url": "https://www.semiconductors.org/chipping-away-assessing-and-addressing-the-labor-market-gap-facing-the-u-s-semiconductor-industry/",
+      "companies": [],
+      "uses": [
+        "SIA/Oxford Economics: semiconductor workforce gap"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "2023 scenario through 2030, not a count of current vacancies."
+      ]
+    },
+    {
+      "url": "https://marketing.biospace.com/hubfs/Insight%20Reports%20and%20Surveys/202601%20-%202026%20Employment%20Outlook%20Report/BioSpace%20-%202026%20Employment%20Outlook%20Report.pdf",
+      "companies": [],
+      "uses": [
+        "BioSpace: 2026 employment outlook survey"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Survey-based industry risk context; not a representative rating of all employers."
+      ]
+    },
+    {
+      "url": "https://www.bls.gov/news.release/tenure.htm",
+      "companies": [],
+      "uses": [
+        "BLS: Employee tenure, January 2026"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "Economy-wide reference, not employer retention data."
+      ]
+    },
+    {
+      "url": "https://www.visier.com/blog/true-cost-layoff-boomerangs/",
+      "companies": [],
+      "uses": [
+        "Visier: cost of layoff boomerangs"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "A return can reflect layoff reversal; distinguish voluntary departures and denominator."
+      ]
+    },
+    {
+      "url": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area",
+      "companies": [],
+      "uses": [
+        "BEA: Regional Price Parities"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "2024 metro price levels released in 2026."
+      ]
+    },
+    {
+      "url": "https://fred.stlouisfed.org/release/tables?eid=233895&rid=403&snid=234317",
+      "companies": [],
+      "uses": [
+        "FRED/BEA metro Regional Price Parity table"
+      ],
+      "checkedAt": "2026-10-29",
+      "notes": [
+        "All-items metro index with US=100; not current rent or after-tax spending."
+      ]
+    }
+  ]
+}

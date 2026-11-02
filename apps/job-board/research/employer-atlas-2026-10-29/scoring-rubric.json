@@ -1,0 +1,132 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-10-30",
+  "title": "The candidate-first scorecard",
+  "minimumSupportedCoverage": 70,
+  "requiredDimensions": [
+    "people",
+    "role",
+    "business"
+  ],
+  "gradeBands": [
+    {
+      "letter": "A",
+      "min": 85,
+      "label": "Front of the queue"
+    },
+    {
+      "letter": "B",
+      "min": 70,
+      "label": "Worth a conversation"
+    },
+    {
+      "letter": "C",
+      "min": 50,
+      "label": "Tradeoffs to resolve"
+    },
+    {
+      "letter": "D",
+      "min": 0,
+      "label": "Not my fit right now"
+    }
+  ],
+  "anchorLabels": [
+    "Stop signal",
+    "Weak fit",
+    "Meets my needs",
+    "Strong fit",
+    "Standout"
+  ],
+  "dimensions": [
+    {
+      "id": "people",
+      "title": "People & trust",
+      "weight": 25,
+      "question": "Would I recommend this team to a friend?",
+      "legacyLabel": "Team quality, retention and employee treatment",
+      "anchors": [
+        "Credible, unresolved evidence of harmful management or employee treatment on the relevant team.",
+        "Repeated relevant concerns about churn, trust or manager behavior; explanations are weak.",
+        "Manager expectations and recent team history are acceptable, with specific concerns resolved.",
+        "Current and former colleagues corroborate supportive management, usable leave and internal growth.",
+        "Strong, recent team evidence from multiple perspectives, clear retention definitions and credible voluntary return or referral behavior."
+      ],
+      "guidance": "Ask why the last three people left, how missed goals are handled and whether respected former colleagues would return. Compare like-for-like turnover periods; overall turnover is not voluntary attrition."
+    },
+    {
+      "id": "role",
+      "title": "Role & growth",
+      "weight": 20,
+      "question": "Will I get better at work I actually care about?",
+      "legacyLabel": "Role fit and learning",
+      "anchors": [
+        "The actual work, qualifications or mission conflicts with your goals or requirements.",
+        "Responsibilities are weakly aligned; ownership or learning is limited.",
+        "Core responsibilities fit, with a clear manager and acceptable learning opportunities.",
+        "The written role offers useful ownership, transferable skills and a believable growth path.",
+        "Exceptional match to your priorities, with concrete scope, resources, mentorship and evidence of internal progression."
+      ],
+      "guidance": "Use a real role and team, not a company slogan. Verify the reporting line, first six months, decision authority and what the last person moved on to."
+    },
+    {
+      "id": "business",
+      "title": "Business & runway",
+      "weight": 20,
+      "question": "Is this particular seat backed by a real plan?",
+      "legacyLabel": "Business durability and funded role",
+      "anchors": [
+        "Credible current evidence that the role is unfunded or the relevant business cannot sustain its commitments.",
+        "Concentrated financing, customer or program risk with an unclear funded plan.",
+        "A credible operating plan and approved headcount, with material risks understood.",
+        "Recent financial or customer evidence supports the team and its next milestone; downside scenarios have specific answers.",
+        "Resilient economics or appropriately financed milestones, credible customer demand and a clearly funded role through a plausible downside."
+      ],
+      "guidance": "For public firms, inspect the business unit and cash generation. For startups, distinguish primary equity, debt and secondary sales; ask about cash, burn and funded milestones. Famous investors alone do not earn points."
+    },
+    {
+      "id": "pay",
+      "title": "Pay & benefits",
+      "weight": 15,
+      "question": "Does guaranteed cash support the life I want?",
+      "legacyLabel": "Guaranteed compensation and benefits",
+      "anchors": [
+        "Written guaranteed compensation fails your non-negotiable floor or benefit needs.",
+        "Below matched-role alternatives or material benefit and repayment gaps.",
+        "Written base and usable benefits meet your floor and a reasonable matched-role comparison.",
+        "Competitive guaranteed pay and benefits versus comparable role, level and location offers.",
+        "An unusually strong documented package for the matched role, with valuable usable benefits and transparent terms."
+      ],
+      "guidance": "Separate base, target variable pay, public equity and private options. OTE is not base. Use matched roles and current benefit documents; do not compare an account executive with an engineer."
+    },
+    {
+      "id": "flex",
+      "title": "Flexibility & life",
+      "weight": 15,
+      "question": "Can this job fit into my actual week?",
+      "legacyLabel": "Workplace flexibility and travel",
+      "anchors": [
+        "The written office, eligibility, hours or travel requirements fail a hard constraint.",
+        "Frequent travel, rigid hours or office rules impose significant unwanted tradeoffs.",
+        "Job-specific location, days, hours and travel meet your requirements.",
+        "Written flexibility plus team practice gives you meaningful control and usable time off.",
+        "Excellent autonomy, predictable travel and sustainable working practices corroborated for the actual team and eligible location."
+      ],
+      "guidance": "Confirm legal work location, payroll country, office radius, exact weekdays, core hours, travel and offsites. Remote-first alone is not worldwide eligibility or low hours."
+    },
+    {
+      "id": "location",
+      "title": "Location & living",
+      "weight": 5,
+      "question": "What is left after living a real life?",
+      "legacyLabel": "Location economics",
+      "anchors": [
+        "A realistic household budget is infeasible on guaranteed cash.",
+        "After-tax cash, housing, care and commuting leave an unacceptably small buffer.",
+        "A realistic household budget leaves an acceptable buffer and workable commute.",
+        "Healthy monthly margin, manageable commute and a location you want to live in.",
+        "An unusually strong personal budget and lifestyle fit, including downside savings and relocation costs."
+      ],
+      "guidance": "Use household-specific taxes, housing, care, commuting and guaranteed pay. The atlas’s 2024 metro price index is context, not a current personal budget."
+    }
+  ]
+}

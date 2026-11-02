@@ -1,0 +1,61 @@
+﻿company,mode,note,officeDaysPerWeek,scope,source,checkedAt
+Anthropic,hybrid,Employer says staff attend offices regularly; the exact current requirement must be verified in the posting.,,,https://www.anthropic.com/careers,2026-10-29
+OpenAI,mixed,Office-based and remote listings coexist; no company-wide office-day count is inferred.,,,https://openai.com/careers/,2026-10-29
+Microsoft,mixed,Work-site expectations are specified per role; confirm the current office requirement in writing.,,,https://careers.microsoft.com/v2/global/en/life-at-microsoft/benefits.html,2026-10-29
+Hugging Face,remote_roles,Official Workable example is EMEA remote; that does not establish US eligibility for the same role.,,,https://apply.workable.com/huggingface/j/81B46579FE,2026-10-29
+Cohere,remote_first,Globally dispersed team with remote support and optional coworking; team locations vary.,,,https://cohere.com/careers,2026-10-29
+Glean,hybrid,Careers page describes most teams working four days in office and one from home; remote exceptions exist.,4,,https://www.glean.com/careers,2026-10-29
+LlamaIndex,mixed,Supports remote/hybrid work and has a San Francisco office; individual team rules matter.,,,https://www.llamaindex.ai/careers,2026-10-29
+Runway,mixed,Global remote team alongside office roles; verify the actual team and location.,,,https://runway.com/careers,2026-10-29
+Replit,hybrid,"Careers page lists Monday/Wednesday/Friday office days for most teams, with some remote roles.",3,,https://replit.com/careers,2026-10-29
+Vercel,mixed,One current engineering listing requires Mon/Tue/Fri anchor days near designated offices; applicants beyond the commuting radius may be remote.,3,single_engineering_role,https://vercel.com/careers/software-engineer-accounts-5430088004,2026-10-29
+Cloudflare,mixed,"In-hub, hybrid and distributed roles; remote status is assigned to a role and country.",,,https://www.cloudflare.com/careers/,2026-10-29
+MongoDB,mixed,"Different work models: in-office 3–5 days, flexible 1–2 days, or fully remote. Identify the model attached to the vacancy.",,,https://www.mongodb.com/company/careers,2026-10-29
+Elastic,remote_first,Distributed work model; individual listings determine geography and any office requirements.,,,https://www.elastic.co/careers,2026-10-29
+Weaviate,fully_remote,Employer describes all positions as remote; each opening still specifies eligible regions.,,,https://weaviate.io/company/careers,2026-10-29
+Linear,remote_first,Remote team with optional offices; confirm role region and overlap requirements.,,,https://linear.app/careers,2026-10-29
+TerraPower,remote_roles,Reviewed principal licensing-engineer posting is remote with travel; this is not a company-wide remote promise.,,,https://job-boards.greenhouse.io/terrapowerllc/jobs/4370694009,2026-10-29
+Type One Energy,mixed,Careers materials describe distributed/hybrid teams; laboratory and project responsibilities may require presence.,,,https://typeoneenergy.com/careers/,2026-10-29
+Form Energy,mixed,Manufacturing and office sites coexist with some remote roles; workplace status must be read per posting.,,,https://formenergy.com/careers/,2026-10-29
+Antora Energy,mixed,Employer describes in-person Home Week gatherings; inspect whether the target role is remote or site-based.,,,https://www.antora.com/careers,2026-10-29
+GitLab,remote_first,All-remote operating model; legal hiring countries and individual roles still limit eligibility.,,,https://about.gitlab.com/company/culture/all-remote/,2026-10-29
+Automattic,remote_first,"Distributed work model; confirm meeting travel, country eligibility and team hours.",,,https://automattic.com/work-with-us/jobs/,2026-10-29
+Zapier,remote_first,Remote-first with async communication and in-person summits.,,,https://zapier.com/jobs,2026-10-29
+Buffer,fully_remote,Fully remote and four-day workweek; confirm the actual team schedule and available openings.,,,https://buffer.com/journey,2026-10-29
+Todoist / Doist,remote_first,Todoist describes remote and asynchronous work by design; country and role eligibility still require confirmation.,,,https://www.todoist.com/about-us,2026-10-29
+Toggl,fully_remote,Employer describes fully remote work and company gatherings; travel expectations matter.,,,https://toggl.com/jobs/,2026-10-29
+37signals,fully_remote,Remote company; role geography and overlap hours are separate requirements.,,,https://37signals.com/jobs,2026-10-29
+DuckDuckGo,remote_first,Distributed remote workforce; confirm supported hiring country and trial-process terms.,,,https://duckduckgo.com/hiring,2026-10-29
+Mozilla,remote_first,"Remote-oriented employer; employment entity, role geography and team expectations vary.",,,https://www.mozilla.org/en-US/careers/,2026-10-29
+Wikimedia Foundation,remote_roles,Remote opportunities are advertised by eligible region; this is not worldwide permission.,,,https://wikimediafoundation.org/jobs/,2026-10-29
+Canonical,remote_first,"Remote-first, distributed organization with company gatherings; verify travel and hiring process.",,,https://canonical.com/careers/company-culture/remote-work,2026-10-29
+Grafana Labs,remote_first,"Remote-first organization; pay geography, travel and role eligibility vary.",,,https://grafana.com/careers/,2026-10-29
+Supabase,remote_first,"Remote and async model; roles may specify AMER, EMEA, APAC or travel requirements.",,,https://supabase.com/careers,2026-10-29
+Netlify,remote_first,Distributed remote-first team; confirm the employer’s legal hiring locations.,,,https://www.netlify.com/careers/,2026-10-29
+Atlassian,remote_first,"Team Anywhere requires a supported legal entity, work rights, timezone fit and team approval.",,,https://www.atlassian.com/company/careers/teamanywhere,2026-10-29
+Dropbox,remote_first,Virtual First includes intentional in-person collaboration; confirm current team rules after restructuring.,,,https://www.dropbox.jobs/,2026-10-29
+Airbnb,remote_roles,Live and Work Anywhere has jurisdiction and role exceptions; eligible residence must be confirmed.,,,https://careers.airbnb.com/life-at-airbnb/,2026-10-29
+Spotify,remote_roles,"Work From Anywhere has role, region and timezone constraints; not every vacancy is remote.",,,https://jobs.lever.co/spotify,2026-10-29
+HubSpot,remote_roles,Current remote job examples exist; confirm the specific work option and geography.,,,https://www.hubspot.com/careers/jobs/all,2026-10-29
+Reddit,remote_roles,Advertises remote roles in specified countries/regions; no universal worldwide policy is inferred.,,,https://www.redditinc.com/careers,2026-10-29
+Block,remote_roles,Advertises remote opportunities; verify the business unit and eligibility after restructuring.,,,https://block.xyz/careers,2026-10-29
+Coinbase,remote_roles,Remote opportunities exist; offsite attendance and country permissions need role-level confirmation.,,,https://www.coinbase.com/careers/positions,2026-10-29
+Mercury,remote_roles,Listings include office or remote options; country eligibility and travel vary.,,,https://mercury.com/jobs,2026-10-29
+Deel,remote_first,Employer describes its own globally distributed workforce; role geography and employing entity vary.,,,https://www.deel.com/blog/the-deel-hiring-experience/,2026-10-29
+Remote,remote_first,Distributed workforce; country-specific benefits and working-hour expectations apply.,,,https://remote.com/careers,2026-10-29
+Oyster,remote_first,Fully remote employer; supported residence and employee-versus-contractor terms need checking.,,,https://www.oysterhr.com/careers,2026-10-29
+SafetyWing,fully_remote,Employer’s Pinpoint board describes a fully remote distributed team.,,,https://safetywing.pinpointhq.com/,2026-10-29
+TestGorilla,fully_remote,Remote model with explicit supported-country and employment-type rules; no blanket visa sponsorship.,,,https://www.testgorilla.com/hiring-at-testgorilla/,2026-10-29
+PostHog,remote_first,"Remote model with high autonomy; assess ambiguity, working hours and scope stability.",,,https://posthog.com/careers,2026-10-29
+Help Scout,remote_first,"Remote-first company; several roles, including the reviewed BDR example, are US-only.",,,https://www.helpscout.com/company/careers/,2026-10-29
+Customer.io,remote_first,Distributed team; some benefits and roles are specific to a country.,,,https://customer.io/careers,2026-10-29
+Kit,remote_first,Distributed asynchronous team; benefits and employment eligibility vary by country.,,,https://kit.com/careers,2026-10-29
+Ghost,fully_remote,Nonprofit says it has operated without an office since 2013; role eligibility remains separate.,,,https://ghost.org/about/,2026-10-29
+Discourse,remote_first,Distributed open-source company; inspect current openings and region restrictions.,,,https://www.discourse.org/jobs,2026-10-29
+ClickHouse,remote_roles,Official careers page includes remote engineering roles; verify commercial-role geography separately.,,,https://clickhouse.com/company/careers,2026-10-29
+dbt Labs,remote_first,Official careers page describes a remote-first company and location-specific openings.,,,https://www.getdbt.com/about-us/careers,2026-10-29
+Temporal,remote_first,Remote-first with location-specific roles and team gatherings; confirm current hub expectations.,,,https://temporal.io/careers,2026-10-29
+Tailscale,mixed,Most staff can work remotely; some sales roles have office attendance a few days per week.,,,https://tailscale.com/careers,2026-10-29
+1Password,remote_first,Remote-first with intentional in-person collaboration; expectations vary by role.,,,https://1password.com/careers,2026-10-29
+Bitwarden,fully_remote,Fully distributed team; many roles have explicit country or region limits.,,,https://bitwarden.com/careers/,2026-10-29
+n8n,remote_first,"Remote-first across Europe, the UK and select US locations; offices/workspaces are optional for some teams.",,,https://n8n.io/careers/,2026-10-29
