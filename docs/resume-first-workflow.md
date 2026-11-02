@@ -10,6 +10,8 @@ For LinkedIn, use an authorized supported connection or accessible profile conte
 
 Extract employers, roles, dates, education, skills, projects, accomplishments and contact fields into a structured preview. Preserve historical titles and the candidate's attribution. Flag conflicting dates, ambiguous numbers, OCR uncertainty, missing text, and unclear personal versus team ownership. Do not silently resolve conflicts or invent missing facts. A PDF's visual layout cannot always be reconstructed exactly; preserve content separately and preview the chosen template.
 
+When extraction separates titles from dates or changes reading order, use the rendered page and source coordinates to associate entries. Show source disagreements separately from the composed resume. Preserve superseded wording alongside later candidate corrections, including separate date ranges for concurrent roles and promotions.
+
 ## 2. Conduct a short reverse interview
 
 Ask two or three useful questions at a time, accepting voice-to-text or unstructured answers. Focus on the biggest gaps in the extracted record:
@@ -19,6 +21,8 @@ Ask two or three useful questions at a time, accepting voice-to-text or unstruct
 - What was the scope, period and evidence? If no numeric result exists, ask for an observable outcome.
 
 Do not demand metrics for every bullet. Do not suggest hypothetical examples and then save them as accomplished work. Restate newly extracted claims for confirmation, including qualifications or limits. Request follow-ups only when they materially improve accuracy or usefulness.
+
+On resuming a session, read the private extraction, interview answers and candidate-identified repository evidence before repeating questions. Show what is already settled and ask only about unresolved details. A source document can support a follow-up without establishing the candidate's personal ownership automatically.
 
 ## 3. Build the master fact library
 
@@ -57,3 +61,5 @@ Still to develop: one cohesive intake → parsing → interview → confirmation
 Success means the candidate can upload their real resume, correct an extraction preview, answer a short interview, confirm reusable facts, choose a target job, review multiple source-backed edits in the same template, and export a readable, accurate application while retaining the full evidence library.
 
 Follow AGENTS.md's weekly testing policy. Preserve private source files, contact details, browser data and application drafts outside tracked public content.
+
+See [the implementation handoff](handoff.md) for the latest reusable walkthrough findings. Candidate-specific continuation prompts and corrections remain private.
